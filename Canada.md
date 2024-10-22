@@ -9,7 +9,9 @@
   * https://imomath.com/othercomp/Can/CanMO94.pdf
 * 
 
-
+## 1969:
+* https://cms.math.ca/wp-content/uploads/2019/07/exam1969.pdf
+* 
 
 
 

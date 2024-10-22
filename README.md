@@ -12,6 +12,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://cms.math.ca/competitions/problem-solving-resources/
 * <https://artofproblemsolving.com/community/c3277_canada_national_olympiad>
 * https://imomath.com/index.cgi?page=collectionCan
+* https://cage.ugent.be/~hvernaev/olympiad.html
 * 
 
 ## 1994:

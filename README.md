@@ -8,13 +8,17 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## CANADA NATIONAL OLYMPIAD:
+* https://cms.math.ca/competitions/cmo/
+  * https://cms.math.ca/competitions/problem-solving-resources/
 * <https://artofproblemsolving.com/community/c3277_canada_national_olympiad>
+* https://imomath.com/index.cgi?page=collectionCan
 * 
 
 ## 1994:
 * Canada: <https://artofproblemsolving.com/community/c5039_1994_canada_national_olympiad>
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://cms.math.ca/wp-content/uploads/2019/07/exam1994.pdf
+  * https://imomath.com/othercomp/Can/CanMO94.pdf
 * 
 
 ## 1953:

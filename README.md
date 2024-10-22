@@ -16,7 +16,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1994:
-* Canada: <https://artofproblemsolving.com/community/c5039_1994_canada_national_olympiad>
+* 1994 Canada National Olympiad: <https://artofproblemsolving.com/community/c5039_1994_canada_national_olympiad>
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://cms.math.ca/wp-content/uploads/2019/07/exam1994.pdf
   * https://imomath.com/othercomp/Can/CanMO94.pdf

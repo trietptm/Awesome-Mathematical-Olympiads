@@ -32,6 +32,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://archom.ptm.org.pl/?q=node/1698
 * 
 
+## 1950:
+* 1950 Polish MO Finals: <https://artofproblemsolving.com/community/c3990422_1950_polish_mo_finals>
+* 
 
 
 

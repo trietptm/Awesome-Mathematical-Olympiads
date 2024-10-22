@@ -27,6 +27,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://artofproblemsolving.com/community/c5014_1969_canada_national_olympiad
 * 
 
+## 1961:
+* 1961 Leningrad Math Olympiad: <https://artofproblemsolving.com/community/c3983442_1961_leningrad_math_olympiad>
+* 
+
 ## 1953:
 * 1953 Polish MO Finals: https://artofproblemsolving.com/community/c3981021
   * https://archom.ptm.org.pl/?q=node/1698
@@ -34,6 +38,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1950:
 * 1950 Polish MO Finals: <https://artofproblemsolving.com/community/c3990422_1950_polish_mo_finals>
+* 1950 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918073_1950_moscow_mathematical_olympiad>
+* 
+
+## 1935:
+* 1935 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908733_1935_moscow_mathematical_olympiad>
 * 
 
 

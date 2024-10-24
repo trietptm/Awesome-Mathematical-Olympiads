@@ -47,12 +47,24 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c915845_balkan_mo_shortlist>
 * 
 
+## IBEROAMERICAN (FROM 1985):
+* <https://artofproblemsolving.com/community/c3229_iberoamerican>
+* 
+
 ## CONO SUR OLYMPIAD (FROM 1989):
 * <https://artofproblemsolving.com/community/c3234_cono_sur_olympiad>
 * 
 
+## HUNGARY-ISRAEL BINATIONAL (FROM 1990):
+* <https://artofproblemsolving.com/community/c3236_hungaryisrael_binational>
+* 
+
 ## BALTIC WAY (FROM 1990):
 * https://artofproblemsolving.com/community/c3231_baltic_way
+* 
+
+## IMC:
+* <https://artofproblemsolving.com/community/c3250_imc>
 * 
 
 ## CZECH-POLISH-SLOVAK MATCH (FROM 1995):
@@ -77,6 +89,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## EUROPEAN MATHEMATICAL CUP (FROM 2012):
 * <https://artofproblemsolving.com/community/c3248_european_mathematical_cup>
+* 
+
+## GULF MATH OLYMPIAD (FROM 2012):
+* <https://artofproblemsolving.com/community/c525584_gulf_math_olympiad>
 * 
 
 ## CAUCASUS MATHEMATICAL OLYMPIAD (FROM 2015):
@@ -107,6 +123,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
 * 2012 European Mathematical Cup: <https://artofproblemsolving.com/community/c138269_2012_european_mathematical_cup>
+* 2012 Gulf Math Olympiad: <https://artofproblemsolving.com/community/c525576_2012_gulf_math_olympiad>
 * 
 
 ## 2009:
@@ -134,15 +151,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://artofproblemsolving.com/community/c5039_1994_canada_national_olympiad>
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://imomath.com/othercomp/Can/CanMO94.pdf
+* 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
 * 
 
 ## 1990:
+* 1990 Hungary-Israel Binational: <https://artofproblemsolving.com/community/c3502_1990_hungaryisrael_binational>
 * 1990 Baltic Way: <https://artofproblemsolving.com/community/c5129_1990_baltic_way>
 * 
 
 ## 1989:
 * 1989 APMO: https://artofproblemsolving.com/community/c4106_1989_apmo
 * 1989 Cono Sur Olympiad: <https://artofproblemsolving.com/community/c5470_1989_cono_sur_olympiad>
+* 
+
+## 1985:
+* 1985 IberoAmerican: <https://artofproblemsolving.com/community/c4526_1985_iberoamerican>
 * 
 
 ## 1984:

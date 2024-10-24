@@ -1,7 +1,7 @@
 # Awesome-Mathematical-Olympiads
 Awesome Mathematical Olympiads/Competitions/Contests
 
-## IMO:
+## IMO (FROM 1959):
 * IMO: <https://artofproblemsolving.com/community/c3222_imo>
 * IMO Shortlist: <https://artofproblemsolving.com/community/c3223_imo_shortlist>
 * IMO Longlists: <https://artofproblemsolving.com/community/c3224_imo_longlists>
@@ -9,7 +9,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://prase.cz/kalva/ ; https://prase.cz/kalva/index2.html
 * 
 
-## APMO:
+## APMO (FROM 1989):
 * APMO: https://artofproblemsolving.com/community/c3226_apmo
 * 
 

@@ -19,6 +19,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Polish Mathematical Olympiad Finals (Polish MO Finals): <https://artofproblemsolving.com/community/c3359_polish_mo_finals>
 * 
 
+## SERBIA TEAM SELECTION TEST, YUGOSLAV TEAM SELECTION TEST (FROM 1968):
+* <https://artofproblemsolving.com/community/c3376_serbia_team_selection_test>
+* 
+
 ## CANADA NATIONAL OLYMPIAD (FROM 1969):
 * https://cms.math.ca/competitions/cmo/
   * https://cms.math.ca/competitions/problem-solving-resources/
@@ -97,6 +101,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1969:
 * 1969 Canada National Olympiad: https://cms.math.ca/wp-content/uploads/2019/07/exam1969.pdf
   * https://artofproblemsolving.com/community/c5014_1969_canada_national_olympiad
+* 
+
+## 1968:
+* 1968 Yugoslav Team Selection Test: <https://artofproblemsolving.com/community/c2014656_1968_yugoslav_team_selection_test>
 * 
 
 ## 1966:

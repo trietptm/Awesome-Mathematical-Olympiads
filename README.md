@@ -13,6 +13,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * APMO: https://artofproblemsolving.com/community/c3226_apmo
 * 
 
+## EGMO (FROM 2012):
+* <https://artofproblemsolving.com/community/c3246_egmo>
+* 
+
 ## POLISH MATHEMATICAL OLYMPIAD (POLISH MO) (FROM 1950):
 * https://om.sem.edu.pl/problems/
 * https://archom.ptm.org.pl/
@@ -43,24 +47,66 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c915845_balkan_mo_shortlist>
 * 
 
+## CONO SUR OLYMPIAD (FROM 1989):
+* <https://artofproblemsolving.com/community/c3234_cono_sur_olympiad>
+* 
+
 ## BALTIC WAY (FROM 1990):
 * https://artofproblemsolving.com/community/c3231_baltic_way
+* 
+
+## CZECH-POLISH-SLOVAK MATCH (FROM 1995):
+* <https://artofproblemsolving.com/community/c3244_czechpolishslovak_match>
 * 
 
 ## CENTROAMERICAN (FROM 1999):
 * <https://artofproblemsolving.com/community/c3230_centroamerican>
 * 
 
+## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
+* <https://artofproblemsolving.com/community/c551206_danube_competition_in_mathematics>
+* 
+
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
+* 
+
+## CZECH-POLISH-SLOVAK JUNIOR MATCH (FROM 2012):
+* <https://artofproblemsolving.com/community/c1094147_czechpolishslovak_junior_match>
+* 
+
+## EUROPEAN MATHEMATICAL CUP (FROM 2012):
+* <https://artofproblemsolving.com/community/c3248_european_mathematical_cup>
 * 
 
 ## CAUCASUS MATHEMATICAL OLYMPIAD (FROM 2015):
 * <https://artofproblemsolving.com/community/c629086_caucasus_mathematical_olympiad>
 * 
 
+## FINAL MATHEMATICAL CUP (FROM 2019):
+* <https://artofproblemsolving.com/community/c1332826_final_mathematical_cup>
+* 
+
+## FRANCOPHONE MATHEMATICAL OLYMPIAD (FROM 2020):
+* <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
+* 
+
+## 2020:
+* 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
+* 
+
+## 2019:
+* 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
+* 
+
 ## 2015:
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
+* 
+
+## 2012:
+* 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
+* 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
+* 2012 European Mathematical Cup: <https://artofproblemsolving.com/community/c138269_2012_european_mathematical_cup>
 * 
 
 ## 2009:
@@ -71,8 +117,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2007 Balkan MO Shortlist: <https://artofproblemsolving.com/community/c1120588_2007_balkan_mo_shortlist>
 * 
 
+## 2005:
+* 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
+* 
+
 ## 1999:
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
+* 
+
+## 1995:
+* 1995 Czech and Slovak Match: <https://artofproblemsolving.com/community/c705957_1995_czech_and_slovak_match>
 * 
 
 ## 1994:
@@ -88,6 +142,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1989:
 * 1989 APMO: https://artofproblemsolving.com/community/c4106_1989_apmo
+* 1989 Cono Sur Olympiad: <https://artofproblemsolving.com/community/c5470_1989_cono_sur_olympiad>
 * 
 
 ## 1984:

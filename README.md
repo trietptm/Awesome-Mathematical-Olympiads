@@ -22,6 +22,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * **JBMO SHORTLISTS (FROM 2000)**: <https://artofproblemsolving.com/community/c3240_jbmo_shortlists>
 * 
 
+## KOMAL A PROBLEMS:
+* <https://artofproblemsolving.com/community/c3012410_komal_a_problems>
+* 
+
 ## IRANIAN GEOMETRY OLYMPIAD (FROM 2014):
 * <https://artofproblemsolving.com/community/c460486_iranian_geometry_olympiad>
 * 
@@ -166,6 +170,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2017:
+* KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 International Olympic Revenge: <https://artofproblemsolving.com/community/c483660_2017_international_olympic_revenge>
 * 
 

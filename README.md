@@ -17,6 +17,19 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3246_egmo>
 * 
 
+## JUNIOR BALKAN MO (FROM 1997):
+* <https://artofproblemsolving.com/community/c3227_junior_balkan_mo>
+* **JBMO SHORTLISTS (FROM 2000)**: <https://artofproblemsolving.com/community/c3240_jbmo_shortlists>
+* 
+
+## IRANIAN GEOMETRY OLYMPIAD (FROM 2014):
+* <https://artofproblemsolving.com/community/c460486_iranian_geometry_olympiad>
+* 
+
+## IRANIAN COMBINATORICS OLYMPIAD (FROM 2020):
+* <https://artofproblemsolving.com/community/c1135221_iranian_combinatorics_olympiad>
+* 
+
 ## POLISH MATHEMATICAL OLYMPIAD (POLISH MO) (FROM 1950):
 * https://om.sem.edu.pl/problems/
 * https://archom.ptm.org.pl/
@@ -79,6 +92,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c551206_danube_competition_in_mathematics>
 * 
 
+## INTERNATIONAL ZHAUTYKOV OLYMPIAD (FROM 2005):
+* <https://artofproblemsolving.com/community/c3241_international_zhautykov_olympiad>
+* 
+
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
 * 
@@ -99,6 +116,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c629086_caucasus_mathematical_olympiad>
 * 
 
+## INTERNATIONAL OLYMPIAD OF METROPOLISES (FROM 2016):
+* <https://artofproblemsolving.com/community/c422512_international_olympiad_of_metropolises>
+* 
+
+## INTERNATIONAL MATHEMATICAL OLYMPIC REVENGE (FROM 2017):
+* <https://artofproblemsolving.com/community/c483662_international_mathematical_olympic_revenge>
+* 
+
 ## FINAL MATHEMATICAL CUP (FROM 2019):
 * <https://artofproblemsolving.com/community/c1332826_final_mathematical_cup>
 * 
@@ -107,7 +132,32 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
 * 
 
+## IRAN-SINGAPORE-TAIWAN FRIENDLY MATH COMPETITION (FROM 2022):
+* <https://artofproblemsolving.com/community/c3395801_iransingaporetaiwan_friendly_math_competition>
+* 
+
+## IMSC (FROM 2023):
+* <https://artofproblemsolving.com/community/c3509698_imsc>
+* 
+
+## INDIA IRAN FRIENDLY MATH COMPETITION (FROM 2024):
+* <https://artofproblemsolving.com/community/c3941418_india_iran_friendly_math_competition>
+* 
+
+## 2024:
+* 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
+* 
+
+## 2023:
+* IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
+* 
+
+## 2022:
+* 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
+* 
+
 ## 2020:
+* 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 
 
@@ -115,8 +165,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
 * 
 
+## 2017:
+* 2017 International Olympic Revenge: <https://artofproblemsolving.com/community/c483660_2017_international_olympic_revenge>
+* 
+
+## 2016:
+* 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
+* 
+
 ## 2015:
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
+* 
+
+## 2014:
+* 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
+  * 2014 Iranian Geometry Olympiad (junior): <https://artofproblemsolving.com/community/c908797_2014_iranian_geometry_olympiad_junior>
 * 
 
 ## 2012:
@@ -136,10 +199,19 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2005:
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
+* 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
+* 
+
+## 2000:
+* 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
 * 
 
 ## 1999:
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
+* 
+
+## 1997:
+* 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
 * 
 
 ## 1995:

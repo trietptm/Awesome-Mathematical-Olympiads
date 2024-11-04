@@ -13,6 +13,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * APMO: https://artofproblemsolving.com/community/c3226_apmo
 * 
 
+## TOURNAMENT OF TOWNS (FROM 1980):
+* <https://artofproblemsolving.com/community/c3239_tournament_of_towns>
+* 
+
 ## EGMO (FROM 2012):
 * <https://artofproblemsolving.com/community/c3246_egmo>
 * 
@@ -24,6 +28,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## KOMAL A PROBLEMS:
 * <https://artofproblemsolving.com/community/c3012410_komal_a_problems>
+* 
+
+## KVANT PROBLEMS:
+* <https://artofproblemsolving.com/community/c3307285_kvant_problems>
 * 
 
 ## IRANIAN GEOMETRY OLYMPIAD (FROM 2014):
@@ -68,6 +76,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3229_iberoamerican>
 * 
 
+## NORDIC (FROM 1987):
+* <https://artofproblemsolving.com/community/c3247_nordic>
+* 
+
 ## CONO SUR OLYMPIAD (FROM 1989):
 * <https://artofproblemsolving.com/community/c3234_cono_sur_olympiad>
 * 
@@ -80,16 +92,44 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://artofproblemsolving.com/community/c3231_baltic_way
 * 
 
-## IMC:
+## RIOPLATENSE MATHEMATICAL OLYMPIAD, LEVEL 3 (FROM 1990):
+* <https://artofproblemsolving.com/community/c3243_rioplatense_mathematical_olympiad_level_3>
+* 
+
+## IMC (FROM 1994):
 * <https://artofproblemsolving.com/community/c3250_imc>
+* 
+
+## TUYMAADA OLYMPIAD (FROM 1994):
+* <https://artofproblemsolving.com/community/c3235_tuymaada_olympiad>
 * 
 
 ## CZECH-POLISH-SLOVAK MATCH (FROM 1995):
 * <https://artofproblemsolving.com/community/c3244_czechpolishslovak_match>
 * 
 
+## MAY OLYMPIAD (FROM 1995):
+* <https://artofproblemsolving.com/community/c1964564_may_olympiad>
+* 
+
+## MEDITERRANEAN MATHEMATICS OLYMPIAD (FROM 1998):
+* <https://artofproblemsolving.com/community/c3232_mediterranean_mathematics_olympiad>
+* 
+
 ## CENTROAMERICAN (FROM 1999):
 * <https://artofproblemsolving.com/community/c3230_centroamerican>
+* 
+
+## PAN AFRICAN (FROM 2000):
+* <https://artofproblemsolving.com/community/c3228_pan_african>
+* 
+
+## PAN-AFRICAN SHORTLIST (FROM 2017):
+* <https://artofproblemsolving.com/community/c870447_panafrican_shortlist>
+* 
+
+## SILK ROAD (FROM 2002):
+* <https://artofproblemsolving.com/community/c804124_silk_road>
 * 
 
 ## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
@@ -100,8 +140,20 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3241_international_zhautykov_olympiad>
 * 
 
+## MIDDLE EUROPEAN MATHEMATICAL OLYMPIAD (FROM 2007):
+* <https://artofproblemsolving.com/community/c3237_middle_european_mathematical_olympiad>
+* 
+
+## ROMANIAN MASTERS OF MATHEMATICS COLLECTION (FROM 2008):
+* <https://artofproblemsolving.com/community/c3238_romanian_masters_of_mathematics_collection>
+* 
+
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
+* 
+
+## LUSOPHON MATHEMATICAL OLYMPIAD (FROM 2011):
+* <https://artofproblemsolving.com/community/c3245_lusophon_mathematical_olympiad>
 * 
 
 ## CZECH-POLISH-SLOVAK JUNIOR MATCH (FROM 2012):
@@ -124,8 +176,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c422512_international_olympiad_of_metropolises>
 * 
 
+## MATHEMATICAL EXCELLENCE OLYMPIAD (FROM 2017):
+* <https://artofproblemsolving.com/community/c534644_mathematical_excellence_olympiad>
+* 
+
 ## INTERNATIONAL MATHEMATICAL OLYMPIC REVENGE (FROM 2017):
 * <https://artofproblemsolving.com/community/c483662_international_mathematical_olympic_revenge>
+* 
+
+## SIMON MARAIS MATHEMATICAL COMPETITION (FROM 2017):
+* <https://artofproblemsolving.com/community/c986159_simon_marais_mathematical_competition>
 * 
 
 ## FINAL MATHEMATICAL CUP (FROM 2019):
@@ -134,6 +194,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## FRANCOPHONE MATHEMATICAL OLYMPIAD (FROM 2020):
 * <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
+* 
+
+## PAN-AMERICAN GIRLS’ MATHEMATICAL OLYMPIAD - PAGMO (FROM 2021):
+* <https://artofproblemsolving.com/community/c2500342_pagmo>
 * 
 
 ## IRAN-SINGAPORE-TAIWAN FRIENDLY MATH COMPETITION (FROM 2022):
@@ -148,8 +212,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3941418_india_iran_friendly_math_competition>
 * 
 
+## TASIMO (FROM 2024):
+* <https://artofproblemsolving.com/community/c3834812_tasimo>
+* 
+
 ## 2024:
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
+* 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 
 
 ## 2023:
@@ -160,18 +229,26 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 
 
+## 2021:
+* 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
+* 
+
 ## 2020:
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 
 
 ## 2019:
+* Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
 * 
 
 ## 2017:
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
+* 2017 IMEO: <https://artofproblemsolving.com/community/c534635_2017_imeo>
 * 2017 International Olympic Revenge: <https://artofproblemsolving.com/community/c483660_2017_international_olympic_revenge>
+* 2017 Simon Marais Mathematical Competition: <https://artofproblemsolving.com/community/c1994573_2017_simon_marais_mathematical_competition>
+* 2017 Pan-African Shortlist: <https://artofproblemsolving.com/community/c870452_2017_panafrican_shortlist>
 * 
 
 ## 2016:
@@ -194,12 +271,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Gulf Math Olympiad: <https://artofproblemsolving.com/community/c525576_2012_gulf_math_olympiad>
 * 
 
+## 2011:
+* 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
+* 
+
 ## 2009:
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 
 
+## 2008:
+* 2008 Romanian Master of Mathematics: <https://artofproblemsolving.com/community/c3724823_2008_romanian_master_of_mathematics>
+* 
+
 ## 2007:
 * 2007 Balkan MO Shortlist: <https://artofproblemsolving.com/community/c1120588_2007_balkan_mo_shortlist>
+* 2007 Middle European Mathematical Olympiad: <https://artofproblemsolving.com/community/c3580_2007_middle_european_mathematical_olympiad>
 * 
 
 ## 2005:
@@ -207,12 +293,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
 * 
 
+## 2002:
+* 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
+* 
+
 ## 2000:
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
+* 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>
 * 
 
 ## 1999:
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
+* 
+
+## 1998:
+* 1998 Mediterranean Mathematics Olympiad: <https://artofproblemsolving.com/community/c5254_1998_mediterranean_mathematics_olympiad>
 * 
 
 ## 1997:
@@ -221,6 +316,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1995:
 * 1995 Czech and Slovak Match: <https://artofproblemsolving.com/community/c705957_1995_czech_and_slovak_match>
+* 1995 May Olympiad: <https://artofproblemsolving.com/community/c3144153_1995_may_olympiad>
+  * May Olympiad L1 - geometry: <https://artofproblemsolving.com/community/c927574_may_olympiad_l1__geometry>
+  * May Olympiad L2 - geometry: <https://artofproblemsolving.com/community/c927071_may_olympiad_l2__geometry>
 * 
 
 ## 1994:
@@ -229,16 +327,22 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://imomath.com/othercomp/Can/CanMO94.pdf
 * 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
+* 1994 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c866132_1994_tuymaada_olympiad>
 * 
 
 ## 1990:
 * 1990 Hungary-Israel Binational: <https://artofproblemsolving.com/community/c3502_1990_hungaryisrael_binational>
 * 1990 Baltic Way: <https://artofproblemsolving.com/community/c5129_1990_baltic_way>
+* 1990 Rioplatense Mathematical Olympiad, Level 3: <https://artofproblemsolving.com/community/c3146027_1990_rioplatense_mathematical_olympiad_level_3>
 * 
 
 ## 1989:
 * 1989 APMO: https://artofproblemsolving.com/community/c4106_1989_apmo
 * 1989 Cono Sur Olympiad: <https://artofproblemsolving.com/community/c5470_1989_cono_sur_olympiad>
+* 
+
+## 1987:
+* 1987 Nordic: <https://artofproblemsolving.com/community/c691087_1987_nordic>
 * 
 
 ## 1985:
@@ -247,6 +351,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1984:
 * 1984 Balkan MO: <https://artofproblemsolving.com/community/c4056_1984_balkan_mo>
+* 
+
+## 1980:
+* 1980 Tournament Of Towns: <https://artofproblemsolving.com/community/c925281_1980_tournament_of_towns>
 * 
 
 ## 1978:

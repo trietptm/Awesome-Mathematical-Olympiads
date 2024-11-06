@@ -13,6 +13,25 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * APMO: https://artofproblemsolving.com/community/c3226_apmo
 * 
 
+## USA:
+* USAMO (FROM 1972): <https://artofproblemsolving.com/community/c3409_usamo>
+* USAJMO: <https://artofproblemsolving.com/community/c3420_usajmo>
+* USA Team Selection Test: <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
+* USA TSTST: <https://artofproblemsolving.com/community/c3424_usa_tstst>
+* USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c788454_usa_egmo_team_selection_test>
+* USAMTS Problems (FROM 1998): <https://artofproblemsolving.com/community/c3412_usamts_problems>
+* Purple Comet Problems (FROM 2003): <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
+* Putnam: <https://artofproblemsolving.com/community/c3249_putnam>
+* AIME Problems: <https://artofproblemsolving.com/community/c3416_aime_problems>
+* AMC 12/AHSME: <https://artofproblemsolving.com/community/c3415_amc_12ahsme>
+* AMC 10: <https://artofproblemsolving.com/community/c3414_amc_10>
+* AMC 8: <https://artofproblemsolving.com/community/c3413_amc_8>
+* Math Olympiad Summer Program Homework: <https://artofproblemsolving.com/community/c3439_math_olympiad_summer_program_homework>
+* ELMO Problems: <https://artofproblemsolving.com/community/c3429_elmo_problems>
+* ELMO Shortlist: <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
+* Revenge EL(S)MO: <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
+* 
+
 ## TOURNAMENT OF TOWNS (FROM 1980):
 * <https://artofproblemsolving.com/community/c3239_tournament_of_towns>
 * 
@@ -226,6 +245,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2022:
+* 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 
 
@@ -239,6 +259,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2019:
+* 2019 USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c764134_2019_usa_egmo_team_selection_test>
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
 * 
@@ -272,7 +293,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2011:
+* 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
+* 
+
+## 2010:
+* 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
+* 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
 * 
 
 ## 2009:
@@ -288,9 +315,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2007 Middle European Mathematical Olympiad: <https://artofproblemsolving.com/community/c3580_2007_middle_european_mathematical_olympiad>
 * 
 
+## 2006:
+* 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
+* 
+
 ## 2005:
+* 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
+* 
+
+## 2003:
+* 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
 * 
 
 ## 2002:
@@ -298,15 +334,19 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2000:
+* 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
 * 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>
+* 2000 AMC 10: <https://artofproblemsolving.com/community/c4798_2000_amc_10>
 * 
 
 ## 1999:
+* 1999 ELMO Problems: <https://artofproblemsolving.com/community/c4340_1999_elmo_problems>
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
 * 
 
 ## 1998:
+* 1998 USAMTS Problems: <https://artofproblemsolving.com/community/c4672_1998_usamts_problems>
 * 1998 Mediterranean Mathematics Olympiad: <https://artofproblemsolving.com/community/c5254_1998_mediterranean_mathematics_olympiad>
 * 
 
@@ -347,10 +387,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1985:
 * 1985 IberoAmerican: <https://artofproblemsolving.com/community/c4526_1985_iberoamerican>
+* 1985 AMC 8: <https://artofproblemsolving.com/community/c4768_1985_amc_8>
 * 
 
 ## 1984:
 * 1984 Balkan MO: <https://artofproblemsolving.com/community/c4056_1984_balkan_mo>
+* 
+
+## 1983:
+* 1983 AIME Problems: <https://artofproblemsolving.com/community/c4880_1983_aime_problems>
 * 
 
 ## 1980:
@@ -359,6 +404,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1978:
 * 1978 Austrian-Polish Competition: <https://artofproblemsolving.com/community/c103442_1978_austrianpolish_competition>
+* 
+
+## 1972:
+* 1972 USAMO: <https://artofproblemsolving.com/community/c4470_1972_usamo>
 * 
 
 ## 1969:
@@ -391,6 +440,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1950:
 * 1950 Polish MO Finals: <https://artofproblemsolving.com/community/c3990422_1950_polish_mo_finals>
 * 1950 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918073_1950_moscow_mathematical_olympiad>
+* 1950 AMC 12/AHSME: <https://artofproblemsolving.com/community/c4814_1950_amc_12ahsme>
+* 
+
+## 1938:
+* Putnam 1938: <https://artofproblemsolving.com/community/c2436795_putnam_1938>
 * 
 
 ## 1935:

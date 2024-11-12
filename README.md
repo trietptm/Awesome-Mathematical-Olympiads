@@ -30,6 +30,17 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * ELMO Problems: <https://artofproblemsolving.com/community/c3429_elmo_problems>
 * ELMO Shortlist: <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
 * Revenge EL(S)MO: <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
+* BAMO Contests (FROM 1999): <https://artofproblemsolving.com/community/c233906_bamo_contests>
+* Math Prize for Girls Olympiad (FROM 2010): <https://artofproblemsolving.com/community/c953466_math_prize_for_girls_olympiad>
+* Math Prize For Girls Problems (FROM 2009): <https://artofproblemsolving.com/community/c3427_math_prize_for_girls_problems>
+* Manhattan Mathematical Olympiad (FROM 1997): <https://artofproblemsolving.com/community/c3434_manhattan_mathematical_olympiad>
+* Michigan Mathematics Prize Competition (FROM 1958): <https://artofproblemsolving.com/community/c3175276_michigan_mathematics_prize_competition>
+* Mid-Michigan Mathematical Olympiad (FROM 2002): <https://artofproblemsolving.com/community/c3168238_midmichigan_mathematical_olympiad>
+* Ersatz MO (USEMO) (FROM 2019): <https://artofproblemsolving.com/community/c1204474_ersatz_mo_usemo>
+* Utah Math Olympiad: <https://artofproblemsolving.com/community/c2443905_utah_math_olympiad>
+* CCA Math Bonanza (FROM 2015): <https://artofproblemsolving.com/community/c276226_cca_math_bonanza>
+* CNCM Online (FROM 2020): <https://artofproblemsolving.com/community/c1282021_cncm_online>
+* CUBRMC (FROM 2023): <https://artofproblemsolving.com/community/c3777656_cubrmc>
 * 
 
 ## TOURNAMENT OF TOWNS (FROM 1980):
@@ -242,6 +253,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2023:
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
+* 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
 * 
 
 ## 2022:
@@ -256,12 +268,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2020:
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
+* CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
+  * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
+  * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
 * 
 
 ## 2019:
 * 2019 USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c764134_2019_usa_egmo_team_selection_test>
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
+* 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 
 
 ## 2017:
@@ -278,6 +294,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2015:
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
+* 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * 
 
 ## 2014:
@@ -300,9 +317,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2010:
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
+* 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
 * 
 
 ## 2009:
+* 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 
 
@@ -330,6 +349,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2002:
+* 2002 Mid-Michigan MO: <https://artofproblemsolving.com/community/c3168239_2002_midmichigan_mo>
+  * Mid-Michigan MO, Grades 10-12: <https://artofproblemsolving.com/community/c3014890_midmichigan_mo_grades_1012>
+  * Mid-Michigan MO, Grades 5-6: <https://artofproblemsolving.com/community/c3003999_midmichigan_mo_grades_56>
+  * Mid-Michigan MO, Grades 7-9: <https://artofproblemsolving.com/community/c3005888_midmichigan_mo_grades_79>
 * 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
 * 
 
@@ -342,6 +365,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1999:
 * 1999 ELMO Problems: <https://artofproblemsolving.com/community/c4340_1999_elmo_problems>
+* 1999 BAMO: <https://artofproblemsolving.com/community/c933035_1999_bamo>
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
 * 
 
@@ -352,6 +376,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1997:
 * 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
+* 1997 Manhattan Mathematical Olympiad: <https://artofproblemsolving.com/community/c2998127_1997_manhattan_mathematical_olympiad>
 * 
 
 ## 1995:
@@ -430,6 +455,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1959:
 * 1959 IMO: <https://artofproblemsolving.com/community/c3786_1959_imo>
 * 1959 IMO Shortlist: <https://artofproblemsolving.com/community/c3910_1959_imo_shortlist>
+* 
+
+## 1958:
+* 1958 MMPC: <https://artofproblemsolving.com/community/c3175604_1958_mmpc>
 * 
 
 ## 1953:

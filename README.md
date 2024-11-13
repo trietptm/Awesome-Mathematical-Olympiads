@@ -328,6 +328,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 USMCA: <https://artofproblemsolving.com/community/c1055557_2020_usmca>
+* 2020 Online Math Open Problems: <https://artofproblemsolving.com/community/c1124220_2020_online_math_open_problems>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
@@ -342,11 +343,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
 * 2019 USMCA: <https://artofproblemsolving.com/community/c940102_2019_usmca>
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
+* 2019 Online Math Open Problems: <https://artofproblemsolving.com/community/c951538_2019_online_math_open_problems>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 
 
 ## 2018:
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
+* 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
@@ -358,6 +361,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
   * 2017 NIMO Summer Contest: <https://artofproblemsolving.com/community/c931800_2017_nimo_summer_contest>
+* 2017 Online Math Open Problems: <https://artofproblemsolving.com/community/c486226_2017_online_math_open_problems>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
   * ABMC Accuracy Rounds: <https://artofproblemsolving.com/community/c3587836_abmc_accuracy_rounds>
@@ -372,6 +376,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Contests: <https://artofproblemsolving.com/community/c190175_2016_contests>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
+* 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
@@ -382,6 +387,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Contests: <https://artofproblemsolving.com/community/c36608_2015_contests>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
+* 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
@@ -397,6 +403,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * MMATHS Mathathon Rounds: <https://artofproblemsolving.com/community/c2983855_mmaths_mathathon_rounds>
 * 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
   * 2014 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4230_2014_nimo_summer_contest>
+* 2014 Online Math Open Problems: <https://artofproblemsolving.com/community/c4388_2014_online_math_open_problems>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
 * 
 
@@ -404,6 +411,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Contests: <https://artofproblemsolving.com/community/c53_2013_contests>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
+* 2013 Online Math Open Problems: <https://artofproblemsolving.com/community/c4387_2013_online_math_open_problems>
 * 
 
 ## 2012:

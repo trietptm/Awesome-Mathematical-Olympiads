@@ -15,21 +15,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## USA:
 * USAMO (FROM 1972): <https://artofproblemsolving.com/community/c3409_usamo>
-* USAJMO: <https://artofproblemsolving.com/community/c3420_usajmo>
-* USA Team Selection Test: <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
-* USA TSTST: <https://artofproblemsolving.com/community/c3424_usa_tstst>
-* USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c788454_usa_egmo_team_selection_test>
+* USAJMO (FROM 2010): <https://artofproblemsolving.com/community/c3420_usajmo>
+* USA Team Selection Test (FROM 2000): <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
+* USA TSTST (FROM 2011): <https://artofproblemsolving.com/community/c3424_usa_tstst>
+* USA EGMO Team Selection Test (FROM 2020): <https://artofproblemsolving.com/community/c788454_usa_egmo_team_selection_test>
 * USAMTS Problems (FROM 1998): <https://artofproblemsolving.com/community/c3412_usamts_problems>
 * Purple Comet Problems (FROM 2003): <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
-* Putnam: <https://artofproblemsolving.com/community/c3249_putnam>
-* AIME Problems: <https://artofproblemsolving.com/community/c3416_aime_problems>
-* AMC 12/AHSME: <https://artofproblemsolving.com/community/c3415_amc_12ahsme>
-* AMC 10: <https://artofproblemsolving.com/community/c3414_amc_10>
-* AMC 8: <https://artofproblemsolving.com/community/c3413_amc_8>
-* Math Olympiad Summer Program Homework: <https://artofproblemsolving.com/community/c3439_math_olympiad_summer_program_homework>
-* ELMO Problems: <https://artofproblemsolving.com/community/c3429_elmo_problems>
-* ELMO Shortlist: <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
-* Revenge EL(S)MO: <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
+* Putnam (FROM 1939): <https://artofproblemsolving.com/community/c3249_putnam>
+* AIME Problems (FROM 1983): <https://artofproblemsolving.com/community/c3416_aime_problems>
+* AMC 12/AHSME (FROM 1950): <https://artofproblemsolving.com/community/c3415_amc_12ahsme>
+* AMC 10 (FROM 2000): <https://artofproblemsolving.com/community/c3414_amc_10>
+* AMC 8 (1985): <https://artofproblemsolving.com/community/c3413_amc_8>
+* Math Olympiad Summer Program Homework (FROM 2005): <https://artofproblemsolving.com/community/c3439_math_olympiad_summer_program_homework>
+* ELMO Problems (FROM 1999): <https://artofproblemsolving.com/community/c3429_elmo_problems>
+* ELMO Shortlist (FROM 2010): <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
+* Revenge EL(S)MO (FROM 2022): <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
 * BAMO Contests (FROM 1999): <https://artofproblemsolving.com/community/c233906_bamo_contests>
 * Math Prize for Girls Olympiad (FROM 2010): <https://artofproblemsolving.com/community/c953466_math_prize_for_girls_olympiad>
 * Math Prize For Girls Problems (FROM 2009): <https://artofproblemsolving.com/community/c3427_math_prize_for_girls_problems>

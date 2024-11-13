@@ -41,6 +41,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Math Open At Andover problems (By Phillips Academy Andover FROM 2018): <https://artofproblemsolving.com/community/c2880053_math_open_at_andover_problems>
 * NIMO Problems (FROM 2011): <https://artofproblemsolving.com/community/c3423_nimo_problems>
   * NIMO Summer Contest (FROM 2011): <https://artofproblemsolving.com/community/c3425_nimo_summer_contest>
+* Online Math Open Problems (FROM 2012): <https://artofproblemsolving.com/community/c3431_online_math_open_problems>
 * SDML/SDMO Contests (FROM 2007): <https://artofproblemsolving.com/community/c312564_sdmlsdmo_contests>
 * EMCC problems (Exeter Math Club Competition FROM 2010): <https://artofproblemsolving.com/community/c3003268_emcc_problems>
 * Princeton University Math Competition: <https://artofproblemsolving.com/community/c3426_princeton_university_math_competition>
@@ -69,6 +70,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Math Hour Olympiad (by University of Washington FROM 2010): <https://artofproblemsolving.com/community/c3168282_math_hour_olympiad>
 * IMTS (FROM 1991): <https://artofproblemsolving.com/community/c3410_imts>
 * ITest (FROM 2005): <https://artofproblemsolving.com/community/c3435_itest>
+* US Math Competition Association (FROM 2019): <https://artofproblemsolving.com/community/c943134_us_math_competition_association>
 * Online Monmouth Math Competition (OMMC) (FROM 2020): <https://artofproblemsolving.com/community/c2824982_online_monmouth_math_competition_ommc>
 * CNCM Online (FROM 2020): <https://artofproblemsolving.com/community/c1282021_cncm_online>
 * CUBRMC (FROM 2023): <https://artofproblemsolving.com/community/c3777656_cubrmc>
@@ -303,11 +305,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2021:
 * 2021 Contests: <https://artofproblemsolving.com/community/c1964313_2021_contests>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
+* 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
 * 
 
 ## 2020:
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
+* 2020 USMCA: <https://artofproblemsolving.com/community/c1055557_2020_usmca>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
@@ -320,6 +324,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c764134_2019_usa_egmo_team_selection_test>
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
+* 2019 USMCA: <https://artofproblemsolving.com/community/c940102_2019_usmca>
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 
@@ -336,6 +341,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Contests: <https://artofproblemsolving.com/community/c313361_2017_contests>
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
+  * 2017 NIMO Summer Contest: <https://artofproblemsolving.com/community/c931800_2017_nimo_summer_contest>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
   * ABMC Accuracy Rounds: <https://artofproblemsolving.com/community/c3587836_abmc_accuracy_rounds>
@@ -349,6 +355,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2016:
 * 2016 Contests: <https://artofproblemsolving.com/community/c190175_2016_contests>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
+  * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
@@ -358,6 +365,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2015:
 * 2015 Contests: <https://artofproblemsolving.com/community/c36608_2015_contests>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
+  * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
@@ -372,12 +380,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 MMATHS: <https://artofproblemsolving.com/community/c2991527_2014_mmaths>
   * MMATHS Mathathon Rounds: <https://artofproblemsolving.com/community/c2983855_mmaths_mathathon_rounds>
 * 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
+  * 2014 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4230_2014_nimo_summer_contest>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
 * 
 
 ## 2013:
 * 2013 Contests: <https://artofproblemsolving.com/community/c53_2013_contests>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
+* 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
 * 
 
 ## 2012:
@@ -389,12 +399,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 BMT Spring: <https://artofproblemsolving.com/community/c2503454_2012_bmt_spring>
 * 2012 BmMT: <https://artofproblemsolving.com/community/c2779213_2012_bmmt>
 * 2012 NIMO Problems: <https://artofproblemsolving.com/community/c4090_2012_nimo_problems>
+  * 2012 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4228_2012_nimo_summer_contest>
+* 2012 Online Math Open Problems: <https://artofproblemsolving.com/community/c4386_2012_online_math_open_problems>
 * 
 
 ## 2011:
 * 2011 Contests: <https://artofproblemsolving.com/community/c55_2011_contests>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
+  * 2011 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4227_2011_nimo_summer_contest>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 
 

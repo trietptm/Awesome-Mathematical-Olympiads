@@ -44,7 +44,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Online Math Open Problems (FROM 2012): <https://artofproblemsolving.com/community/c3431_online_math_open_problems>
 * SDML/SDMO Contests (FROM 2007): <https://artofproblemsolving.com/community/c312564_sdmlsdmo_contests>
 * EMCC problems (Exeter Math Club Competition FROM 2010): <https://artofproblemsolving.com/community/c3003268_emcc_problems>
-* Princeton University Math Competition: <https://artofproblemsolving.com/community/c3426_princeton_university_math_competition>
+* Princeton University Math Competition (FROM 2006): <https://artofproblemsolving.com/community/c3426_princeton_university_math_competition>
 * CMIMC Problems (Carnegie Mellon Informatics and Mathematics Competition FROM 2016): <https://artofproblemsolving.com/community/c253928_cmimc_problems>
 * CMWMC (Carnegie Mellon University Womens' Competition FROM 2022): <https://artofproblemsolving.com/community/c3503566_cmwmc>
 * CHMMC problems (Caltech Harvey Mudd Math Competition, a math meet in CA for high school students FROM 2010): <https://artofproblemsolving.com/community/c2746308_chmmc_problems>
@@ -142,6 +142,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3229_iberoamerican>
 * 
 
+## CHINA NATIONAL OLYMPIAD (FROM 1986):
+* <https://artofproblemsolving.com/community/c3284_china_national_olympiad>
+* 
+
 ## NORDIC (FROM 1987):
 * <https://artofproblemsolving.com/community/c3247_nordic>
 * 
@@ -186,6 +190,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3230_centroamerican>
 * 
 
+## (China) National High School Mathematics League (FROM 1999):
+* <https://artofproblemsolving.com/community/c3288_china_national_high_school_mathematics_league>
+* 
+
 ## PAN AFRICAN (FROM 2000):
 * <https://artofproblemsolving.com/community/c3228_pan_african>
 * 
@@ -196,6 +204,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## SILK ROAD (FROM 2002):
 * <https://artofproblemsolving.com/community/c804124_silk_road>
+* 
+
+## CHINA GIRLS MATH OLYMPIAD (FROM 2002):
+* <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
 * 
 
 ## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
@@ -232,6 +244,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## GULF MATH OLYMPIAD (FROM 2012):
 * <https://artofproblemsolving.com/community/c525584_gulf_math_olympiad>
+* 
+
+## ASDAN MATH TOURNAMENT (FROM 2014):
+* <https://artofproblemsolving.com/community/c3073462_asdan_math_tournament>
 * 
 
 ## CAUCASUS MATHEMATICAL OLYMPIAD (FROM 2015):

@@ -614,6 +614,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1935 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908733_1935_moscow_mathematical_olympiad>
 * 
 
+## LINKS:
+* New Post Collections: <https://artofproblemsolving.com/community/c116_new_post_collections>
+* 
+
 
 
 

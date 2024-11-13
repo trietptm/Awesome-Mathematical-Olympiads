@@ -404,6 +404,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
   * 2014 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4230_2014_nimo_summer_contest>
 * 2014 Online Math Open Problems: <https://artofproblemsolving.com/community/c4388_2014_online_math_open_problems>
+* 2014 ASDAN Math Tournament: <https://artofproblemsolving.com/community/c3073738_2014_asdan_math_tournament>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
 * 
 
@@ -506,6 +507,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * Mid-Michigan MO, Grades 5-6: <https://artofproblemsolving.com/community/c3003999_midmichigan_mo_grades_56>
   * Mid-Michigan MO, Grades 7-9: <https://artofproblemsolving.com/community/c3005888_midmichigan_mo_grades_79>
 * 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
+* 2002 China Girls Math Olympiad: <https://artofproblemsolving.com/community/c3667_2002_china_girls_math_olympiad>
 * 
 
 ## 2001:
@@ -525,6 +527,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1999 ELMO Problems: <https://artofproblemsolving.com/community/c4340_1999_elmo_problems>
 * 1999 BAMO: <https://artofproblemsolving.com/community/c933035_1999_bamo>
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
+* 1999 China Second Round Olympiad: <https://artofproblemsolving.com/community/c925936_1999_china_second_round_olympiad>
 * 
 
 ## 1998:
@@ -579,6 +582,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1987:
 * 1987 Nordic: <https://artofproblemsolving.com/community/c691087_1987_nordic>
+* 
+
+## 1986:
+* 1986 China National Olympiad: <https://artofproblemsolving.com/community/c5209_1986_china_national_olympiad>
 * 
 
 ## 1985:

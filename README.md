@@ -36,20 +36,25 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Manhattan Mathematical Olympiad (FROM 1997): <https://artofproblemsolving.com/community/c3434_manhattan_mathematical_olympiad>
 * Michigan Mathematics Prize Competition (FROM 1958): <https://artofproblemsolving.com/community/c3175276_michigan_mathematics_prize_competition>
 * Mid-Michigan Mathematical Olympiad (FROM 2002): <https://artofproblemsolving.com/community/c3168238_midmichigan_mathematical_olympiad>
+* LMT (Lexington Math Tournament FROM 2010): <https://artofproblemsolving.com/community/c2490050_lmt>
+* Math Open At Andover problems (By Phillips Academy Andover FROM 2018): <https://artofproblemsolving.com/community/c2880053_math_open_at_andover_problems>
 * SDML/SDMO Contests (FROM 2007): <https://artofproblemsolving.com/community/c312564_sdmlsdmo_contests>
 * EMCC problems (Exeter Math Club Competition FROM 2010): <https://artofproblemsolving.com/community/c3003268_emcc_problems>
 * BmMT problems (FROM 2012): <https://artofproblemsolving.com/community/c3600421_bmmt_problems>
 * San Diego Power Contest (FROM 2017): <https://artofproblemsolving.com/community/c1101254_san_diego_power_contest>
 * Penn Math Contest (PMC) (FROM 2022): <https://artofproblemsolving.com/community/c3777672_penn_math_contest_pmc>
 * ABMC problems (FROM 2017): <https://artofproblemsolving.com/community/c3594861_abmc_problems>
+* Montgomery Blair (FROM 2015): <https://artofproblemsolving.com/community/c1290169_montgomery_blair>
 * Ersatz MO (USEMO) (FROM 2019): <https://artofproblemsolving.com/community/c1204474_ersatz_mo_usemo>
 * Utah Math Olympiad: <https://artofproblemsolving.com/community/c2443905_utah_math_olympiad>
 * CCA Math Bonanza (FROM 2015): <https://artofproblemsolving.com/community/c276226_cca_math_bonanza>
+* Math Invitational for Girls: <https://artofproblemsolving.com/community/c3589554_math_invitational_for_girls>
 * Online Monmouth Math Competition (OMMC) (FROM 2020): <https://artofproblemsolving.com/community/c2824982_online_monmouth_math_competition_ommc>
 * CNCM Online (FROM 2020): <https://artofproblemsolving.com/community/c1282021_cncm_online>
 * CUBRMC (FROM 2023): <https://artofproblemsolving.com/community/c3777656_cubrmc>
 * JHMMC 7 Contests (FROM 2014): <https://artofproblemsolving.com/community/c915846_jhmmc_7_contests>
   * JHMMC 8 Contests: <https://artofproblemsolving.com/community/c906683_jhmmc_8_contests>
+* ASMT (A-Star Math Tournament (SMT replacement) , lasted only 2015 and 2016): <https://artofproblemsolving.com/community/c3568943_asmt>
 * 
 
 ## TOURNAMENT OF TOWNS (FROM 1980):
@@ -291,6 +296,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 
 
+## 2018:
+* 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
+  * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
+  * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
+  * MOAA Team Rounds: <https://artofproblemsolving.com/community/c2880077_moaa_team_rounds>
+* 
+
 ## 2017:
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
@@ -305,11 +317,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2016:
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
+* 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
+* 2016 ASMT: <https://artofproblemsolving.com/community/c3568942_2016_asmt>
 * 
 
 ## 2015:
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
+* MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
+  * MBMT Team Rounds: <https://artofproblemsolving.com/community/c2890425_mbmt_team_rounds>
+  * MBMT Geometry Rounds: <https://artofproblemsolving.com/community/c3588987_mbmt_geometry_rounds>
 * 
 
 ## 2014:
@@ -340,6 +357,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * EMCC Speed Rounds: <https://artofproblemsolving.com/community/c3593081_emcc_speed_rounds>
   * EMCC Guts Rounds: <https://artofproblemsolving.com/community/c2883806_emcc_guts_rounds>
   * EMCC Team Rounds: <https://artofproblemsolving.com/community/c2825541_emcc_team_rounds>
+* 2010 LMT: <https://artofproblemsolving.com/community/c2490082_2010_lmt>
+  * LMT Team Rounds 2010-20: <https://artofproblemsolving.com/community/c2793144_lmt_team_rounds_201020>
+  * LMT Theme Rounds: <https://artofproblemsolving.com/community/c2968366_lmt_theme_rounds>
+  * LMT Guts Rounds: <https://artofproblemsolving.com/community/c3123135_lmt_guts_rounds>
+  * LMT Speed Rounds: <https://artofproblemsolving.com/community/c3545503_lmt_speed_rounds>
+  * LMT Accuracy Rounds: <https://artofproblemsolving.com/community/c3571771_lmt_accuracy_rounds>
 * 
 
 ## 2009:

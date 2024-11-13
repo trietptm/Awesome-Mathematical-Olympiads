@@ -33,30 +33,42 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * BAMO Contests (FROM 1999): <https://artofproblemsolving.com/community/c233906_bamo_contests>
 * Math Prize for Girls Olympiad (FROM 2010): <https://artofproblemsolving.com/community/c953466_math_prize_for_girls_olympiad>
 * Math Prize For Girls Problems (FROM 2009): <https://artofproblemsolving.com/community/c3427_math_prize_for_girls_problems>
+* MMATHS problems (Math Majors of America Tournament for High Schools FROM 2014): <https://artofproblemsolving.com/community/c2549927_mmaths_problems>
 * Manhattan Mathematical Olympiad (FROM 1997): <https://artofproblemsolving.com/community/c3434_manhattan_mathematical_olympiad>
 * Michigan Mathematics Prize Competition (FROM 1958): <https://artofproblemsolving.com/community/c3175276_michigan_mathematics_prize_competition>
 * Mid-Michigan Mathematical Olympiad (FROM 2002): <https://artofproblemsolving.com/community/c3168238_midmichigan_mathematical_olympiad>
 * LMT (Lexington Math Tournament FROM 2010): <https://artofproblemsolving.com/community/c2490050_lmt>
 * Math Open At Andover problems (By Phillips Academy Andover FROM 2018): <https://artofproblemsolving.com/community/c2880053_math_open_at_andover_problems>
+* NIMO Problems (FROM 2011): <https://artofproblemsolving.com/community/c3423_nimo_problems>
+  * NIMO Summer Contest (FROM 2011): <https://artofproblemsolving.com/community/c3425_nimo_summer_contest>
 * SDML/SDMO Contests (FROM 2007): <https://artofproblemsolving.com/community/c312564_sdmlsdmo_contests>
 * EMCC problems (Exeter Math Club Competition FROM 2010): <https://artofproblemsolving.com/community/c3003268_emcc_problems>
+* Princeton University Math Competition: <https://artofproblemsolving.com/community/c3426_princeton_university_math_competition>
 * CMIMC Problems (Carnegie Mellon Informatics and Mathematics Competition FROM 2016): <https://artofproblemsolving.com/community/c253928_cmimc_problems>
 * CMWMC (Carnegie Mellon University Womens' Competition FROM 2022): <https://artofproblemsolving.com/community/c3503566_cmwmc>
 * CHMMC problems (Caltech Harvey Mudd Math Competition, a math meet in CA for high school students FROM 2010): <https://artofproblemsolving.com/community/c2746308_chmmc_problems>
 * HMNT - HMMT November (Harvard-MIT November Tournament, Harvard-MIT Mathematics Tournament November FROM 2008): <https://artofproblemsolving.com/community/c2881068_hmnt__hmmt_november>
 * Harvard-MIT Mathematics Tournament: <https://artofproblemsolving.com/community/c3417_harvardmit_mathematics_tournament>
+* Stanford Mathematics Tournament (FROM 2000): <https://artofproblemsolving.com/community/c3418_stanford_mathematics_tournament>
+* UMD Math Competition (FROM 1997): <https://artofproblemsolving.com/community/c3617748_umd_math_competition>
 * Duke Math Meet (DMM) (by Duke University FROM 1998): <https://artofproblemsolving.com/community/c3168302_duke_math_meet_dmm>
 * BMT Problems (Berkeley Math Tournament FROM 2012): <https://artofproblemsolving.com/community/c2503467_bmt_problems>
 * BmMT problems (FROM 2012): <https://artofproblemsolving.com/community/c3600421_bmmt_problems>
 * Girls in Math at Yale (FROM 2019): <https://artofproblemsolving.com/community/c2550825_girls_in_math_at_yale>
+* JHMT problems (Johns Hopkins Math Tournament FROM 2005): <https://artofproblemsolving.com/community/c3347995_jhmt_problems>
 * San Diego Power Contest (FROM 2017): <https://artofproblemsolving.com/community/c1101254_san_diego_power_contest>
 * Penn Math Contest (PMC) (FROM 2022): <https://artofproblemsolving.com/community/c3777672_penn_math_contest_pmc>
+* Rice Math Tournament: <https://artofproblemsolving.com/community/c562607_rice_math_tournament>
+* Kettering Mathematics Olympiad (FROM 2001): <https://artofproblemsolving.com/community/c3168259_kettering_mathematics_olympiad>
 * ABMC problems (FROM 2017): <https://artofproblemsolving.com/community/c3594861_abmc_problems>
 * Montgomery Blair (FROM 2015): <https://artofproblemsolving.com/community/c1290169_montgomery_blair>
 * Ersatz MO (USEMO) (FROM 2019): <https://artofproblemsolving.com/community/c1204474_ersatz_mo_usemo>
 * Utah Math Olympiad: <https://artofproblemsolving.com/community/c2443905_utah_math_olympiad>
 * CCA Math Bonanza (FROM 2015): <https://artofproblemsolving.com/community/c276226_cca_math_bonanza>
 * Math Invitational for Girls: <https://artofproblemsolving.com/community/c3589554_math_invitational_for_girls>
+* Math Hour Olympiad (by University of Washington FROM 2010): <https://artofproblemsolving.com/community/c3168282_math_hour_olympiad>
+* IMTS (FROM 1991): <https://artofproblemsolving.com/community/c3410_imts>
+* ITest (FROM 2005): <https://artofproblemsolving.com/community/c3435_itest>
 * Online Monmouth Math Competition (OMMC) (FROM 2020): <https://artofproblemsolving.com/community/c2824982_online_monmouth_math_competition_ommc>
 * CNCM Online (FROM 2020): <https://artofproblemsolving.com/community/c1282021_cncm_online>
 * CUBRMC (FROM 2023): <https://artofproblemsolving.com/community/c3777656_cubrmc>
@@ -315,6 +327,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2017:
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
+* 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
   * ABMC Accuracy Rounds: <https://artofproblemsolving.com/community/c3587836_abmc_accuracy_rounds>
@@ -326,6 +339,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2016:
+* 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
@@ -333,6 +347,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2015:
+* 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
@@ -343,7 +358,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2014:
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
   * 2014 Iranian Geometry Olympiad (junior): <https://artofproblemsolving.com/community/c908797_2014_iranian_geometry_olympiad_junior>
+* 2014 MMATHS: <https://artofproblemsolving.com/community/c2991527_2014_mmaths>
+  * MMATHS Mathathon Rounds: <https://artofproblemsolving.com/community/c2983855_mmaths_mathathon_rounds>
+* 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
+* 
+
+## 2013:
+* 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 
 
 ## 2012:
@@ -353,10 +375,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Gulf Math Olympiad: <https://artofproblemsolving.com/community/c525576_2012_gulf_math_olympiad>
 * 2012 BMT Spring: <https://artofproblemsolving.com/community/c2503454_2012_bmt_spring>
 * 2012 BmMT: <https://artofproblemsolving.com/community/c2779213_2012_bmmt>
+* 2012 NIMO Problems: <https://artofproblemsolving.com/community/c4090_2012_nimo_problems>
 * 
 
 ## 2011:
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
+* 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 
 
@@ -377,6 +401,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * LMT Guts Rounds: <https://artofproblemsolving.com/community/c3123135_lmt_guts_rounds>
   * LMT Speed Rounds: <https://artofproblemsolving.com/community/c3545503_lmt_speed_rounds>
   * LMT Accuracy Rounds: <https://artofproblemsolving.com/community/c3571771_lmt_accuracy_rounds>
+* 2010 Math Hour Olympiad: <https://artofproblemsolving.com/community/c3168287_2010_math_hour_olympiad>
+  * Math Hour Olympiad, Grades 5-7: <https://artofproblemsolving.com/community/c3002465_math_hour_olympiad_grades_57>
+  * Math Hour Olympiad, Grades 8-10: <https://artofproblemsolving.com/community/c3003217_math_hour_olympiad_grades_810>
 * 
 
 ## 2009:
@@ -387,26 +414,36 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2008:
 * 2008 Romanian Master of Mathematics: <https://artofproblemsolving.com/community/c3724823_2008_romanian_master_of_mathematics>
 * 2008 HMNT: <https://artofproblemsolving.com/community/c3402483_2008_hmnt>
+* 2008 ITest: <https://artofproblemsolving.com/community/c4445_2008_itest>
+  * 2008 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c680215_2008_itest_tournament_of_champions>
 * 
 
 ## 2007:
 * 2007 Balkan MO Shortlist: <https://artofproblemsolving.com/community/c1120588_2007_balkan_mo_shortlist>
 * 2007 Middle European Mathematical Olympiad: <https://artofproblemsolving.com/community/c3580_2007_middle_european_mathematical_olympiad>
+* 2007 ITest: <https://artofproblemsolving.com/community/c4444_2007_itest>
+  * 2007 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c696542_2007_itest_tournament_of_champions>
 * 2007-2008 SDML (Middle School): <https://artofproblemsolving.com/community/c312161_20072008_sdml_middle_school>
 * 
 
 ## 2006:
 * 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
+* 2006 Princeton University Math Competition: <https://artofproblemsolving.com/community/c4231_2006_princeton_university_math_competition>
+* 2006 iTest: <https://artofproblemsolving.com/community/c779283_2006_itest>
 * 
 
 ## 2005:
 * 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
+* 2005 JHMT: <https://artofproblemsolving.com/community/c3553516_2005_jhmt>
+* 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
 * 
 
 ## 2003:
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
+* 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>
+  * 2003 RMT Calculus Round: <https://artofproblemsolving.com/community/c565841_2003_rmt_calculus_round>
 * 2003 JHMMC 8: <https://artofproblemsolving.com/community/c906682_2003_jhmmc_8>
 * 
 
@@ -418,9 +455,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
 * 
 
+## 2001:
+* 2001 Kettering HS MO: <https://artofproblemsolving.com/community/c3168260_2001_kettering_hs_mo>
+  * Kettering MO: <https://artofproblemsolving.com/community/c3001668_kettering_mo>
+* 
+
 ## 2000:
 * 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
+* 2000 Stanford Mathematics Tournament: <https://artofproblemsolving.com/community/c3856_2000_stanford_mathematics_tournament>
 * 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>
 * 2000 AMC 10: <https://artofproblemsolving.com/community/c4798_2000_amc_10>
 * 
@@ -443,6 +486,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1997:
 * 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
 * 1997 Manhattan Mathematical Olympiad: <https://artofproblemsolving.com/community/c2998127_1997_manhattan_mathematical_olympiad>
+* Maryland University HSMC part II: <https://artofproblemsolving.com/community/c3005502_maryland_university_hsmc_part_ii>
 * 
 
 ## 1995:
@@ -459,6 +503,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://imomath.com/othercomp/Can/CanMO94.pdf
 * 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
 * 1994 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c866132_1994_tuymaada_olympiad>
+* 
+
+## 1992:
+* 1992 IMTS: <https://artofproblemsolving.com/community/c4629_1992_imts>
+* 
+
+## 1991:
+* 1991 IMTS: <https://artofproblemsolving.com/community/c4628_1991_imts>
 * 
 
 ## 1990:

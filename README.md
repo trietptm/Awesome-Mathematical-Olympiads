@@ -281,16 +281,19 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2024:
+* 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 
 
 ## 2023:
+* 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
 * 
 
 ## 2022:
+* 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
@@ -298,10 +301,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2021:
+* 2021 Contests: <https://artofproblemsolving.com/community/c1964313_2021_contests>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
 * 
 
 ## 2020:
+* 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
@@ -311,6 +316,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2019:
+* 2019 Contests: <https://artofproblemsolving.com/community/c801582_2019_contests>
 * 2019 USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c764134_2019_usa_egmo_team_selection_test>
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
@@ -319,6 +325,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2018:
+* 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
@@ -326,6 +333,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2017:
+* 2017 Contests: <https://artofproblemsolving.com/community/c313361_2017_contests>
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
@@ -339,6 +347,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2016:
+* 2016 Contests: <https://artofproblemsolving.com/community/c190175_2016_contests>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
@@ -347,6 +356,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2015:
+* 2015 Contests: <https://artofproblemsolving.com/community/c36608_2015_contests>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
@@ -356,6 +366,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2014:
+* 2014 Contests: <https://artofproblemsolving.com/community/c52_2014_contests>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
   * 2014 Iranian Geometry Olympiad (junior): <https://artofproblemsolving.com/community/c908797_2014_iranian_geometry_olympiad_junior>
 * 2014 MMATHS: <https://artofproblemsolving.com/community/c2991527_2014_mmaths>
@@ -365,10 +376,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2013:
+* 2013 Contests: <https://artofproblemsolving.com/community/c53_2013_contests>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 
 
 ## 2012:
+* 2012 Contests: <https://artofproblemsolving.com/community/c54_2012_contests>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
 * 2012 European Mathematical Cup: <https://artofproblemsolving.com/community/c138269_2012_european_mathematical_cup>
@@ -379,12 +392,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2011:
+* 2011 Contests: <https://artofproblemsolving.com/community/c55_2011_contests>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 
 
 ## 2010:
+* 2010 Contests: <https://artofproblemsolving.com/community/c56_2010_contests>
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
 * 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
@@ -407,6 +422,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2009:
+* 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 

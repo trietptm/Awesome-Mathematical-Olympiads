@@ -40,7 +40,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Math Open At Andover problems (By Phillips Academy Andover FROM 2018): <https://artofproblemsolving.com/community/c2880053_math_open_at_andover_problems>
 * SDML/SDMO Contests (FROM 2007): <https://artofproblemsolving.com/community/c312564_sdmlsdmo_contests>
 * EMCC problems (Exeter Math Club Competition FROM 2010): <https://artofproblemsolving.com/community/c3003268_emcc_problems>
+* CMIMC Problems (Carnegie Mellon Informatics and Mathematics Competition FROM 2016): <https://artofproblemsolving.com/community/c253928_cmimc_problems>
+* CMWMC (Carnegie Mellon University Womens' Competition FROM 2022): <https://artofproblemsolving.com/community/c3503566_cmwmc>
+* CHMMC problems (Caltech Harvey Mudd Math Competition, a math meet in CA for high school students FROM 2010): <https://artofproblemsolving.com/community/c2746308_chmmc_problems>
+* HMNT - HMMT November (Harvard-MIT November Tournament, Harvard-MIT Mathematics Tournament November FROM 2008): <https://artofproblemsolving.com/community/c2881068_hmnt__hmmt_november>
+* Harvard-MIT Mathematics Tournament: <https://artofproblemsolving.com/community/c3417_harvardmit_mathematics_tournament>
+* Duke Math Meet (DMM) (by Duke University FROM 1998): <https://artofproblemsolving.com/community/c3168302_duke_math_meet_dmm>
+* BMT Problems (Berkeley Math Tournament FROM 2012): <https://artofproblemsolving.com/community/c2503467_bmt_problems>
 * BmMT problems (FROM 2012): <https://artofproblemsolving.com/community/c3600421_bmmt_problems>
+* Girls in Math at Yale (FROM 2019): <https://artofproblemsolving.com/community/c2550825_girls_in_math_at_yale>
 * San Diego Power Contest (FROM 2017): <https://artofproblemsolving.com/community/c1101254_san_diego_power_contest>
 * Penn Math Contest (PMC) (FROM 2022): <https://artofproblemsolving.com/community/c3777672_penn_math_contest_pmc>
 * ABMC problems (FROM 2017): <https://artofproblemsolving.com/community/c3594861_abmc_problems>
@@ -272,6 +280,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2022:
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
+* 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 
@@ -294,6 +303,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
+* 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 
 
 ## 2018:
@@ -316,6 +326,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2016:
+* 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
 * 2016 ASMT: <https://artofproblemsolving.com/community/c3568942_2016_asmt>
@@ -340,6 +351,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
 * 2012 European Mathematical Cup: <https://artofproblemsolving.com/community/c138269_2012_european_mathematical_cup>
 * 2012 Gulf Math Olympiad: <https://artofproblemsolving.com/community/c525576_2012_gulf_math_olympiad>
+* 2012 BMT Spring: <https://artofproblemsolving.com/community/c2503454_2012_bmt_spring>
 * 2012 BmMT: <https://artofproblemsolving.com/community/c2779213_2012_bmmt>
 * 
 
@@ -352,6 +364,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
 * 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
+* 2010 CHMMC Fall: <https://artofproblemsolving.com/community/c3012774_2010_chmmc_fall>
+  * 2010 CHMMC Winter: <https://artofproblemsolving.com/community/c3012495_2010_chmmc_winter>
 * 2010 EMCC: <https://artofproblemsolving.com/community/c3003269_2010_emcc>
   * EMCC Accuracy Rounds: <https://artofproblemsolving.com/community/c3568132_emcc_accuracy_rounds>
   * EMCC Speed Rounds: <https://artofproblemsolving.com/community/c3593081_emcc_speed_rounds>
@@ -372,6 +386,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2008:
 * 2008 Romanian Master of Mathematics: <https://artofproblemsolving.com/community/c3724823_2008_romanian_master_of_mathematics>
+* 2008 HMNT: <https://artofproblemsolving.com/community/c3402483_2008_hmnt>
 * 
 
 ## 2007:
@@ -418,6 +433,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1998:
 * 1998 USAMTS Problems: <https://artofproblemsolving.com/community/c4672_1998_usamts_problems>
+* 1998 Harvard-MIT Mathematics Tournament: <https://artofproblemsolving.com/community/c3619_1998_harvardmit_mathematics_tournament>
+* 1998 Duke Math Meet: <https://artofproblemsolving.com/community/c3759926_1998_duke_math_meet>
+  * DMM Team Rounds: <https://artofproblemsolving.com/community/c2821108_dmm_team_rounds>
+  * DMM Individual Rounds: <https://artofproblemsolving.com/community/c3579533_dmm_individual_rounds>
 * 1998 Mediterranean Mathematics Olympiad: <https://artofproblemsolving.com/community/c5254_1998_mediterranean_mathematics_olympiad>
 * 
 

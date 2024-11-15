@@ -138,8 +138,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3265_austria_regional_competition_for_advanced_students>
 * 
 
+## USAMO (FROM 1972):
+* <https://artofproblemsolving.com/community/c3409_usamo>
+* <https://prase.cz/kalva/usa.html>
+* 
+
 ## AUSTRALIAN MATH OLYMPIAD (FROM 1978):
 * <https://artofproblemsolving.com/community/c909330_australian_math_olympiad>
+* <https://imogeometry.blogspot.com/p/australia-amo-uc.html>
 * 
 
 ## AUSTRIAN-POLISH (FROM 1978):

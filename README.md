@@ -258,6 +258,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
 * 
 
+## COSTA RICA - FINAL ROUND (FROM 2003):
+* <https://artofproblemsolving.com/community/c3289_costa_rica__final_round>
+* 
+
 ## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
 * <https://artofproblemsolving.com/community/c3285_south_east_mathematical_olympiad>
 * 
@@ -583,6 +587,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2003:
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
+* 2003 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3527_2003_costa_rica__final_round>
 * 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>
   * 2003 RMT Calculus Round: <https://artofproblemsolving.com/community/c565841_2003_rmt_calculus_round>
 * 2003 JHMMC 8: <https://artofproblemsolving.com/community/c906682_2003_jhmmc_8>

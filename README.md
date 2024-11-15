@@ -126,6 +126,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3275_bulgaria_national_olympiad>
 * 
 
+## GERMAN NATIONAL OLYMPIAD (FROM 1962):
+* <https://artofproblemsolving.com/community/c447157_german_national_olympiad>
+* 
+
 ## DUTCH MATHEMATICAL OLYMPIAD (FROM 1962):
 * <https://artofproblemsolving.com/community/c3350_dutch_mathematical_olympiad>
 * 
@@ -776,6 +780,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1962:
 * 1962 Bulgaria National Olympiad: <https://artofproblemsolving.com/community/c2384814_1962_bulgaria_national_olympiad>
+* 1962 German National Olympiad: <https://artofproblemsolving.com/community/c4055438_1962_german_national_olympiad>
 * 1962 Dutch Mathematical Olympiad: <https://artofproblemsolving.com/community/c3279170_1962_dutch_mathematical_olympiad>
 * 
 

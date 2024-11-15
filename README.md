@@ -118,6 +118,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3371_allrussian_olympiad>
 * 
 
+## BULGARIA NATIONAL OLYMPIAD (FROM 1962):
+* <https://artofproblemsolving.com/community/c3275_bulgaria_national_olympiad>
+* 
+
 ## SERBIA TEAM SELECTION TEST, YUGOSLAV TEAM SELECTION TEST (FROM 1968):
 * <https://artofproblemsolving.com/community/c3376_serbia_team_selection_test>
 * 
@@ -140,6 +144,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## AUSTRIAN-POLISH (FROM 1978):
 * https://artofproblemsolving.com/community/c3267_austrianpolish
+* 
+
+## BRAZIL NATIONAL OLYMPIAD (FROM 1979):
+* <https://artofproblemsolving.com/community/c3273_brazil_national_olympiad>
 * 
 
 ## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1981):
@@ -228,6 +236,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## PAN AFRICAN (FROM 2000):
 * <https://artofproblemsolving.com/community/c3228_pan_african>
+* 
+
+## BOSNIA AND HERZEGOVINA - REGIONAL OLYMPIAD (FROM 2008):
+* <https://artofproblemsolving.com/community/c3270_bosnia_and_herzegovina__regional_olympiad>
 * 
 
 ## PAN-AFRICAN SHORTLIST (FROM 2017):
@@ -539,6 +551,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 HMNT: <https://artofproblemsolving.com/community/c3402483_2008_hmnt>
 * 2008 ITest: <https://artofproblemsolving.com/community/c4445_2008_itest>
   * 2008 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c680215_2008_itest_tournament_of_champions>
+* 2008 Bosnia And Herzegovina - Regional Olympiad: <https://artofproblemsolving.com/community/c3642_2008_bosnia_and_herzegovina__regional_olympiad>
 * 
 
 ## 2007:
@@ -621,6 +634,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1995:
+* 1995 Belarus National Olympiad: <https://artofproblemsolving.com/community/c1980320_1995_belarus_national_olympiad>
 * 1995 Czech and Slovak Match: <https://artofproblemsolving.com/community/c705957_1995_czech_and_slovak_match>
 * 1995 May Olympiad: <https://artofproblemsolving.com/community/c3144153_1995_may_olympiad>
   * May Olympiad L1 - geometry: <https://artofproblemsolving.com/community/c927574_may_olympiad_l1__geometry>
@@ -687,6 +701,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1980 Tournament Of Towns: <https://artofproblemsolving.com/community/c925281_1980_tournament_of_towns>
 * 
 
+## 1979:
+* 1979 Brazil National Olympiad: <https://artofproblemsolving.com/community/c582047_1979_brazil_national_olympiad>
+* 
+
 ## 1978:
 * 1978 Austrian-Polish Competition: <https://artofproblemsolving.com/community/c103442_1978_austrianpolish_competition>
 * 
@@ -710,6 +728,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1966:
 * 1966 IMO Longlists: <https://artofproblemsolving.com/community/c4000_1966_imo_longlists>
+* 
+
+## 1962:
+* 1962 Bulgaria National Olympiad: <https://artofproblemsolving.com/community/c2384814_1962_bulgaria_national_olympiad>
 * 
 
 ## 1961:

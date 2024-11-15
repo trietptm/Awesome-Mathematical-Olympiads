@@ -130,6 +130,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://artofproblemsolving.com/community/c3267_austrianpolish
 * 
 
+## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1981):
+* <https://artofproblemsolving.com/community/c1079628_national_high_school_mathematics_league>
+* 
+
 ## BALKAN MO (FROM 1984):
 * <https://artofproblemsolving.com/community/c3225_balkan_mo>
 * 
@@ -144,6 +148,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## CHINA NATIONAL OLYMPIAD (FROM 1986):
 * <https://artofproblemsolving.com/community/c3284_china_national_olympiad>
+* 
+
+## CHINA TEAM SELECTION TEST (FROM 1986):
+* <https://artofproblemsolving.com/community/c3282_china_team_selection_test>
 * 
 
 ## NORDIC (FROM 1987):
@@ -190,7 +198,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3230_centroamerican>
 * 
 
-## (China) National High School Mathematics League (FROM 1999):
+## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1999):
 * <https://artofproblemsolving.com/community/c3288_china_national_high_school_mathematics_league>
 * 
 
@@ -202,6 +210,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c870447_panafrican_shortlist>
 * 
 
+## CHINA WESTERN MATHEMATICAL OLYMPIAD (FROM 2001):
+* <https://artofproblemsolving.com/community/c3283_china_western_mathematical_olympiad>
+* 
+
 ## SILK ROAD (FROM 2002):
 * <https://artofproblemsolving.com/community/c804124_silk_road>
 * 
@@ -210,12 +222,20 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
 * 
 
+## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
+* <https://artofproblemsolving.com/community/c3285_south_east_mathematical_olympiad>
+* 
+
 ## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
 * <https://artofproblemsolving.com/community/c551206_danube_competition_in_mathematics>
 * 
 
 ## INTERNATIONAL ZHAUTYKOV OLYMPIAD (FROM 2005):
 * <https://artofproblemsolving.com/community/c3241_international_zhautykov_olympiad>
+* 
+
+## CHINA NORTHERN MO (FROM 2005):
+* <https://artofproblemsolving.com/community/c3286_china_northern_mo>
 * 
 
 ## MIDDLE EUROPEAN MATHEMATICAL OLYMPIAD (FROM 2007):
@@ -244,6 +264,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## GULF MATH OLYMPIAD (FROM 2012):
 * <https://artofproblemsolving.com/community/c525584_gulf_math_olympiad>
+* 
+
+## (CHINA) XUEERSI MATHEMATICAL OLYMPIAD - A PRACTICE EXAM HELD BY 学而思教育 (XUEERSI EDUCATION) 学而思数学竞赛联考 (FROM 2013):
+* XES Mathematics Olympiad: https://artofproblemsolving.com/community/c3289271_xes_mathematics_olympiad
+* <https://artofproblemsolving.com/community/c3233142_xmo_china__215__geometry>
 * 
 
 ## ASDAN MATH TOURNAMENT (FROM 2014):
@@ -393,6 +418,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
   * MBMT Team Rounds: <https://artofproblemsolving.com/community/c2890425_mbmt_team_rounds>
   * MBMT Geometry Rounds: <https://artofproblemsolving.com/community/c3588987_mbmt_geometry_rounds>
+* <https://www.georgmohr.dk/bw/bw15sol.pdf>
 * 
 
 ## 2014:
@@ -404,6 +430,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
   * 2014 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4230_2014_nimo_summer_contest>
 * 2014 Online Math Open Problems: <https://artofproblemsolving.com/community/c4388_2014_online_math_open_problems>
+* XMO (China) 2-15 - geometry: <https://artofproblemsolving.com/community/c3233142_xmo_china__215__geometry>
+  * Mock Test / 1st-10th CMO, >=11th Second Round, Xueersi Mathematical Olympiad - a practice exam held by 学而思教育 (Xueersi Education) 学而思数学竞赛联考
+  * (China) the 2nd XMO: <https://artofproblemsolving.com/community/c3813168_the_2nd_xmo>
 * 2014 ASDAN Math Tournament: <https://artofproblemsolving.com/community/c3073738_2014_asdan_math_tournament>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
 * 
@@ -492,6 +521,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
 * 2005 JHMT: <https://artofproblemsolving.com/community/c3553516_2005_jhmt>
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
+* 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
+* 
+
+## 2004:
+* (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
 * 
 
 ## 2003:
@@ -511,6 +545,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2001:
+* 2001 China Western Mathematical Olympiad: <https://artofproblemsolving.com/community/c5195_2001_china_western_mathematical_olympiad>
 * 2001 Kettering HS MO: <https://artofproblemsolving.com/community/c3168260_2001_kettering_hs_mo>
   * Kettering MO: <https://artofproblemsolving.com/community/c3001668_kettering_mo>
 * 
@@ -586,6 +621,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1986:
 * 1986 China National Olympiad: <https://artofproblemsolving.com/community/c5209_1986_china_national_olympiad>
+* 1986 China Team Selection Test: <https://artofproblemsolving.com/community/c4942_1986_china_team_selection_test>
 * 
 
 ## 1985:
@@ -599,6 +635,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1983:
 * 1983 AIME Problems: <https://artofproblemsolving.com/community/c4880_1983_aime_problems>
+* 
+
+## 1981:
+* (CHINA) 1981 National High School Mathematics League: <https://artofproblemsolving.com/community/c1076896_1981_national_high_school_mathematics_league>
 * 
 
 ## 1980:

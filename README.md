@@ -188,12 +188,20 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c915845_balkan_mo_shortlist>
 * 
 
+## GREECE NATIONAL OLYMPIAD (FROM 1985):
+* <https://artofproblemsolving.com/community/c3302_greece_national_olympiad>
+* 
+
 ## IBEROAMERICAN (FROM 1985):
 * <https://artofproblemsolving.com/community/c3229_iberoamerican>
 * 
 
 ## FLANDERS MATH OLYMPIAD (FROM 1986):
 * <https://artofproblemsolving.com/community/c3268_flanders_math_olympiad>
+* 
+
+## INDIA NATIONAL OLYMPIAD (FROM 1986):
+* <https://artofproblemsolving.com/community/c3309_india_national_olympiad>
 * 
 
 ## CHINA NATIONAL OLYMPIAD (FROM 1986):
@@ -256,6 +264,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3294_finnish_national_high_school_mathematics_competition>
 * 
 
+## HONG KONG NATIONAL OLYMPIAD (FROM 1998):
+* <https://artofproblemsolving.com/community/c3305_hong_kong_national_olympiad>
+* 
+
 ## MEDITERRANEAN MATHEMATICS OLYMPIAD (FROM 1998):
 * <https://artofproblemsolving.com/community/c3232_mediterranean_mathematics_olympiad>
 * 
@@ -290,6 +302,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## CHINA GIRLS MATH OLYMPIAD (FROM 2002):
 * <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
+* 
+
+## INDONESIA MO (FROM 2002):
+* <https://artofproblemsolving.com/community/c3317_indonesia_mo>
 * 
 
 ## COSTA RICA - FINAL ROUND (FROM 2003):
@@ -639,6 +655,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * Mid-Michigan MO, Grades 7-9: <https://artofproblemsolving.com/community/c3005888_midmichigan_mo_grades_79>
 * 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
 * 2002 China Girls Math Olympiad: <https://artofproblemsolving.com/community/c3667_2002_china_girls_math_olympiad>
+* 2002 Indonesia MO: <https://artofproblemsolving.com/community/c3645_2002_indonesia_mo>
 * 
 
 ## 2001:
@@ -668,6 +685,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1998 Duke Math Meet: <https://artofproblemsolving.com/community/c3759926_1998_duke_math_meet>
   * DMM Team Rounds: <https://artofproblemsolving.com/community/c2821108_dmm_team_rounds>
   * DMM Individual Rounds: <https://artofproblemsolving.com/community/c3579533_dmm_individual_rounds>
+* 1998 Hong kong National Olympiad: <https://artofproblemsolving.com/community/c5405_1998_hong_kong_national_olympiad>
 * 1998 Mediterranean Mathematics Olympiad: <https://artofproblemsolving.com/community/c5254_1998_mediterranean_mathematics_olympiad>
 * 
 
@@ -723,11 +741,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1986:
 * 1986 Flanders Math Olympiad: <https://artofproblemsolving.com/community/c4587_1986_flanders_math_olympiad>
+* 1986 India National Olympiad: <https://artofproblemsolving.com/community/c4912_1986_india_national_olympiad>
 * 1986 China National Olympiad: <https://artofproblemsolving.com/community/c5209_1986_china_national_olympiad>
 * 1986 China Team Selection Test: <https://artofproblemsolving.com/community/c4942_1986_china_team_selection_test>
 * 
 
 ## 1985:
+* 1985 Greece National Olympiad: <https://artofproblemsolving.com/community/c3998042_1985_greece_national_olympiad>
 * 1985 IberoAmerican: <https://artofproblemsolving.com/community/c4526_1985_iberoamerican>
 * 1985 AMC 8: <https://artofproblemsolving.com/community/c4768_1985_amc_8>
 * 

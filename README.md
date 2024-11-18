@@ -180,6 +180,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3266_austria_federal_comp_for_adv_students_part_1>
 * 
 
+## IRAN MO (2ND ROUND) (FROM 1983):
+* <https://artofproblemsolving.com/community/c3319_iran_mo_2nd_round>
+* 
+
+## IRAN MO (3RD ROUND) (FROM 1993):
+* <https://artofproblemsolving.com/community/c3322_iran_mo_3rd_round>
+* 
+
 ## BALKAN MO (FROM 1984):
 * <https://artofproblemsolving.com/community/c3225_balkan_mo>
 * 
@@ -190,6 +198,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## GREECE NATIONAL OLYMPIAD (FROM 1985):
 * <https://artofproblemsolving.com/community/c3302_greece_national_olympiad>
+* 
+
+## ITALIAN MATHEMATICAL OLYMPIAD (ITAMO FROM 1985):
+* <https://artofproblemsolving.com/community/c3325_itamo>
 * 
 
 ## IBEROAMERICAN (FROM 1985):
@@ -214,6 +226,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## NORDIC (FROM 1987):
 * <https://artofproblemsolving.com/community/c3247_nordic>
+* 
+
+## IRELAND NATIONAL MATH OLYMPIAD (FROM 1988):
+* <https://artofproblemsolving.com/community/c3323_ireland_national_math_olympiad>
 * 
 
 ## CONO SUR OLYMPIAD (FROM 1989):
@@ -246,6 +262,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## BELARUSIAN NATIONAL OLYMPIAD (FROM 1995):
 * <https://artofproblemsolving.com/community/c255067_belarusian_national_olympiad>
+* 
+
+## ISRAEL NATIONAL OLYMPIAD (FROM 1995):
+* <https://artofproblemsolving.com/community/c182661_israel_national_olympiad>
 * 
 
 ## CZECH-POLISH-SLOVAK MATCH (FROM 1995):
@@ -699,6 +719,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1995:
 * 1995 Belarus National Olympiad: <https://artofproblemsolving.com/community/c1980320_1995_belarus_national_olympiad>
+* 1995 Israel Mathematical Olympiad: <https://artofproblemsolving.com/community/c255566_1995_israel_mathematical_olympiad>
 * 1995 Czech and Slovak Match: <https://artofproblemsolving.com/community/c705957_1995_czech_and_slovak_match>
 * 1995 May Olympiad: <https://artofproblemsolving.com/community/c3144153_1995_may_olympiad>
   * May Olympiad L1 - geometry: <https://artofproblemsolving.com/community/c927574_may_olympiad_l1__geometry>
@@ -713,6 +734,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
 * 1994 Argentina National Olympiad: <https://artofproblemsolving.com/community/c3828621_1994_argentina_national_olympiad>
 * 1994 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c866132_1994_tuymaada_olympiad>
+* 
+
+## 1993:
+* 1993 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3483_1993_iran_mo_3rd_round>
 * 
 
 ## 1992:
@@ -735,6 +760,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1989 Cono Sur Olympiad: <https://artofproblemsolving.com/community/c5470_1989_cono_sur_olympiad>
 * 
 
+## 1988:
+* 1988 Irish Math Olympiad: <https://artofproblemsolving.com/community/c526083_1988_irish_math_olympiad>
+* 
+
 ## 1987:
 * 1987 Nordic: <https://artofproblemsolving.com/community/c691087_1987_nordic>
 * 
@@ -748,6 +777,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1985:
 * 1985 Greece National Olympiad: <https://artofproblemsolving.com/community/c3998042_1985_greece_national_olympiad>
+* 1985 ITAMO: <https://artofproblemsolving.com/community/c1063878_1985_itamo>
 * 1985 IberoAmerican: <https://artofproblemsolving.com/community/c4526_1985_iberoamerican>
 * 1985 AMC 8: <https://artofproblemsolving.com/community/c4768_1985_amc_8>
 * 
@@ -758,7 +788,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1983:
 * 1983 AIME Problems: <https://artofproblemsolving.com/community/c4880_1983_aime_problems>
-* 1983 Federal Competition For Advanced Students, P2: <https://artofproblemsolving.com/community/c1060520_1983_federal_competition_for_advanced_students_p2>
+* 1983 Austrian Federal Competition For Advanced Students, P2: <https://artofproblemsolving.com/community/c1060520_1983_federal_competition_for_advanced_students_p2>
+* 1983 Iran MO (2nd round): <https://artofproblemsolving.com/community/c3867_1983_iran_mo_2nd_round>
 * 
 
 ## 1981:

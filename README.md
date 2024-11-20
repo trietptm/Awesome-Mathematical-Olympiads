@@ -108,6 +108,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1135221_iranian_combinatorics_olympiad>
 * 
 
+## MOSCOW MATHEMATICAL OLYMPIAD (FROM 1935):
+* <https://artofproblemsolving.com/community/c3374_moscow_mathematical_olympiad>
+* 
+
+## Kürschák MATH COMPETITION (FROM 1947):
+* <https://artofproblemsolving.com/community/c3308_krschk_math_competition>
+* 
+
 ## POLISH MATHEMATICAL OLYMPIAD (POLISH MO) (FROM 1950):
 * https://om.sem.edu.pl/problems/
 * https://archom.ptm.org.pl/
@@ -224,6 +232,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3282_china_team_selection_test>
 * 
 
+## MEXICO NATIONAL OLYMPIAD (FROM 1987):
+* <https://artofproblemsolving.com/community/c3344_mexico_national_olympiad>
+* 
+
 ## NORDIC (FROM 1987):
 * <https://artofproblemsolving.com/community/c3247_nordic>
 * 
@@ -246,6 +258,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## RIOPLATENSE MATHEMATICAL OLYMPIAD, LEVEL 3 (FROM 1990):
 * <https://artofproblemsolving.com/community/c3243_rioplatense_mathematical_olympiad_level_3>
+* 
+
+## KOREA - FINAL ROUND (FROM 1993):
+* <https://artofproblemsolving.com/community/c3384_korea__final_round>
+* 
+
+## KOREA NATIONAL OLYMPIAD (FROM 1994):
+* <https://artofproblemsolving.com/community/c3383_korea_national_olympiad>
 * 
 
 ## IMC (FROM 1994):
@@ -288,6 +308,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3305_hong_kong_national_olympiad>
 * 
 
+## KAZAKHSTAN NATIONAL OLYMPIAD (FROM 1999):
+* <https://artofproblemsolving.com/community/c3339_kazakhstan_national_olympiad>
+* 
+
 ## MEDITERRANEAN MATHEMATICS OLYMPIAD (FROM 1998):
 * <https://artofproblemsolving.com/community/c3232_mediterranean_mathematics_olympiad>
 * 
@@ -298,6 +322,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1999):
 * <https://artofproblemsolving.com/community/c3288_china_national_high_school_mathematics_league>
+* 
+
+## MACEDONIA NATIONAL OLYMPIAD (FROM 2000):
+* <https://artofproblemsolving.com/community/c3342_macedonia_national_olympiad>
+* 
+
+## MOLDOVA NATIONAL OLYMPIAD (FROM 2000):
+* <https://artofproblemsolving.com/community/c3346_moldova_national_olympiad>
+* 
+
+## MOLDOVA MO 11-12 (FROM 2006):
+* <https://artofproblemsolving.com/community/c3347_moldova_mo_1112>
 * 
 
 ## PAN AFRICAN (FROM 2000):
@@ -348,6 +384,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3286_china_northern_mo>
 * 
 
+## MOROCCO NATIONAL OLYMPIAD (FROM 2005):
+* <https://artofproblemsolving.com/community/c3470_morocco_national_olympiad>
+* 
+
+## LITHUANIA NATIONAL OLYMPIAD (FROM 2006):
+* <https://artofproblemsolving.com/community/c3340_lithuania_national_olympiad>
+* 
+
 ## MIDDLE EUROPEAN MATHEMATICAL OLYMPIAD (FROM 2007):
 * <https://artofproblemsolving.com/community/c3237_middle_european_mathematical_olympiad>
 * 
@@ -356,12 +400,24 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3238_romanian_masters_of_mathematics_collection>
 * 
 
+## KOSOVO NATIONAL MATHEMATICAL OLYMPIAD (FROM 2009):
+* <https://artofproblemsolving.com/community/c3467_kosovo_national_mathematical_olympiad>
+* 
+
+## KYRGYZSTAN NATIONAL OLYMPIAD (FROM 2009):
+* <https://artofproblemsolving.com/community/c3469_kyrgyzstan_national_olympiad>
+* 
+
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
 * 
 
 ## ALBANIA NATIONAL OLYMPIAD (FROM 2010):
 * <https://artofproblemsolving.com/community/c3466_albania_national_olympiad>
+* 
+
+## MALAYSIA NATIONAL OLYMPIAD (FROM 2010):
+* <https://artofproblemsolving.com/community/c3472_malaysia_national_olympiad>
 * 
 
 ## LUSOPHON MATHEMATICAL OLYMPIAD (FROM 2011):
@@ -409,6 +465,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c2474645_ecuador_mathematical_olympiad_omec>
 * 
 
+## LATVIA NATIONAL OLYMPIAD (FROM 2016):
+* <https://artofproblemsolving.com/community/c298872_latvia_national_olympiad>
+* 
+
 ## MATHEMATICAL EXCELLENCE OLYMPIAD (FROM 2017):
 * <https://artofproblemsolving.com/community/c534644_mathematical_excellence_olympiad>
 * 
@@ -419,6 +479,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## SIMON MARAIS MATHEMATICAL COMPETITION (FROM 2017):
 * <https://artofproblemsolving.com/community/c986159_simon_marais_mathematical_competition>
+* 
+
+## NEPAL NATIONAL OLYMPIAD (FROM 2018):
+* <https://artofproblemsolving.com/community/c645391_nepal_national_olympiad>
 * 
 
 ## FINAL MATHEMATICAL CUP (FROM 2019):
@@ -437,6 +501,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3395801_iransingaporetaiwan_friendly_math_competition>
 * 
 
+## KOSOVO & ALBANIA MATHEMATICAL OLYMPIAD (FROM 2022):
+* <https://artofproblemsolving.com/community/c3075847_kosovo_amp_albania_mathematical_olympiad>
+* 
+
 ## IMSC (FROM 2023):
 * <https://artofproblemsolving.com/community/c3509698_imsc>
 * 
@@ -453,6 +521,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
+* 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
 * 
 
 ## 2023:
@@ -466,6 +535,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
+* 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 
 
@@ -496,11 +566,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 2019 Online Math Open Problems: <https://artofproblemsolving.com/community/c951538_2019_online_math_open_problems>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
+* 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
 * 
 
 ## 2018:
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
+* 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
+* 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
@@ -530,6 +603,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
 * 2016 Ecuador NMO (OMEC): <https://artofproblemsolving.com/community/c2474644_2016_ecuador_nmo_omec>
+* 2016 Latvia National Olympiad: <https://artofproblemsolving.com/community/c298869_2016_latvia_national_olympiad>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
@@ -593,6 +667,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2011 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4227_2011_nimo_summer_contest>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 2011 Bangladesh Mathematical Olympiad: <https://artofproblemsolving.com/community/c566956_2011_bangladesh_mathematical_olympiad>
+* 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
 * 
 
 ## 2010:
@@ -601,6 +676,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
 * 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
 * 2010 Albania National Olympiad: <https://artofproblemsolving.com/community/c3970_2010_albania_national_olympiad>
+* 2010 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5376_2010_lithuania_national_olympiad>
+* 2010 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c4132_2010_malaysia_national_olympiad>
 * 2010 CHMMC Fall: <https://artofproblemsolving.com/community/c3012774_2010_chmmc_fall>
   * 2010 CHMMC Winter: <https://artofproblemsolving.com/community/c3012495_2010_chmmc_winter>
 * 2010 EMCC: <https://artofproblemsolving.com/community/c3003269_2010_emcc>
@@ -622,6 +699,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2009:
 * 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
+* 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
+* 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 
 
@@ -631,6 +710,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 ITest: <https://artofproblemsolving.com/community/c4445_2008_itest>
   * 2008 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c680215_2008_itest_tournament_of_champions>
 * 2008 Bosnia And Herzegovina - Regional Olympiad: <https://artofproblemsolving.com/community/c3642_2008_bosnia_and_herzegovina__regional_olympiad>
+* 2008 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5357_2008_moldova_mo_1112>
 * 
 
 ## 2007:
@@ -645,6 +725,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
 * 2006 Princeton University Math Competition: <https://artofproblemsolving.com/community/c4231_2006_princeton_university_math_competition>
 * 2006 iTest: <https://artofproblemsolving.com/community/c779283_2006_itest>
+* 2006 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5375_2006_lithuania_national_olympiad>
+* 2006 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5356_2006_moldova_mo_1112>
 * 
 
 ## 2005:
@@ -654,6 +736,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 JHMT: <https://artofproblemsolving.com/community/c3553516_2005_jhmt>
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
+* 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
 * 
 
 ## 2004:
@@ -688,12 +771,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
 * 2000 Stanford Mathematics Tournament: <https://artofproblemsolving.com/community/c3856_2000_stanford_mathematics_tournament>
+* 2000 Macedonia National Olympiad: <https://artofproblemsolving.com/community/c3566_2000_macedonia_national_olympiad>
+* 2000 Moldova National Olympiad: <https://artofproblemsolving.com/community/c1990481_2000_moldova_national_olympiad>
 * 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>
 * 2000 AMC 10: <https://artofproblemsolving.com/community/c4798_2000_amc_10>
 * 
 
 ## 1999:
 * 1999 ELMO Problems: <https://artofproblemsolving.com/community/c4340_1999_elmo_problems>
+* 1999 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c1460238_1999_kazakhstan_national_olympiad>
 * 1999 BAMO: <https://artofproblemsolving.com/community/c933035_1999_bamo>
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
 * 1999 China Second Round Olympiad: <https://artofproblemsolving.com/community/c925936_1999_china_second_round_olympiad>
@@ -732,11 +818,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://imomath.com/othercomp/Can/CanMO94.pdf
 * 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
+* 1994 Korea National Olympiad: <https://artofproblemsolving.com/community/c909688_1994_korea_national_olympiad>
 * 1994 Argentina National Olympiad: <https://artofproblemsolving.com/community/c3828621_1994_argentina_national_olympiad>
 * 1994 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c866132_1994_tuymaada_olympiad>
 * 
 
 ## 1993:
+* 1993 Korea - Final Round: <https://artofproblemsolving.com/community/c3532_1993_korea__final_round>
 * 1993 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3483_1993_iran_mo_3rd_round>
 * 
 
@@ -765,6 +853,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1987:
+* 1987 Mexico National Olympiad: <https://artofproblemsolving.com/community/c691168_1987_mexico_national_olympiad>
 * 1987 Nordic: <https://artofproblemsolving.com/community/c691087_1987_nordic>
 * 
 
@@ -863,6 +952,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1950 Polish MO Finals: <https://artofproblemsolving.com/community/c3990422_1950_polish_mo_finals>
 * 1950 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918073_1950_moscow_mathematical_olympiad>
 * 1950 AMC 12/AHSME: <https://artofproblemsolving.com/community/c4814_1950_amc_12ahsme>
+* 
+
+## 1947:
+* 1947 Kurschak Competition: <https://artofproblemsolving.com/community/c3169350_1947_kurschak_competition>
 * 
 
 ## 1938:

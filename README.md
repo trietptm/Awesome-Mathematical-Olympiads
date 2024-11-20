@@ -154,6 +154,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1255386_swedish_mathematical_competition>
 * 
 
+## VIETNAM NATIONAL OLYMPIAD (FROM 1962):
+* <https://artofproblemsolving.com/community/c3441_vietnam_national_olympiad>
+* 
+
 ## SPAIN MATHEMATICAL OLYMPIAD (FROM 1964):
 * <https://artofproblemsolving.com/community/c3388_spain_mathematical_olympiad>
 * 
@@ -328,6 +332,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3261_argentina_national_olympiad>
 * 
 
+## ARGENTINA TEAM SELECTION TEST (FROM 2005):
+* <https://artofproblemsolving.com/community/c3259_argentina_team_selection_test>
+* 
+
+## ARGENTINA IBEROAMERICAN TST (FROM 2008):
+* <https://artofproblemsolving.com/community/c943037_argentina_iberoamerican_tst>
+* 
+
+## ARGENTINA CONO SUR TST (FROM 2012):
+* <https://artofproblemsolving.com/community/c3260_argentina_cono_sur_tst>
+* 
+
 ## TUYMAADA OLYMPIAD (FROM 1994):
 * <https://artofproblemsolving.com/community/c3235_tuymaada_olympiad>
 * 
@@ -358,6 +374,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## ROMANIA NATIONAL OLYMPIAD (FROM 1996):
 * <https://artofproblemsolving.com/community/c3365_romania_national_olympiad>
+* 
+
+## CABRI CLUBS (FROM 1996):
+* <https://artofproblemsolving.com/community/c2661720_cabri_clubs>
+  * an Argentinan geometry contest involving Cabri, lasted 1996 -2002 and 2007, source: https://www.oma.org.ar/nacional/cabri/index.htm
 * 
 
 ## UKRAINE NATIONAL MATHEMATICAL OLYMPIAD (FROM 1997):
@@ -456,6 +477,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://artofproblemsolving.com/community/c3391_switzerland__final_round>
 * 
 
+## UZBEKISTAN NATIONAL OLYMPIAD (FROM 2004):
+* <https://artofproblemsolving.com/community/c3440_uzbekistan_national_olympiad>
+* 
+
 ## THAILAND NATIONAL OLYMPIAD (FROM 2004):
 * <https://artofproblemsolving.com/community/c879688_thailand_national_olympiad>
 * 
@@ -500,6 +525,30 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3270_bosnia_and_herzegovina__regional_olympiad>
 * 
 
+## ALBANIA TEAM SELECTION TEST (FROM 2009):
+* <https://artofproblemsolving.com/community/c3465_albania_team_selection_test>
+* 
+
+## ALBANIA NATIONAL OLYMPIAD (FROM 2010):
+* <https://artofproblemsolving.com/community/c3466_albania_national_olympiad>
+* 
+
+## ALBANIA-BALKAN MO TST (FROM 2009):
+* <https://artofproblemsolving.com/community/c3464_albaniabalkan_mo_tst>
+* 
+
+## ALBANIA JBMO TST (FROM 2015):
+* <https://artofproblemsolving.com/community/c3577906_albania_jbmo_tst>
+* 
+
+## ALBANIA ROUND 2 (FROM 2014):
+* <https://artofproblemsolving.com/community/c909829_albania_round_2>
+* 
+
+## KOSOVO & ALBANIA MATHEMATICAL OLYMPIAD (FROM 2022):
+* <https://artofproblemsolving.com/community/c3075847_kosovo_amp_albania_mathematical_olympiad>
+* 
+
 ## KOSOVO NATIONAL MATHEMATICAL OLYMPIAD (FROM 2009):
 * <https://artofproblemsolving.com/community/c3467_kosovo_national_mathematical_olympiad>
 * 
@@ -510,10 +559,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
-* 
-
-## ALBANIA NATIONAL OLYMPIAD (FROM 2010):
-* <https://artofproblemsolving.com/community/c3466_albania_national_olympiad>
 * 
 
 ## MALAYSIA NATIONAL OLYMPIAD (FROM 2010):
@@ -711,6 +756,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
+* 2016 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c1675676_2016_uzbekistan_national_olympiad>
 * 2016 Ecuador NMO (OMEC): <https://artofproblemsolving.com/community/c2474644_2016_ecuador_nmo_omec>
 * 2016 Latvia National Olympiad: <https://artofproblemsolving.com/community/c298869_2016_latvia_national_olympiad>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
@@ -725,6 +771,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
 * 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
+* 2015 Albania JBMO TST: <https://artofproblemsolving.com/community/c3560409_2015_albania_jbmo_tst>
 * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
 * 2015 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c255426_2015_turkmenistan_national_math_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
@@ -743,6 +790,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 NIMO Problems: <https://artofproblemsolving.com/community/c4092_2014_nimo_problems>
   * 2014 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4230_2014_nimo_summer_contest>
 * 2014 Online Math Open Problems: <https://artofproblemsolving.com/community/c4388_2014_online_math_open_problems>
+* 2014 Albania Round 2: <https://artofproblemsolving.com/community/c909830_2014_albania_round_2>
+* 2014 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4275_2014_uzbekistan_national_olympiad>
 * XMO (China) 2-15 - geometry: <https://artofproblemsolving.com/community/c3233142_xmo_china__215__geometry>
   * Mock Test / 1st-10th CMO, >=11th Second Round, Xueersi Mathematical Olympiad - a practice exam held by 学而思教育 (Xueersi Education) 学而思数学竞赛联考
   * (China) the 2nd XMO: <https://artofproblemsolving.com/community/c3813168_the_2nd_xmo>
@@ -755,6 +804,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
 * 2013 Online Math Open Problems: <https://artofproblemsolving.com/community/c4387_2013_online_math_open_problems>
+* 2013 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4274_2013_uzbekistan_national_olympiad>
 * 2013 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675627_2013_turkmenistan_national_math_olympiad>
 * 
 
@@ -769,7 +819,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 NIMO Problems: <https://artofproblemsolving.com/community/c4090_2012_nimo_problems>
   * 2012 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4228_2012_nimo_summer_contest>
 * 2012 Online Math Open Problems: <https://artofproblemsolving.com/community/c4386_2012_online_math_open_problems>
+* 2012 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4273_2012_uzbekistan_national_olympiad>
 * 2012 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675632_2012_turkmenistan_national_math_olympiad>
+* 2012 Argentina Cono Sur TST: <https://artofproblemsolving.com/community/c69800_2012_argentina_cono_sur_tst>
 * 
 
 ## 2011:
@@ -779,6 +831,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2011 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4227_2011_nimo_summer_contest>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 2011 Bangladesh Mathematical Olympiad: <https://artofproblemsolving.com/community/c566956_2011_bangladesh_mathematical_olympiad>
+* 2011 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4272_2011_uzbekistan_national_olympiad>
 * 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
 * 
 
@@ -811,6 +864,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2009:
 * 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
+* 2009 Albania Team Selection Test: <https://artofproblemsolving.com/community/c3965_2009_albania_team_selection_test>
+* 2009 BMO TST: <https://artofproblemsolving.com/community/c3906_2009_bmo_tst>
 * 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
 * 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
@@ -824,6 +879,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 Bosnia And Herzegovina - Regional Olympiad: <https://artofproblemsolving.com/community/c3642_2008_bosnia_and_herzegovina__regional_olympiad>
 * 2008 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5357_2008_moldova_mo_1112>
 * 2008 Philippine MO: <https://artofproblemsolving.com/community/c4408_2008_philippine_mo>
+* 2008 Argentina Iberoamerican TST: <https://artofproblemsolving.com/community/c938333_2008_argentina_iberoamerican_tst>
 * 
 
 ## 2007:
@@ -850,12 +906,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 Sharygin Geometry Olympiad: https://artofproblemsolving.com/community/c865802_2005_sharygin_geometry_olympiad
 * 2005 JHMT: <https://artofproblemsolving.com/community/c3553516_2005_jhmt>
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
+* 2005 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4271_2005_uzbekistan_national_olympiad>
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
+* 2005 Argentina Team Selection Test: <https://artofproblemsolving.com/community/c3843_2005_argentina_team_selection_test>
 * 
 
 ## 2004:
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
+* 2004 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4270_2004_uzbekistan_national_olympiad>
 * 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
 * 
@@ -926,6 +985,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1996:
 * 1996 Romania National Olympiad: <https://artofproblemsolving.com/community/c3949533_1996_romania_national_olympiad>
+* 1st Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2661725_1st_cabri_clubs_1996>
+  * 2nd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662364_2nd_cabri_clubs_1996>
+  * 3rd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662866_3rd_cabri_clubs_1996>
 * 
 
 ## 1995:
@@ -1058,6 +1120,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1962 German National Olympiad: <https://artofproblemsolving.com/community/c4055438_1962_german_national_olympiad>
 * 1962 Dutch Mathematical Olympiad: <https://artofproblemsolving.com/community/c3279170_1962_dutch_mathematical_olympiad>
 * 1962 Swedish Mathematical Competition: <https://artofproblemsolving.com/community/c1971548_1962_swedish_mathematical_competition>
+* 1962 Vietnam National Olympiad: <https://artofproblemsolving.com/community/c4707_1962_vietnam_national_olympiad>
 * 
 
 ## 1961:

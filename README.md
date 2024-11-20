@@ -183,6 +183,22 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://prase.cz/kalva/usa.html>
 * 
 
+## USAJMO (FROM 2010):
+* <https://artofproblemsolving.com/community/c3420_usajmo>
+* 
+
+## USA TEAM SELECTION TEST (FROM 2000):
+* <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
+* 
+
+## USA TSTST (FROM 2011):
+* <https://artofproblemsolving.com/community/c3424_usa_tstst>
+* 
+
+## USA EGMO TEAM SELECTION TEST (FROM 2020):
+* <https://artofproblemsolving.com/community/c788454_usa_egmo_team_selection_test>
+* 
+
 ## AUSTRALIAN MATH OLYMPIAD (FROM 1978):
 * <https://artofproblemsolving.com/community/c909330_australian_math_olympiad>
 * <https://imogeometry.blogspot.com/p/australia-amo-uc.html>
@@ -296,6 +312,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3383_korea_national_olympiad>
 * 
 
+## TURKEY MO (2ND ROUND) (FROM 1993):
+* <https://artofproblemsolving.com/community/c3397_turkey_mo_2nd_round>
+* 
+
 ## IMC (FROM 1994):
 * <https://artofproblemsolving.com/community/c3250_imc>
 * 
@@ -340,6 +360,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3365_romania_national_olympiad>
 * 
 
+## UKRAINE NATIONAL MATHEMATICAL OLYMPIAD (FROM 1997):
+* <https://artofproblemsolving.com/community/c3408_ukraine_national_mathematical_olympiad>
+* 
+
 ## CROATIA NATIONAL OLYMPIAD (FROM 1997):
 * <https://artofproblemsolving.com/community/c3291_croatia_national_olympiad>
 * 
@@ -350,6 +374,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## FINNISH NATIONAL HIGH SCHOOL MATHEMATICS COMPETITION (FROM 1997):
 * <https://artofproblemsolving.com/community/c3294_finnish_national_high_school_mathematics_competition>
+* 
+
+## USAMTS PROBLEMS (FROM 1998):
+* <https://artofproblemsolving.com/community/c3412_usamts_problems>
 * 
 
 ## HONG KONG NATIONAL OLYMPIAD (FROM 1998):
@@ -416,12 +444,20 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3317_indonesia_mo>
 * 
 
+## PURPLE COMET PROBLEMS (FROM 2003):
+* <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
+* 
+
 ## COSTA RICA - FINAL ROUND (FROM 2003):
 * <https://artofproblemsolving.com/community/c3289_costa_rica__final_round>
 * 
 
 ## SWITZERLAND - FINAL ROUND (FROM 2004):
 * https://artofproblemsolving.com/community/c3391_switzerland__final_round>
+* 
+
+## THAILAND NATIONAL OLYMPIAD (FROM 2004):
+* <https://artofproblemsolving.com/community/c879688_thailand_national_olympiad>
 * 
 
 ## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
@@ -490,6 +526,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## BANGLADESH MATHEMATICAL OLYMPIAD (FROM 2011):
 * <https://artofproblemsolving.com/community/c566955_bangladesh_mathematical_olympiad>
+* 
+
+## TURKMENISTAN NATIONAL MATH OLYMPIAD (FROM 2012):
+* <https://artofproblemsolving.com/community/c3480_turkmenistan_national_math_olympiad>
 * 
 
 ## CZECH-POLISH-SLOVAK JUNIOR MATCH (FROM 2012):
@@ -686,6 +726,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
+* 2015 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c255426_2015_turkmenistan_national_math_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
   * MBMT Team Rounds: <https://artofproblemsolving.com/community/c2890425_mbmt_team_rounds>
@@ -714,6 +755,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
 * 2013 Online Math Open Problems: <https://artofproblemsolving.com/community/c4387_2013_online_math_open_problems>
+* 2013 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675627_2013_turkmenistan_national_math_olympiad>
 * 
 
 ## 2012:
@@ -727,6 +769,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 NIMO Problems: <https://artofproblemsolving.com/community/c4090_2012_nimo_problems>
   * 2012 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4228_2012_nimo_summer_contest>
 * 2012 Online Math Open Problems: <https://artofproblemsolving.com/community/c4386_2012_online_math_open_problems>
+* 2012 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675632_2012_turkmenistan_national_math_olympiad>
 * 
 
 ## 2011:
@@ -813,6 +856,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2004:
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
+* 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
 * 
 
@@ -874,6 +918,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
 * 1997 Manhattan Mathematical Olympiad: <https://artofproblemsolving.com/community/c2998127_1997_manhattan_mathematical_olympiad>
 * Maryland University HSMC part II: <https://artofproblemsolving.com/community/c3005502_maryland_university_hsmc_part_ii>
+* 1997 Ukraine National Mathematical Olympiad: <https://artofproblemsolving.com/community/c1142139_1997_ukraine_national_mathematical_olympiad>
 * 1997 Croatia National Olympiad: <https://artofproblemsolving.com/community/c2393490_1997_croatia_national_olympiad>
 * 1997 Slovenia National Olympiad: <https://artofproblemsolving.com/community/c1996664_1997_slovenia_national_olympiad>
 * 1997 Finnish National High School Mathematics Competition: <https://artofproblemsolving.com/community/c4244_1997_finnish_national_high_school_mathematics_competition>
@@ -910,6 +955,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1993 Abels Math Contest (Norwegian MO): <https://artofproblemsolving.com/community/c1071156_1993_abels_math_contest_norwegian_mo>
 * 1993 Korea - Final Round: <https://artofproblemsolving.com/community/c3532_1993_korea__final_round>
 * 1993 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3483_1993_iran_mo_3rd_round>
+* 1993 Turkey MO (2nd round): <https://artofproblemsolving.com/community/c5422_1993_turkey_mo_2nd_round>
 * 
 
 ## 1992:

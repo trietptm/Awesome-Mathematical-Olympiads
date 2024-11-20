@@ -182,6 +182,26 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3265_austria_regional_competition_for_advanced_students>
 * 
 
+## AUSTRIAN FEDERAL COMPETITION FOR ADVANCED STUDENTS, PART 2 (FROM 1983):
+* <https://artofproblemsolving.com/community/c3264_federal_competition_for_advanced_students_part_2>
+* 
+
+## AUSTRIAN MO NATIONAL COMPETITION (FROM 1983):
+* <https://artofproblemsolving.com/community/c3843219_austrian_mo_national_competition>
+* 
+
+## AUSTRIAN MO REGIONAL COMPETITION (FROM 1970):
+* <https://artofproblemsolving.com/community/c3843225_austrian_mo_regional_competition>
+* 
+
+## AUSTRIA FEDERAL COMP. FOR ADV. STUDENTS, PART 1 (FROM 1989):
+* <https://artofproblemsolving.com/community/c3266_austria_federal_comp_for_adv_students_part_1>
+* 
+
+## AUSTRIAN MO BEGINNERS' COMPETITION (FROM 2000):
+* <https://artofproblemsolving.com/community/c3843220_austrian_mo_beginners039_competition>
+* 
+
 ## USAMO (FROM 1972):
 * <https://artofproblemsolving.com/community/c3409_usamo>
 * <https://prase.cz/kalva/usa.html>
@@ -222,14 +242,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1981):
 * <https://artofproblemsolving.com/community/c1079628_national_high_school_mathematics_league>
-* 
-
-## AUSTRIAN FEDERAL COMPETITION FOR ADVANCED STUDENTS, PART 2 (FROM 1983):
-* <https://artofproblemsolving.com/community/c3264_federal_competition_for_advanced_students_part_2>
-* 
-
-## AUSTRIA FEDERAL COMP. FOR ADV. STUDENTS, PART 1 (FROM 1989):
-* <https://artofproblemsolving.com/community/c3266_austria_federal_comp_for_adv_students_part_1>
 * 
 
 ## IRAN MO (2ND ROUND) (FROM 1983):
@@ -960,6 +972,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
 * 2000 Stanford Mathematics Tournament: <https://artofproblemsolving.com/community/c3856_2000_stanford_mathematics_tournament>
+* 2000 Austria Beginners' Competition: <https://artofproblemsolving.com/community/c3164185_2000_austria_beginners_competition>
 * 2000 Macedonia National Olympiad: <https://artofproblemsolving.com/community/c3566_2000_macedonia_national_olympiad>
 * 2000 Moldova National Olympiad: <https://artofproblemsolving.com/community/c1990481_2000_moldova_national_olympiad>
 * 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>

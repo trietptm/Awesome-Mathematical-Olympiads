@@ -706,6 +706,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2022:
 * 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
+* 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
@@ -745,6 +746,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2018:
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
+* 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
@@ -757,6 +759,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2017:
 * 2017 Contests: <https://artofproblemsolving.com/community/c313361_2017_contests>
+* 2017 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946169_2017_moscow_mathematical_olympiad>
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
   * 2017 NIMO Summer Contest: <https://artofproblemsolving.com/community/c931800_2017_nimo_summer_contest>
@@ -998,6 +1001,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1997:
+* 1997 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3379481_1997_moscow_mathematical_olympiad>
 * 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
 * 1997 Manhattan Mathematical Olympiad: <https://artofproblemsolving.com/community/c2998127_1997_manhattan_mathematical_olympiad>
 * Maryland University HSMC part II: <https://artofproblemsolving.com/community/c3005502_maryland_university_hsmc_part_ii>
@@ -1008,6 +1012,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1996:
+* 1996 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946178_1996_moscow_mathematical_olympiad>
 * 1996 Romania National Olympiad: <https://artofproblemsolving.com/community/c3949533_1996_romania_national_olympiad>
 * 1st Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2661725_1st_cabri_clubs_1996>
   * 2nd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662364_2nd_cabri_clubs_1996>
@@ -1162,13 +1167,35 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1958 MMPC: <https://artofproblemsolving.com/community/c3175604_1958_mmpc>
 * 
 
+## 1957:
+* 1957 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c928079_1957_moscow_mathematical_olympiad>
+* 
+
+## 1956:
+* 1956 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c926757_1956_moscow_mathematical_olympiad>
+* 
+
+## 1955:
+* 1955 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c925493_1955_moscow_mathematical_olympiad>
+* 
+
+## 1954:
+* 1954 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918098_1954_moscow_mathematical_olympiad>
+* 
+
 ## 1953:
+* 1953 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918097_1953_moscow_mathematical_olympiad>
 * 1953 Polish MO Finals: https://artofproblemsolving.com/community/c3981021
   * https://archom.ptm.org.pl/?q=node/1698
 * 
 
 ## 1952:
+* 1952 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918096_1952_moscow_mathematical_olympiad>
 * 1952 Czech and Slovak Olympiad III A: <https://artofproblemsolving.com/community/c1125774_1952_czech_and_slovak_olympiad_iii_a>
+* 
+
+## 1951:
+* 1951 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918086_1951_moscow_mathematical_olympiad>
 * 
 
 ## 1950:

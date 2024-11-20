@@ -208,6 +208,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://imogeometry.blogspot.com/p/australia-amo-uc.html>
 * 
 
+## AUSTRALIA NATIONAL OLYMPIAD (FROM 2006):
+* <https://artofproblemsolving.com/community/c3262_australia_national_olympiad>
+* 
+
 ## AUSTRIAN-POLISH (FROM 1978):
 * https://artofproblemsolving.com/community/c3267_austrianpolish
 * 
@@ -573,6 +577,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c566955_bangladesh_mathematical_olympiad>
 * 
 
+## ARMENIA NATIONAL MATH OLYMPIAD (FROM 2011):
+* <https://artofproblemsolving.com/community/c1675634_armenia_national_math_olympiad>
+* 
+
 ## TURKMENISTAN NATIONAL MATH OLYMPIAD (FROM 2012):
 * <https://artofproblemsolving.com/community/c3480_turkmenistan_national_math_olympiad>
 * 
@@ -672,6 +680,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2024:
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
+* 2024 Australian Mathematical Olympiad: <https://artofproblemsolving.com/community/c3781759_2024_australian_mathematical_olympiad>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
@@ -833,6 +842,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Bangladesh Mathematical Olympiad: <https://artofproblemsolving.com/community/c566956_2011_bangladesh_mathematical_olympiad>
 * 2011 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4272_2011_uzbekistan_national_olympiad>
 * 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
+* 2011 Armenian Republican Olympiads: <https://artofproblemsolving.com/community/c302119_2011_armenian_republican_olympiads>
 * 
 
 ## 2010:
@@ -895,6 +905,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
 * 2006 Princeton University Math Competition: <https://artofproblemsolving.com/community/c4231_2006_princeton_university_math_competition>
 * 2006 iTest: <https://artofproblemsolving.com/community/c779283_2006_itest>
+* 2006 Australia National Olympiad: <https://artofproblemsolving.com/community/c5391_2006_australia_national_olympiad>
 * 2006 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5375_2006_lithuania_national_olympiad>
 * 2006 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5356_2006_moldova_mo_1112>
 * 

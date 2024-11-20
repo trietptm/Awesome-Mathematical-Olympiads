@@ -1177,12 +1177,50 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1950 AMC 12/AHSME: <https://artofproblemsolving.com/community/c4814_1950_amc_12ahsme>
 * 
 
+## 1949:
+* 1949 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909523_1949_moscow_mathematical_olympiad>
+* 
+
+## 1948:
+* 1948 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909522_1948_moscow_mathematical_olympiad>
+* 
+
 ## 1947:
+* 1947 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909513_1947_moscow_mathematical_olympiad>
 * 1947 Kurschak Competition: <https://artofproblemsolving.com/community/c3169350_1947_kurschak_competition>
 * 
 
+## 1946:
+* 1946 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909512_1946_moscow_mathematical_olympiad>
+* 
+
+## 1945:
+* 1945 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909511_1945_moscow_mathematical_olympiad>
+* 
+
+## 1941:
+* 1941 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908781_1941_moscow_mathematical_olympiad>
+* 
+
+## 1940:
+* 1940 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908780_1940_moscow_mathematical_olympiad>
+* 
+
+## 1939:
+* 1939 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908779_1939_moscow_mathematical_olympiad>
+* 
+
 ## 1938:
+* 1938 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908766_1938_moscow_mathematical_olympiad>
 * Putnam 1938: <https://artofproblemsolving.com/community/c2436795_putnam_1938>
+* 
+
+## 1937:
+* 1937 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908765_1937_moscow_mathematical_olympiad>
+* 
+
+## 1936:
+* 1936 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908760_1936_moscow_mathematical_olympiad>
 * 
 
 ## 1935:

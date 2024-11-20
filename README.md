@@ -1265,8 +1265,156 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1935:
+* 1935 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006252_1935_eotvos_mathematical_competition>
 * 1935 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908733_1935_moscow_mathematical_olympiad>
 * 
+
+## 1934:
+* 1934 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006251_1934_eotvos_mathematical_competition>
+* 
+
+## 1933:
+* 1933 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006250_1933_eotvos_mathematical_competition>
+* 
+
+## 1932:
+* 1932 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006249_1932_eotvos_mathematical_competition>
+* 
+
+## 1931:
+* 1931 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006248_1931_eotvos_mathematical_competition>
+* 
+
+## 1930:
+* 1930 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006243_1930_eotvos_mathematical_competition>
+* 
+
+## 1929:
+* 1929 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006088_1929_eotvos_mathematical_competition>
+* 
+
+## 1928:
+* 1928 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006087_1928_eotvos_mathematical_competition>
+* 
+
+## 1927:
+* 1927 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006086_1927_eotvos_mathematical_competition>
+* 
+
+## 1926:
+* 1926 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006085_1926_eotvos_mathematical_competition>
+* 
+
+## 1925:
+* 1925 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006084_1925_eotvos_mathematical_competition>
+* 
+
+## 1924:
+* 1924 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006083_1924_eotvos_mathematical_competition>
+* 
+
+## 1923:
+* 1923 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004477_1923_eotvos_mathematical_competition>
+* 
+
+## 1922:
+* 1922 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004485_1922_eotvos_mathematical_competition>
+* 
+
+## 1918:
+* 1918 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004484_1918_eotvos_mathematical_competition>
+* 
+
+## 1917:
+* 1917 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004483_1917_eotvos_mathematical_competition>
+* 
+
+## 1916:
+* <https://artofproblemsolving.com/community/c4004482_1916_eotvos_mathematical_competition>
+* 
+
+## 1915:
+* 1915 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004481_1915_eotvos_mathematical_competition>
+* 
+
+## 1914:
+* 1914 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004480_1914_eotvos_mathematical_competition>
+* 
+
+## 1913:
+* 1913 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004479_1913_eotvos_mathematical_competition>
+* 
+
+## 1912:
+* 1912 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004478_1912_eotvos_mathematical_competition>
+* 
+
+## 1911:
+* 1911 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4004476_1911_eotvos_mathematical_competition>
+* 
+
+## 1910:
+* 1910 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4002094_1910_eotvos_mathematical_competition>
+* 
+
+## 1909:
+* 1909 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4002089_1909_eotvos_mathematical_competition>
+* 
+
+## 1908:
+* 1908 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4002088_1908_eotvos_mathematical_competition>
+* 
+
+## 1907:
+* 1907 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4002087_1907_eotvos_mathematical_competition>
+* 
+
+## 1906:
+* 1906 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c3999178_1906_eotvos_mathematical_competition>
+* 
+
+## 1905:
+* 1905 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c3999127_1905_eotvos_mathematical_competition>
+* 
+
+## 1904:
+* 1904 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c3998050_1904_eotvos_mathematical_competition>
+* 
+
+## 1903:
+* 1903 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c3998954_1903_eotvos_mathematical_competition>
+* 
+
+## 1902:
+* 1902 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c3998043_1902_eotvos_mathematical_competition>
+* 
+
+## 1901:
+* 1901 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1099776_1901_eotvos_mathematical_competition>
+* 
+
+## 1900:
+* 1900 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1094199_1900_eotvos_mathematical_competition>
+* 
+
+## 1899:
+* 1899 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093649_1899_eotvos_mathematical_competition>
+* 
+
+## 1898:
+* 1898 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093648_1898_eotvos_mathematical_competition>
+* 
+
+## 1897:
+* 1897 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093639_1897_eotvos_mathematical_competition>
+* 
+
+## 1896:
+* 1896 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093637_1896_eotvos_mathematical_competition>
+* 
+
+## 1895:
+* 1895 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093636_1895_eotvos_mathematical_competition>
 
 ## 1894:
 * 1894 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093626_1894_eotvos_mathematical_competition>

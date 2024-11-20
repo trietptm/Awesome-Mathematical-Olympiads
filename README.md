@@ -150,6 +150,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3350_dutch_mathematical_olympiad>
 * 
 
+## SWEDISH MATHEMATICAL COMPETITION (FROM 1962):
+* <https://artofproblemsolving.com/community/c1255386_swedish_mathematical_competition>
+* 
+
+## SPAIN MATHEMATICAL OLYMPIAD (FROM 1964):
+* <https://artofproblemsolving.com/community/c3388_spain_mathematical_olympiad>
+* 
+
 ## SERBIA TEAM SELECTION TEST, YUGOSLAV TEAM SELECTION TEST (FROM 1968):
 * <https://artofproblemsolving.com/community/c3376_serbia_team_selection_test>
 * 
@@ -270,6 +278,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## RIOPLATENSE MATHEMATICAL OLYMPIAD, LEVEL 3 (FROM 1990):
 * <https://artofproblemsolving.com/community/c3243_rioplatense_mathematical_olympiad_level_3>
+* 
+
+## TAIWAN NATIONAL OLYMPIAD (FROM 1992):
+* <https://artofproblemsolving.com/community/c3393_taiwan_national_olympiad>
 * 
 
 ## NIELS HENRIK ABELS MATH CONTEST (NORWEGIAN MATH OLYMPIAD) FINAL ROUND (FROM 1993):
@@ -406,6 +418,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## COSTA RICA - FINAL ROUND (FROM 2003):
 * <https://artofproblemsolving.com/community/c3289_costa_rica__final_round>
+* 
+
+## SWITZERLAND - FINAL ROUND (FROM 2004):
+* https://artofproblemsolving.com/community/c3391_switzerland__final_round>
 * 
 
 ## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
@@ -796,6 +812,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2004:
+* 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
 * 
 
@@ -897,6 +914,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1992:
 * 1992 IMTS: <https://artofproblemsolving.com/community/c4629_1992_imts>
+* 1992 Taiwan National Olympiad: <https://artofproblemsolving.com/community/c5358_1992_taiwan_national_olympiad>
 * 
 
 ## 1991:
@@ -985,10 +1003,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1966 IMO Longlists: <https://artofproblemsolving.com/community/c4000_1966_imo_longlists>
 * 
 
+## 1964:
+* 1964 Spain Mathematical Olympiad: <https://artofproblemsolving.com/community/c387197_1964_spain_mathematical_olympiad>
+* 
+
 ## 1962:
 * 1962 Bulgaria National Olympiad: <https://artofproblemsolving.com/community/c2384814_1962_bulgaria_national_olympiad>
 * 1962 German National Olympiad: <https://artofproblemsolving.com/community/c4055438_1962_german_national_olympiad>
 * 1962 Dutch Mathematical Olympiad: <https://artofproblemsolving.com/community/c3279170_1962_dutch_mathematical_olympiad>
+* 1962 Swedish Mathematical Competition: <https://artofproblemsolving.com/community/c1971548_1962_swedish_mathematical_competition>
 * 
 
 ## 1961:

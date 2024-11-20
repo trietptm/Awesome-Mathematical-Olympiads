@@ -112,6 +112,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1135221_iranian_combinatorics_olympiad>
 * 
 
+## EOTVOS MATHEMATICAL COMPETITION (HUNGARY) (FROM 1894):
+* <https://artofproblemsolving.com/community/c3998924_eotvos_mathematical_competition_hungary>
+* 
+
 ## MOSCOW MATHEMATICAL OLYMPIAD (FROM 1935):
 * <https://artofproblemsolving.com/community/c3374_moscow_mathematical_olympiad>
 * 
@@ -1225,11 +1229,21 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1945 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909511_1945_moscow_mathematical_olympiad>
 * 
 
+## 1943:
+* 1943 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006215_1943_eotvos_mathematical_competition>
+* 
+
+## 1942:
+* 1942 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006216_1942_eotvos_mathematical_competition>
+* 
+
 ## 1941:
+* 1941 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006229_1941_eotvos_mathematical_competition>
 * 1941 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908781_1941_moscow_mathematical_olympiad>
 * 
 
 ## 1940:
+* 1940 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006230_1940_eotvos_mathematical_competition>
 * 1940 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908780_1940_moscow_mathematical_olympiad>
 * 
 
@@ -1252,6 +1266,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1935:
 * 1935 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908733_1935_moscow_mathematical_olympiad>
+* 
+
+## 1894:
+* 1894 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c1093626_1894_eotvos_mathematical_competition>
 * 
 
 ## LINKS:

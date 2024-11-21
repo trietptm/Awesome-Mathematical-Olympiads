@@ -124,6 +124,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3374_moscow_mathematical_olympiad>
 * 
 
+## MIKLÓS SCHWEITZER (FROM 1949):
+* <https://artofproblemsolving.com/community/c3253_mikls_schweitzer>
+* 
+
 ## POLISH MATHEMATICAL OLYMPIAD (POLISH MO) (FROM 1950):
 * https://om.sem.edu.pl/problems/
 * https://archom.ptm.org.pl/
@@ -354,6 +358,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## ARGENTINA TEAM SELECTION TEST (FROM 2005):
 * <https://artofproblemsolving.com/community/c3259_argentina_team_selection_test>
+* 
+
+## DURER MATH COMPETITION (FROM 2008):
+* <https://artofproblemsolving.com/community/c1621671_durer_math_competition>
+  * Dürer. a Team Math Competition from Hungary, International since 2019
 * 
 
 ## ARGENTINA IBEROAMERICAN TST (FROM 2008):
@@ -696,6 +705,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2024:
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
+* 2024 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3839913_2024_durer_math_competition_finals>
 * 2024 Australian Mathematical Olympiad: <https://artofproblemsolving.com/community/c3781759_2024_australian_mathematical_olympiad>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
@@ -705,6 +715,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2023:
 * 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>
 * 2023 Kurschak Competition: <https://artofproblemsolving.com/community/c3788837_2023_kurschak_competition>
+* 2023 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3839918_2023_durer__math_competition_first_round>
+  * 2023 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3833205_2023_durer_math_competition_finals>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
 * 
@@ -712,6 +724,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2022:
 * 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
+* 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
+  * 2022 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3213316_2022_durer_math_competition_finals>
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
@@ -723,6 +737,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2021:
 * 2021 Contests: <https://artofproblemsolving.com/community/c1964313_2021_contests>
 * 2021 Kurschak Competition: <https://artofproblemsolving.com/community/c2504236_2021_kurschak_competition>
+* 2021 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c2773609_2021_durer_math_competition_first_round>
+  * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
 * 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
 * 
@@ -730,6 +746,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2020:
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
+* 2020 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1262354_2020_duumlrer_math_competition_first_round>
+  * 2020 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1622639_2020_durer_math_competition_finals>
 * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
 * 2020 USMCA: <https://artofproblemsolving.com/community/c1055557_2020_usmca>
 * 2020 Online Math Open Problems: <https://artofproblemsolving.com/community/c1124220_2020_online_math_open_problems>
@@ -743,6 +761,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2019:
 * 2019 Contests: <https://artofproblemsolving.com/community/c801582_2019_contests>
 * 2019 Kurschak Competition: <https://artofproblemsolving.com/community/c1085530_2019_kurschak_competition>
+* 2019 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1261685_2019_duumlrer_math_competition_first_round>
+  * 2019 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1621835_2019_durer_math_competition_finals>
 * 2019 USA EGMO Team Selection Test: <https://artofproblemsolving.com/community/c764134_2019_usa_egmo_team_selection_test>
 * Kvant 2019: <https://artofproblemsolving.com/community/c3311160_kvant_2019>
 * 2019 Final Mathematical Cup: <https://artofproblemsolving.com/community/c1332671_2019_final_mathematical_cup>
@@ -917,6 +937,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2008:
 * 2008 Kurschak Competition: <https://artofproblemsolving.com/community/c103155_2008_kurschak_competition>
+* Durer Math Competition CD 1st Round - geometry: <https://artofproblemsolving.com/community/c3186990_durer_math_competition_cd_1st_round__geometry>
+  * Durer Math Competition CD Finals - geometry: <https://artofproblemsolving.com/community/c1648235_durer_math_competition_cd_finals__geometry>
 * 2008 Romanian Master of Mathematics: <https://artofproblemsolving.com/community/c3724823_2008_romanian_master_of_mathematics>
 * 2008 HMNT: <https://artofproblemsolving.com/community/c3402483_2008_hmnt>
 * 2008 ITest: <https://artofproblemsolving.com/community/c4445_2008_itest>
@@ -1317,6 +1339,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1949:
 * 1949 Kurschak Competition: <https://artofproblemsolving.com/community/c3169352_1949_kurschak_competition>
 * 1949 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909523_1949_moscow_mathematical_olympiad>
+* 1949 Miklós Schweitzer: <https://artofproblemsolving.com/community/c3692_1949_mikls_schweitzer>
 * 
 
 ## 1948:

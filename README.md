@@ -112,16 +112,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1135221_iranian_combinatorics_olympiad>
 * 
 
-## EOTVOS MATHEMATICAL COMPETITION (HUNGARY) (FROM 1894):
+## EOTVOS MATHEMATICAL COMPETITION (HUNGARY) (EOTVOS FROM 1894, Kürschák FROM 1947):
 * <https://artofproblemsolving.com/community/c3998924_eotvos_mathematical_competition_hungary>
-* 
-
-## MOSCOW MATHEMATICAL OLYMPIAD (FROM 1935):
-* <https://artofproblemsolving.com/community/c3374_moscow_mathematical_olympiad>
 * 
 
 ## Kürschák MATH COMPETITION (FROM 1947):
 * <https://artofproblemsolving.com/community/c3308_krschk_math_competition>
+* 
+
+## MOSCOW MATHEMATICAL OLYMPIAD (FROM 1935):
+* <https://artofproblemsolving.com/community/c3374_moscow_mathematical_olympiad>
 * 
 
 ## POLISH MATHEMATICAL OLYMPIAD (POLISH MO) (FROM 1950):
@@ -1248,19 +1248,23 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1939:
+* 1939 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006256_1939_eotvos_mathematical_competition>
 * 1939 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908779_1939_moscow_mathematical_olympiad>
 * 
 
 ## 1938:
+* 1938 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006255_1938_eotvos_mathematical_competition>
 * 1938 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908766_1938_moscow_mathematical_olympiad>
 * Putnam 1938: <https://artofproblemsolving.com/community/c2436795_putnam_1938>
 * 
 
 ## 1937:
+* 1937 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006254_1937_eotvos_mathematical_competition>
 * 1937 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908765_1937_moscow_mathematical_olympiad>
 * 
 
 ## 1936:
+* 1936 Eotvos Mathematical Competition: <https://artofproblemsolving.com/community/c4006253_1936_eotvos_mathematical_competition>
 * 1936 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c908760_1936_moscow_mathematical_olympiad>
 * 
 

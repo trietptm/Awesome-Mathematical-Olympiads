@@ -1223,6 +1223,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1946:
 * 1946 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909512_1946_moscow_mathematical_olympiad>
+* <https://mathsmartinthomas.wordpress.com/wp-content/uploads/2018/09/stanfordproblem.pdf>
+  * <https://archive.org/details/TheStanfordMathematicsProblemBook>
+* 1946 Putnam: <https://artofproblemsolving.com/community/c3012768_1946_putnam> ; <https://prase.cz/kalva/putnam/putn46.html>
 * 
 
 ## 1945:

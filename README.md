@@ -1107,36 +1107,72 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1983 Iran MO (2nd round): <https://artofproblemsolving.com/community/c3867_1983_iran_mo_2nd_round>
 * 
 
+## 1982:
+* 1982 Kurschak Competition: <https://artofproblemsolving.com/community/c3169365_1982_kurschak_competition>
+* 
+
 ## 1981:
+* 1981 Kurschak Competition: <https://artofproblemsolving.com/community/c3169364_1981_kurschak_competition>
 * (CHINA) 1981 National High School Mathematics League: <https://artofproblemsolving.com/community/c1076896_1981_national_high_school_mathematics_league>
 * 
 
 ## 1980:
+* 1980 Kurschak Competition: <https://artofproblemsolving.com/community/c3169363_1980_kurschak_competition>
 * 1980 Tournament Of Towns: <https://artofproblemsolving.com/community/c925281_1980_tournament_of_towns>
 * 
 
 ## 1979:
+* 1979 Kurschak Competition: <https://artofproblemsolving.com/community/c3174948_1979_kurschak_competition>
 * 1979 Brazil National Olympiad: <https://artofproblemsolving.com/community/c582047_1979_brazil_national_olympiad>
 * 
 
 ## 1978:
+* 1978 Kurschak Competition: <https://artofproblemsolving.com/community/c3174943_1978_kurschak_competition>
 * 1978 Austrian-Polish Competition: <https://artofproblemsolving.com/community/c103442_1978_austrianpolish_competition>
 * 
 
+## 1977:
+* 1977 Kurschak Competition: <https://artofproblemsolving.com/community/c3174942_1977_kurschak_competition>
+* 
+
+## 1976:
+* 1976 Kurschak Competition: <https://artofproblemsolving.com/community/c3174941_1976_kurschak_competition>
+* 
+
+## 1975:
+* 1975 Kurschak Competition: <https://artofproblemsolving.com/community/c3174940_1975_kurschak_competition>
+* 
+
+## 1974:
+* 1974 Kurschak Competition: <https://artofproblemsolving.com/community/c3174939_1974_kurschak_competition>
+* 
+
+## 1973:
+* 1973 Kurschak Competition: <https://artofproblemsolving.com/community/c3174938_1973_kurschak_competition>
+* 
+
 ## 1972:
+* 1972 Kurschak Competition: <https://artofproblemsolving.com/community/c3174937_1972_kurschak_competition>
 * 1972 USAMO: <https://artofproblemsolving.com/community/c4470_1972_usamo>
 * 
 
+## 1971:
+* 1971 Kurschak Competition: <https://artofproblemsolving.com/community/c3174936_1971_kurschak_competition>
+* 
+
 ## 1970:
+* 1970 Kurschak Competition: <https://artofproblemsolving.com/community/c3174935_1970_kurschak_competition>
 * 1970 Regional Competition For Advanced Students: <https://artofproblemsolving.com/community/c3766_1970_regional_competition_for_advanced_students>
 * 
 
 ## 1969:
+* 1969 Kurschak Competition: <https://artofproblemsolving.com/community/c3170003_1969_kurschak_competition>
 * 1969 Canada National Olympiad: https://cms.math.ca/wp-content/uploads/2019/07/exam1969.pdf
   * https://artofproblemsolving.com/community/c5014_1969_canada_national_olympiad
 * 
 
 ## 1968:
+* 1968 Kurschak Competition: <https://artofproblemsolving.com/community/c3170002_1968_kurschak_competition>
 * 1968 Yugoslav Team Selection Test: <https://artofproblemsolving.com/community/c2014656_1968_yugoslav_team_selection_test>
 * 
 

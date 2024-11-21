@@ -1140,15 +1140,30 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1968 Yugoslav Team Selection Test: <https://artofproblemsolving.com/community/c2014656_1968_yugoslav_team_selection_test>
 * 
 
+## 1967:
+* 1967 Kurschak Competition: <https://artofproblemsolving.com/community/c3170001_1967_kurschak_competition>
+* 
+
 ## 1966:
+* 1966 Kurschak Competition: <https://artofproblemsolving.com/community/c3169999_1966_kurschak_competition>
 * 1966 IMO Longlists: <https://artofproblemsolving.com/community/c4000_1966_imo_longlists>
 * 
 
+## 1965:
+* 1965 Kurschak Competition: <https://artofproblemsolving.com/community/c3169998_1965_kurschak_competition>
+* 
+
 ## 1964:
+* 1964 Kurschak Competition: <https://artofproblemsolving.com/community/c3169997_1964_kurschak_competition>
 * 1964 Spain Mathematical Olympiad: <https://artofproblemsolving.com/community/c387197_1964_spain_mathematical_olympiad>
 * 
 
+## 1963:
+* 1963 Kurschak Competition: <https://artofproblemsolving.com/community/c3169996_1963_kurschak_competition>
+* 
+
 ## 1962:
+* 1962 Kurschak Competition: <https://artofproblemsolving.com/community/c3169994_1962_kurschak_competition>
 * 1962 Bulgaria National Olympiad: <https://artofproblemsolving.com/community/c2384814_1962_bulgaria_national_olympiad>
 * 1962 German National Olympiad: <https://artofproblemsolving.com/community/c4055438_1962_german_national_olympiad>
 * 1962 Dutch Mathematical Olympiad: <https://artofproblemsolving.com/community/c3279170_1962_dutch_mathematical_olympiad>
@@ -1157,21 +1172,29 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1961:
+* 1961 Kurschak Competition: <https://artofproblemsolving.com/community/c3169993_1961_kurschak_competition>
 * 1961 Leningrad Math Olympiad: <https://artofproblemsolving.com/community/c3983442_1961_leningrad_math_olympiad>
 * 1961 All Russian Mathematical Olympiad: <https://artofproblemsolving.com/community/c895918_1961_all_russian_mathematical_olympiad>
 * 1961 All-Soviet Union Olympiad: <https://artofproblemsolving.com/community/c114577_1961_allsoviet_union_olympiad>
 * 
 
+## 1960:
+* 1960 Kurschak Competition: <https://artofproblemsolving.com/community/c3169359_1960_kurschak_competition>
+* 
+
 ## 1959:
+* 1959 Kurschak Competition: <https://artofproblemsolving.com/community/c3169362_1959_kurschak_competition>
 * 1959 IMO: <https://artofproblemsolving.com/community/c3786_1959_imo>
 * 1959 IMO Shortlist: <https://artofproblemsolving.com/community/c3910_1959_imo_shortlist>
 * 
 
 ## 1958:
+* 1958 Kurschak Competition: <https://artofproblemsolving.com/community/c3169361_1958_kurschak_competition>
 * 1958 MMPC: <https://artofproblemsolving.com/community/c3175604_1958_mmpc>
 * 
 
 ## 1957:
+* 1957 Kurschak Competition: <https://artofproblemsolving.com/community/c3169360_1957_kurschak_competition>
 * 1957 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c928079_1957_moscow_mathematical_olympiad>
 * 
 
@@ -1180,39 +1203,47 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 1955:
+* 1955 Kurschak Competition: <https://artofproblemsolving.com/community/c3169358_1955_kurschak_competition>
 * 1955 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c925493_1955_moscow_mathematical_olympiad>
 * 
 
 ## 1954:
+* 1954 Kurschak Competition: <https://artofproblemsolving.com/community/c3169357_1954_kurschak_competition>
 * 1954 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918098_1954_moscow_mathematical_olympiad>
 * 
 
 ## 1953:
+* 1953 Kurschak Competition: <https://artofproblemsolving.com/community/c3169356_1953_kurschak_competition>
 * 1953 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918097_1953_moscow_mathematical_olympiad>
 * 1953 Polish MO Finals: https://artofproblemsolving.com/community/c3981021
   * https://archom.ptm.org.pl/?q=node/1698
 * 
 
 ## 1952:
+* 1952 Kurschak Competition: <https://artofproblemsolving.com/community/c3169355_1952_kurschak_competition>
 * 1952 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918096_1952_moscow_mathematical_olympiad>
 * 1952 Czech and Slovak Olympiad III A: <https://artofproblemsolving.com/community/c1125774_1952_czech_and_slovak_olympiad_iii_a>
 * 
 
 ## 1951:
+* 1951 Kurschak Competition: <https://artofproblemsolving.com/community/c3169354_1951_kurschak_competition>
 * 1951 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918086_1951_moscow_mathematical_olympiad>
 * 
 
 ## 1950:
+* 1950 Kurschak Competition: <https://artofproblemsolving.com/community/c3169353_1950_kurschak_competition>
 * 1950 Polish MO Finals: <https://artofproblemsolving.com/community/c3990422_1950_polish_mo_finals>
 * 1950 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c918073_1950_moscow_mathematical_olympiad>
 * 1950 AMC 12/AHSME: <https://artofproblemsolving.com/community/c4814_1950_amc_12ahsme>
 * 
 
 ## 1949:
+* 1949 Kurschak Competition: <https://artofproblemsolving.com/community/c3169352_1949_kurschak_competition>
 * 1949 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909523_1949_moscow_mathematical_olympiad>
 * 
 
 ## 1948:
+* 1948 Kurschak Competition: <https://artofproblemsolving.com/community/c3169351_1948_kurschak_competition>
 * 1948 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c909522_1948_moscow_mathematical_olympiad>
 * 
 

@@ -284,6 +284,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3268_flanders_math_olympiad>
 * 
 
+## FLANDERS JUNIOR OLYMPIAD (FROM 2022):
+* <https://artofproblemsolving.com/community/c3269_flanders_junior_olympiad>
+* 
+
 ## INDIA NATIONAL OLYMPIAD (FROM 1986):
 * <https://artofproblemsolving.com/community/c3309_india_national_olympiad>
 * 
@@ -1039,6 +1043,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 Sharygin Geometry Olympiad: https://artofproblemsolving.com/community/c865802_2005_sharygin_geometry_olympiad
 * 2005 JHMT: <https://artofproblemsolving.com/community/c3553516_2005_jhmt>
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
+* 2005 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4671_2005_flanders_junior_olympiad>
 * 2005 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4271_2005_uzbekistan_national_olympiad>
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
@@ -1048,6 +1053,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2004:
 * 2004 Kurschak Competition: <https://artofproblemsolving.com/community/c103159_2004_kurschak_competition>
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
+* 2004 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4670_2004_flanders_junior_olympiad>
 * 2004 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4270_2004_uzbekistan_national_olympiad>
 * 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
@@ -1056,6 +1062,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2003:
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
+* 2003 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4669_2003_flanders_junior_olympiad>
 * 2003 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3527_2003_costa_rica__final_round>
 * 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>
   * 2003 RMT Calculus Round: <https://artofproblemsolving.com/community/c565841_2003_rmt_calculus_round>
@@ -1064,6 +1071,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2002:
 * 2002 Kurschak Competition: <https://artofproblemsolving.com/community/c103161_2002_kurschak_competition>
+* 2002 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4668_2002_flanders_junior_olympiad>
 * 2002 Mid-Michigan MO: <https://artofproblemsolving.com/community/c3168239_2002_midmichigan_mo>
   * Mid-Michigan MO, Grades 10-12: <https://artofproblemsolving.com/community/c3014890_midmichigan_mo_grades_1012>
   * Mid-Michigan MO, Grades 5-6: <https://artofproblemsolving.com/community/c3003999_midmichigan_mo_grades_56>

@@ -381,6 +381,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c255067_belarusian_national_olympiad>
 * 
 
+## BELARUS TEAM SELECTION TEST (FROM 1995):
+* <https://artofproblemsolving.com/community/c186279_belarus_team_selection_test>
+* 
+
+## BELARUS - IRAN FRIENDLY COMPETITION (FROM 2022):
+* <https://artofproblemsolving.com/community/c3941426_belarus__iran_friendly_competition>
+* 
+
 ## ISRAEL NATIONAL OLYMPIAD (FROM 1995):
 * <https://artofproblemsolving.com/community/c182661_israel_national_olympiad>
 * 
@@ -772,6 +780,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Azerbaijan EGMO/CMO TST: <https://artofproblemsolving.com/community/c3034711_2022_azerbaijan_egmocmo_tst>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
+* 2022 Belarus - Iran Friendly Competition: <https://artofproblemsolving.com/community/c4012162_2022_belarus__iran_friendly_competition>
 * 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 
@@ -1129,6 +1138,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1995:
 * 1995 Kurschak Competition: <https://artofproblemsolving.com/community/c103176_1995_kurschak_competition>
 * 1995 Belarus National Olympiad: <https://artofproblemsolving.com/community/c1980320_1995_belarus_national_olympiad>
+  * 1995 Belarus Team Selection Test: <https://artofproblemsolving.com/community/c186278_1995_belarus_team_selection_test>
 * 1995 Israel Mathematical Olympiad: <https://artofproblemsolving.com/community/c255566_1995_israel_mathematical_olympiad>
 * 1995 Czech and Slovak Match: <https://artofproblemsolving.com/community/c705957_1995_czech_and_slovak_match>
 * 1995 Singapore MO Open: <https://artofproblemsolving.com/community/c1118720_1995_singapore_mo_open>

@@ -719,6 +719,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c645391_nepal_national_olympiad>
 * 
 
+## BOLIVIAN CONO SUR TST (FROM 2021):
+* <https://artofproblemsolving.com/community/c2650967_bolivian_cono_sur_tst>
+* 
+
+## BOLIVIAN IBERO TST (FROM 2021):
+* <https://artofproblemsolving.com/community/c3121069_bolivian_ibero_tst>
+* 
+
+## BOLIVIAN IMO TST (FROM 2022):
+* <https://artofproblemsolving.com/community/c3121064_bolivian_imo_tst>
+* 
+
 ## FINAL MATHEMATICAL CUP (FROM 2019):
 * <https://artofproblemsolving.com/community/c1332826_final_mathematical_cup>
 * 
@@ -782,6 +794,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 Azerbaijan EGMO/CMO TST: <https://artofproblemsolving.com/community/c3034711_2022_azerbaijan_egmocmo_tst>
+* 2022 Bolivia Cono Sur TST: <https://artofproblemsolving.com/community/c3092400_2022_bolivia_cono_sur_tst>
+* 2022 Bolivia IMO TST: <https://artofproblemsolving.com/community/c3092402_2022_bolivia_imo_tst>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 2022 Belarus - Iran Friendly Competition: <https://artofproblemsolving.com/community/c4012162_2022_belarus__iran_friendly_competition>
@@ -797,6 +811,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
 * 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
 * 2021 Lotfi Zadeh Olympiad: <https://artofproblemsolving.com/community/c2745793_2021_lotfi_zadeh_olympiad>
+* 2021 Bolivian Cono Sur TST: <https://artofproblemsolving.com/community/c2650959_2021_bolivian_cono_sur_tst>
+* 2021 Bolivia Ibero TST: <https://artofproblemsolving.com/community/c3126894_2021_bolivia_ibero_tst>
 * 
 
 ## 2020:

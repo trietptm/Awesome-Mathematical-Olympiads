@@ -639,6 +639,38 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c166187_azerbaijan_national_olympiad>
 * 
 
+## AZERBAIJAN JUNIOR NATIONAL OLYMPIAD (FROM 2015):
+* <https://artofproblemsolving.com/community/c3035224_azerbaijan_junior_national_olympiad>
+* 
+
+## JBMO TST - AZERBAIJAN (FROM 2015):
+* <https://artofproblemsolving.com/community/c182671_jbmo_tst__azerbaijan>
+* 
+
+## AZERBAIJAN SENIOR NATIONAL OLYMPIAD (FROM 2016):
+* <https://artofproblemsolving.com/community/c3035287_azerbaijan_senior_national_olympiad>
+* 
+
+## AZERBAIJAN TEAM SELECTION TEST (FROM 2015):
+* <https://artofproblemsolving.com/community/c165021_azerbaijan_team_selection_test>
+* 
+
+## AZERBAIJAN BMO TST (FROM 2016):
+* <https://artofproblemsolving.com/community/c365411_azerbaijan_bmo_tst>
+* 
+
+## AZERBAIJAN EGMO TST (FROM 2017):
+* <https://artofproblemsolving.com/community/c3026775_azerbaijan_egmo_tst>
+* 
+
+## AZERBAIJAN IZHO TST (FROM 2018): 
+* <https://artofproblemsolving.com/community/c1199466_azerbaijan_izho_tst>
+* 
+
+## AZERBAIJAN CMO TST (FROM 2022):
+* <https://artofproblemsolving.com/community/c3026773_azerbaijan_cmo_tst>
+* 
+
 ## INTERNATIONAL OLYMPIAD OF METROPOLISES (FROM 2016):
 * <https://artofproblemsolving.com/community/c422512_international_olympiad_of_metropolises>
 * 
@@ -649,6 +681,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## LATVIA NATIONAL OLYMPIAD (FROM 2016):
 * <https://artofproblemsolving.com/community/c298872_latvia_national_olympiad>
+* 
+
+## ISTEK LYCEUM MATH OLYMPIADS (FROM 2016):
+* <https://artofproblemsolving.com/community/c172293_istek_lyceum_math_olympiads>
 * 
 
 ## MATHEMATICAL EXCELLENCE OLYMPIAD (FROM 2017):
@@ -681,6 +717,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## PAN-AMERICAN GIRLS’ MATHEMATICAL OLYMPIAD - PAGMO (FROM 2021):
 * <https://artofproblemsolving.com/community/c2500342_pagmo>
+* 
+
+## LOTFI ZADEH OLYMPIAD (FROM 2021):
+* <https://artofproblemsolving.com/community/c2745799_lotfi_zadeh_olympiad>
+  * an Olympiad from Azerbaijan, https://lotfizadeh.org/
 * 
 
 ## IRAN-SINGAPORE-TAIWAN FRIENDLY MATH COMPETITION (FROM 2022):
@@ -728,6 +769,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2022 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3213316_2022_durer_math_competition_finals>
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
+* 2022 Azerbaijan EGMO/CMO TST: <https://artofproblemsolving.com/community/c3034711_2022_azerbaijan_egmocmo_tst>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
@@ -741,6 +783,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
 * 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
+* 2021 Lotfi Zadeh Olympiad: <https://artofproblemsolving.com/community/c2745793_2021_lotfi_zadeh_olympiad>
 * 
 
 ## 2020:
@@ -780,6 +823,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
+* 2018 Azerbaijan IZhO TST: <https://artofproblemsolving.com/community/c3406120_2018_azerbaijan_izho_tst>
 * 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
@@ -796,6 +840,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2017 NIMO Summer Contest: <https://artofproblemsolving.com/community/c931800_2017_nimo_summer_contest>
 * 2017 Online Math Open Problems: <https://artofproblemsolving.com/community/c486226_2017_online_math_open_problems>
 * 2017 Australian MO: <https://artofproblemsolving.com/community/c909331_2017_australian_mo>
+* 2017 Azerbaijan EGMO TST: <https://artofproblemsolving.com/community/c3404970_2017_azerbaijan_egmo_tst>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
   * ABMC Accuracy Rounds: <https://artofproblemsolving.com/community/c3587836_abmc_accuracy_rounds>
@@ -813,12 +858,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
 * 2016 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c1675676_2016_uzbekistan_national_olympiad>
+* 2016 Azerbaijan National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3402661_2016_azerbaijan_national_mathematical_olympiad>
+* 2016 Azerbaijan Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c225281_2016_azerbaijan_junior_mathematical_olympiad>
+* 2016 Azerbaijan BMO TST: <https://artofproblemsolving.com/community/c365588_2016_azerbaijan_bmo_tst>
+* 2016 Azerbaijan IMO TST First Round: <https://artofproblemsolving.com/community/c164747_2016_azerbaijan_imo_tst_first_round>
+* 2016 Azerbaijan Team Selection Test: <https://artofproblemsolving.com/community/c660051_2016_azerbaijan_team_selection_test>
 * 2016 Ecuador NMO (OMEC): <https://artofproblemsolving.com/community/c2474644_2016_ecuador_nmo_omec>
 * 2016 Latvia National Olympiad: <https://artofproblemsolving.com/community/c298869_2016_latvia_national_olympiad>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>
 * 2016 MIG: <https://artofproblemsolving.com/community/c3589760_2016_mig>
 * 2016 ASMT: <https://artofproblemsolving.com/community/c3568942_2016_asmt>
+* Istek Lyceum Math Olympiad 2016: <https://artofproblemsolving.com/community/c172287_istek_lyceum_math_olympiad__2016>
 * 
 
 ## 2015:
@@ -829,7 +880,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 Albania JBMO TST: <https://artofproblemsolving.com/community/c3560409_2015_albania_jbmo_tst>
+* 2015 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c72498_2015_azerbaijan_jbmo_tst>
 * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
+* 2015 Azerbaijan IMO TST: <https://artofproblemsolving.com/community/c85324_2015_azerbaijan_imo_tst>
 * 2015 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c255426_2015_turkmenistan_national_math_olympiad>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>

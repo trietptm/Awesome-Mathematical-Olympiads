@@ -248,6 +248,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3273_brazil_national_olympiad>
 * 
 
+## BRAZIL TEAM SELECTION TEST (FROM 1997):
+* <https://artofproblemsolving.com/community/c851474_brazil_team_selection_test>
+* 
+
+## BRAZIL UNDERGRAD MO (FROM 2005):
+* <https://artofproblemsolving.com/community/c3251_brazil_undergrad_mo>
+* 
+
+## BRAZIL EGMO TST (FROM 2018):
+* <https://artofproblemsolving.com/community/c2004964_brazil_egmo_tst>
+* 
+
 ## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1981):
 * <https://artofproblemsolving.com/community/c1079628_national_high_school_mathematics_league>
 * 
@@ -747,6 +759,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c645391_nepal_national_olympiad>
 * 
 
+## RIO DE JANEIRO MATHEMATICAL OLYMPIAD (FROM 2018):
+* <https://artofproblemsolving.com/community/c1015938_rio_de_janeiro_mathematical_olympiad>
+* 
+
 ## BOLIVIAN CONO SUR TST (FROM 2021):
 * <https://artofproblemsolving.com/community/c2650967_bolivian_cono_sur_tst>
 * 
@@ -763,8 +779,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1332826_final_mathematical_cup>
 * 
 
+## GIRLS IN MATHEMATICS TOURNAMENT (FROM 2019):
+* <https://artofproblemsolving.com/community/c1177481_girls_in_mathematics_tournament>
+* 
+
 ## FRANCOPHONE MATHEMATICAL OLYMPIAD (FROM 2020):
 * <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
+* 
+
+## MATHEMATICIANS FOR FUN OLYMPIAD (FROM 2020):
+* <https://artofproblemsolving.com/community/c3381763_mathematicians__for_fun_olympiad>
 * 
 
 ## PAN-AMERICAN GIRLS’ MATHEMATICAL OLYMPIAD - PAGMO (FROM 2021):
@@ -774,6 +798,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## LOTFI ZADEH OLYMPIAD (FROM 2021):
 * <https://artofproblemsolving.com/community/c2745799_lotfi_zadeh_olympiad>
   * an Olympiad from Azerbaijan, https://lotfizadeh.org/
+* 
+
+## OLIMPHÍADA (FROM 2021):
+* <https://artofproblemsolving.com/community/c3381765_olimphiacuteada>
 * 
 
 ## IRAN-SINGAPORE-TAIWAN FRIENDLY MATH COMPETITION (FROM 2022):
@@ -843,6 +871,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Lotfi Zadeh Olympiad: <https://artofproblemsolving.com/community/c2745793_2021_lotfi_zadeh_olympiad>
 * 2021 Bolivian Cono Sur TST: <https://artofproblemsolving.com/community/c2650959_2021_bolivian_cono_sur_tst>
 * 2021 Bolivia Ibero TST: <https://artofproblemsolving.com/community/c3126894_2021_bolivia_ibero_tst>
+* 2021 Olimphíada: <https://artofproblemsolving.com/community/c3381772_2021_olimphiacuteada>
 * 
 
 ## 2020:
@@ -854,6 +883,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 USMCA: <https://artofproblemsolving.com/community/c1055557_2020_usmca>
 * 2020 Online Math Open Problems: <https://artofproblemsolving.com/community/c1124220_2020_online_math_open_problems>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
+* 2020 OMpD: <https://artofproblemsolving.com/community/c3381659_2020_ompd>
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
@@ -872,6 +902,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 2019 Online Math Open Problems: <https://artofproblemsolving.com/community/c951538_2019_online_math_open_problems>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
+* 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
 * 
 
@@ -883,7 +914,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
 * 2018 Azerbaijan IZhO TST: <https://artofproblemsolving.com/community/c3406120_2018_azerbaijan_izho_tst>
+* 2018 Brazil EGMO TST: <https://artofproblemsolving.com/community/c2407764_2018_brazil_egmo_tst>
 * 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
+* 2018 Rio de Janeiro Mathematical Olympiad: <https://artofproblemsolving.com/community/c1015939_2018_rio_de_janeiro_mathematical_olympiad>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
@@ -1096,6 +1129,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
 * 2005 Argentina Team Selection Test: <https://artofproblemsolving.com/community/c3843_2005_argentina_team_selection_test>
+* 2005 Brazil Undergrad MO: <https://artofproblemsolving.com/community/c5128_2005_brazil_undergrad_mo>
 * 
 
 ## 2004:
@@ -1182,6 +1216,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1997 Croatia National Olympiad: <https://artofproblemsolving.com/community/c2393490_1997_croatia_national_olympiad>
 * 1997 Slovenia National Olympiad: <https://artofproblemsolving.com/community/c1996664_1997_slovenia_national_olympiad>
 * 1997 Finnish National High School Mathematics Competition: <https://artofproblemsolving.com/community/c4244_1997_finnish_national_high_school_mathematics_competition>
+* 1997 Brazil Team Selection Test: <https://artofproblemsolving.com/community/c2001157_1997_brazil_team_selection_test>
 * 
 
 ## 1996:

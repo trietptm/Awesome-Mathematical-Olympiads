@@ -417,6 +417,38 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3365_romania_national_olympiad>
 * 
 
+## BOSNIA HERZEGOVINA TEAM SELECTION TEST (FROM 1996):
+* <https://artofproblemsolving.com/community/c3271_bosnia_herzegovina_team_selection_test>
+* 
+
+## JBMO TST - BOSNIA AND HERZEGOVINA (FROM 2003):
+* <https://artofproblemsolving.com/community/c3272_jbmo_tst__bosnia_and_herzegovina>
+* 
+
+## REGIONAL OLYMPIAD - REPUBLIC OF SRPSKA (FROM 2004):
+* <https://artofproblemsolving.com/community/c728805_regional_olympiad__republic_of_srpska>
+* 
+
+## BOSNIA AND HERZEGOVINA - REGIONAL OLYMPIAD (FROM 2008):
+* <https://artofproblemsolving.com/community/c3270_bosnia_and_herzegovina__regional_olympiad>
+* 
+
+## JUNIOR REGIONAL - FEDERATION OF BOSNIA HERZEGOVINA (FROM 2014):
+* <https://artofproblemsolving.com/community/c728804_junior_regional__federation_of_bosnia_herzegovina>
+* 
+
+## BOSNIA AND HERZEGOVINA EGMO TEAM SELECTION TEST (FROM 2017):
+* <https://artofproblemsolving.com/community/c732402_bosnia_and_herzegovina_egmo_team_selection_test>
+* 
+
+## BOSNIA AND HERZEGOVINA IMO TST (FROM 2022):
+* <https://artofproblemsolving.com/community/c3167767_bosnia_and_herzegovina_imo_tst>
+* 
+
+## BOSNIA AND HERZEGOVINA BMO TST (FROM 2022):
+* <https://artofproblemsolving.com/community/c3167777_bosnia_and_herzegovina_bmo_tst>
+* 
+
 ## CABRI CLUBS (FROM 1996):
 * <https://artofproblemsolving.com/community/c2661720_cabri_clubs>
   * an Argentinan geometry contest involving Cabri, lasted 1996 -2002 and 2007, source: https://www.oma.org.ar/nacional/cabri/index.htm
@@ -560,10 +592,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## PHILIPPINE MO (FROM 2008):
 * <https://artofproblemsolving.com/community/c3473_philippine_mo>
-* 
-
-## BOSNIA AND HERZEGOVINA - REGIONAL OLYMPIAD (FROM 2008):
-* <https://artofproblemsolving.com/community/c3270_bosnia_and_herzegovina__regional_olympiad>
 * 
 
 ## ALBANIA TEAM SELECTION TEST (FROM 2009):
@@ -794,6 +822,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 Azerbaijan EGMO/CMO TST: <https://artofproblemsolving.com/community/c3034711_2022_azerbaijan_egmocmo_tst>
+* 2022 Bosnia and Herzegovina IMO TST: <https://artofproblemsolving.com/community/c3167766_2022_bosnia_and_herzegovina_imo_tst>
+* 2022 Bosnia and Herzegovina BMO TST: <https://artofproblemsolving.com/community/c3167776_2022_bosnia_and_herzegovina_bmo_tst>
 * 2022 Bolivia Cono Sur TST: <https://artofproblemsolving.com/community/c3092400_2022_bolivia_cono_sur_tst>
 * 2022 Bolivia IMO TST: <https://artofproblemsolving.com/community/c3092402_2022_bolivia_imo_tst>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
@@ -870,6 +900,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Online Math Open Problems: <https://artofproblemsolving.com/community/c486226_2017_online_math_open_problems>
 * 2017 Australian MO: <https://artofproblemsolving.com/community/c909331_2017_australian_mo>
 * 2017 Azerbaijan EGMO TST: <https://artofproblemsolving.com/community/c3404970_2017_azerbaijan_egmo_tst>
+* 2017 Bosnia and Herzegovina EGMO TST: <https://artofproblemsolving.com/community/c732426_2017_bosnia_and_herzegovina_egmo_tst>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
   * ABMC Accuracy Rounds: <https://artofproblemsolving.com/community/c3587836_abmc_accuracy_rounds>
@@ -932,6 +963,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 Online Math Open Problems: <https://artofproblemsolving.com/community/c4388_2014_online_math_open_problems>
 * 2014 Albania Round 2: <https://artofproblemsolving.com/community/c909830_2014_albania_round_2>
 * 2014 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4275_2014_uzbekistan_national_olympiad>
+* 2014 Junior Regional Olympiad - FBH: <https://artofproblemsolving.com/community/c745182_2014_junior_regional_olympiad__fbh>
 * XMO (China) 2-15 - geometry: <https://artofproblemsolving.com/community/c3233142_xmo_china__215__geometry>
   * Mock Test / 1st-10th CMO, >=11th Second Round, Xueersi Mathematical Olympiad - a practice exam held by 学而思教育 (Xueersi Education) 学而思数学竞赛联考
   * (China) the 2nd XMO: <https://artofproblemsolving.com/community/c3813168_the_2nd_xmo>
@@ -1071,6 +1103,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
 * 2004 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4670_2004_flanders_junior_olympiad>
 * 2004 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4270_2004_uzbekistan_national_olympiad>
+* 2004 Regional Olympiad - Republic of Srpska: <https://artofproblemsolving.com/community/c732177_2004_regional_olympiad__republic_of_srpska>
 * 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
 * 
@@ -1079,6 +1112,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
 * 2003 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4669_2003_flanders_junior_olympiad>
+* 2003 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c1179213_2003_bosnia_and_herzegovina_junior_bmo_tst>
 * 2003 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3527_2003_costa_rica__final_round>
 * 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>
   * 2003 RMT Calculus Round: <https://artofproblemsolving.com/community/c565841_2003_rmt_calculus_round>
@@ -1154,6 +1188,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1996 Kurschak Competition: <https://artofproblemsolving.com/community/c103175_1996_kurschak_competition>
 * 1996 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946178_1996_moscow_mathematical_olympiad>
 * 1996 Romania National Olympiad: <https://artofproblemsolving.com/community/c3949533_1996_romania_national_olympiad>
+* 1996 Bosnia and Herzegovina Team Selection Test: <https://artofproblemsolving.com/community/c732968_1996_bosnia_and_herzegovina_team_selection_test>
 * 1st Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2661725_1st_cabri_clubs_1996>
   * 2nd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662364_2nd_cabri_clubs_1996>
   * 3rd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662866_3rd_cabri_clubs_1996>

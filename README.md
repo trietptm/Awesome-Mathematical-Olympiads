@@ -150,6 +150,34 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3275_bulgaria_national_olympiad>
 * 
 
+## BULGARIA TEAM SELECTION TEST (FROM 2003):
+* <https://artofproblemsolving.com/community/c3276_bulgaria_team_selection_test>
+* 
+
+## BULGARIAN AUTUMN MATHEMATICAL COMPETITION (FROM 2007):
+* <https://artofproblemsolving.com/community/c3011607_bulgarian_autumn_mathematical_competition>
+* 
+
+## BULGARIAN SPRING MATHEMATICAL COMPETITION (FROM 2009):
+* <https://artofproblemsolving.com/community/c3016185_bulgarian_spring_mathematical_competition>
+* 
+
+## BULGARIAN WINTER TOURNAMENT (FROM 2024):
+* <https://artofproblemsolving.com/community/c3741308_bulgarian_winter_tournament>
+* 
+
+## BULGARIA JBMO TEAM SELECTION TEST (FROM 2014):
+* <https://artofproblemsolving.com/community/c854080_bulgaria_jbmo_team_selection_test>
+* 
+
+## BULGARIA EGMO TST (FROM 2015):
+* <https://artofproblemsolving.com/community/c3379480_bulgaria_egmo_tst>
+* 
+
+## BULGARIA MO REGIONAL ROUND (FROM 2024):
+* <https://artofproblemsolving.com/community/c3757526_bulgaria_mo_regional_round>
+* 
+
 ## GERMAN NATIONAL OLYMPIAD (FROM 1962):
 * <https://artofproblemsolving.com/community/c447157_german_national_olympiad>
 * 
@@ -646,6 +674,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3472_malaysia_national_olympiad>
 * 
 
+## IFYM INT. FEST. OF YOUNG MATHEMATICIANS, SOZOPOL (FROM 2010):
+* <https://artofproblemsolving.com/community/c909811_ifym_int_fest_of_young_mathematicians_sozopol>
+* 
+
 ## LUSOPHON MATHEMATICAL OLYMPIAD (FROM 2011):
 * <https://artofproblemsolving.com/community/c3245_lusophon_mathematical_olympiad>
 * 
@@ -828,6 +860,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
 * 2024 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3839913_2024_durer_math_competition_finals>
 * 2024 Australian Mathematical Olympiad: <https://artofproblemsolving.com/community/c3781759_2024_australian_mathematical_olympiad>
+* 2024 Bulgarian Winter Tournament: <https://artofproblemsolving.com/community/c3741306_2024_bulgarian_winter_tournament>
+* 2024 Bulgaria MO Regional Round: <https://artofproblemsolving.com/community/c3757527_2024_bulgaria_mo_regional_round>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
@@ -836,6 +870,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2023:
 * 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>
 * 2023 Kurschak Competition: <https://artofproblemsolving.com/community/c3788837_2023_kurschak_competition>
+* 2023 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577691_2023_bulgaria_jbmo_tst>
 * 2023 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3839918_2023_durer__math_competition_first_round>
   * 2023 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3833205_2023_durer_math_competition_finals>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
@@ -845,6 +880,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2022:
 * 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
+* 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
   * 2022 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3213316_2022_durer_math_competition_finals>
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
@@ -909,6 +945,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2018:
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
 * 2018 Kürschák Competition: <https://artofproblemsolving.com/community/c854409_2018_kuumlrschaacutek_competition>
+* 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
@@ -926,6 +963,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2017:
 * 2017 Contests: <https://artofproblemsolving.com/community/c313361_2017_contests>
 * 2017 Kürschák Competition: <https://artofproblemsolving.com/community/c537788_2017_kuumlrschaacutek_competition>
+* 2017 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c936905_2017_bulgaria_jbmo_tst>
 * 2017 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946169_2017_moscow_mathematical_olympiad>
 * KoMaL A Problems 2017/2018: <https://artofproblemsolving.com/community/c3351247_komal_a_problems_20172018>
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
@@ -947,6 +985,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2016:
 * 2016 Contests: <https://artofproblemsolving.com/community/c190175_2016_contests>
 * 2016 Kurschak Competition: <https://artofproblemsolving.com/community/c345604_2016_kurschak_competition>
+* 2016 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577516_2016_bulgaria_jbmo_tst>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
@@ -977,6 +1016,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
 * 2015 Azerbaijan IMO TST: <https://artofproblemsolving.com/community/c85324_2015_azerbaijan_imo_tst>
 * 2015 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c255426_2015_turkmenistan_national_math_olympiad>
+* 2015 Bulgaria EGMO TST: <https://artofproblemsolving.com/community/c3284206_2015_bulgaria_egmo_tst>
 * 2015 CCA Math Bonanza: <https://artofproblemsolving.com/community/c1124790_2015_cca_math_bonanza>
 * MBMT Guts Rounds: <https://artofproblemsolving.com/community/c2893025_mbmt_guts_rounds>
   * MBMT Team Rounds: <https://artofproblemsolving.com/community/c2890425_mbmt_team_rounds>
@@ -987,6 +1027,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2014:
 * 2014 Contests: <https://artofproblemsolving.com/community/c52_2014_contests>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
+* 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
   * 2014 Iranian Geometry Olympiad (junior): <https://artofproblemsolving.com/community/c908797_2014_iranian_geometry_olympiad_junior>
 * 2014 MMATHS: <https://artofproblemsolving.com/community/c2991527_2014_mmaths>
@@ -1049,6 +1090,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 Kurschak Competition: <https://artofproblemsolving.com/community/c103153_2010_kurschak_competition>
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
+* 2010 IFYM, Sozopol: <https://artofproblemsolving.com/community/c1042897_2010_ifym_sozopol>
 * 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
 * 2010 Albania National Olympiad: <https://artofproblemsolving.com/community/c3970_2010_albania_national_olympiad>
 * 2010 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5376_2010_lithuania_national_olympiad>
@@ -1074,6 +1116,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2009:
 * 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * 2009 Kurschak Competition: <https://artofproblemsolving.com/community/c103154_2009_kurschak_competition>
+* 2009 Bulgarian Spring Mathematical Competition: <https://artofproblemsolving.com/community/c3012977_2009_bulgarian_spring_mathematical_competition>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Albania Team Selection Test: <https://artofproblemsolving.com/community/c3965_2009_albania_team_selection_test>
 * 2009 BMO TST: <https://artofproblemsolving.com/community/c3906_2009_bmo_tst>
@@ -1098,6 +1141,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2007:
 * 2007 Kurschak Competition: <https://artofproblemsolving.com/community/c103156_2007_kurschak_competition>
+* 2007 Bulgarian Autumn Math Competition: <https://artofproblemsolving.com/community/c3011584_2007_bulgarian_autumn_math_competition>
 * 2007 Balkan MO Shortlist: <https://artofproblemsolving.com/community/c1120588_2007_balkan_mo_shortlist>
 * 2007 Middle European Mathematical Olympiad: <https://artofproblemsolving.com/community/c3580_2007_middle_european_mathematical_olympiad>
 * 2007 ITest: <https://artofproblemsolving.com/community/c4444_2007_itest>
@@ -1146,6 +1190,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
 * 2003 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4669_2003_flanders_junior_olympiad>
+* 2003 Bulgaria Team Selection Test: <https://artofproblemsolving.com/community/c3521_2003_bulgaria_team_selection_test>
 * 2003 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c1179213_2003_bosnia_and_herzegovina_junior_bmo_tst>
 * 2003 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3527_2003_costa_rica__final_round>
 * 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>

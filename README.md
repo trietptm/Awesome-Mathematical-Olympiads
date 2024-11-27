@@ -663,6 +663,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c879688_thailand_national_olympiad>
 * 
 
+## COLOMBIA TEAM SELECTION TEST (FROM 2005):
+* <https://artofproblemsolving.com/community/c2418231_colombia_team_selection_test>
+* 
+
+
+## COLOMBIA NATIONAL OLYMPIAD (FROM 2020):
+* <https://artofproblemsolving.com/community/c3212052_colombia_national_olympiad>
+* 
+
 ## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
 * <https://artofproblemsolving.com/community/c551206_danube_competition_in_mathematics>
 * 
@@ -1008,6 +1017,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1135962_2020_canadian_mathematical_olympiad_qualification>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
   * 2020 Canadian MO: <https://artofproblemsolving.com/community/c1094086_2020_candian_mo>
+* 2020 Colombia National Olympiad: <https://artofproblemsolving.com/community/c3212053_2020_colombia_national_olympiad>
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
@@ -1291,6 +1301,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
 * 2005 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4671_2005_flanders_junior_olympiad>
 * 2005 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4271_2005_uzbekistan_national_olympiad>
+* 2005 Colombia Team Selection Test: <https://artofproblemsolving.com/community/c2418232_2005_colombia_team_selection_test>
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
 * 2005 Argentina Team Selection Test: <https://artofproblemsolving.com/community/c3843_2005_argentina_team_selection_test>

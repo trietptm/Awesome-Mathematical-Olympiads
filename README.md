@@ -376,8 +376,37 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3323_ireland_national_math_olympiad>
 * 
 
+## CHILE CLASSIFICATION NMO (FROM 1989):
+* <https://artofproblemsolving.com/community/c2416205_chile_classification_nmo>
+* Chile ONM 1989-2011 (ONM Compendium).pdf: https://drive.google.com/file/d/1wi5XFmNn7qDuA8vCmZoCK7UY0Me3sg7U/view
+* <https://artofproblemsolving.com/community/c3166061_chile_contests__geo>
+* 
+
+## CHILE NATIONAL OLYMPIAD (FROM 1989):
+* <https://artofproblemsolving.com/community/c2482162_chile_national_olympiad>
+* Chile ONM 1989-2011 (ONM Compendium).pdf: https://drive.google.com/file/d/1wi5XFmNn7qDuA8vCmZoCK7UY0Me3sg7U/view
+* <https://artofproblemsolving.com/community/c3166061_chile_contests__geo>
+* 
+
+## CHILE JUNIOR MATH OLYMPIAD (FROM 1999):
+* <https://artofproblemsolving.com/community/c2519900_chile_junior_math_olympiad>
+* 
+
+## CHILE CLASSIFICATION NMO JUNIORS (FROM 1999):
+* <https://artofproblemsolving.com/community/c2502638_chile_classification_nmo_juniors>
+* 
+
+## CHILE TST IBERO (FROM 2023):
+* <https://artofproblemsolving.com/community/c4075818_chile_tst_ibero>
+* 
+
 ## CONO SUR OLYMPIAD (FROM 1989):
 * <https://artofproblemsolving.com/community/c3234_cono_sur_olympiad>
+* 
+
+## CHILE TST IMO:
+* <https://artofproblemsolving.com/community/c4076799_chile_tst_imo>
+* <https://artofproblemsolving.com/community/c3183067_chile_imo_tst__geometry>
 * 
 
 ## HUNGARY-ISRAEL BINATIONAL (FROM 1990):
@@ -706,6 +735,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c909811_ifym_int_fest_of_young_mathematicians_sozopol>
 * 
 
+## OIFMAT (FROM 2010):
+* <https://artofproblemsolving.com/community/c2484778_oifmat>
+  * INTERNAL OLYMPIAD OF THE CHILEAN MATH FORUM FMAT (http://www.fmat.cl/)
+* 
+
 ## LUSOPHON MATHEMATICAL OLYMPIAD (FROM 2011):
 * <https://artofproblemsolving.com/community/c3245_lusophon_mathematical_olympiad>
 * 
@@ -876,6 +910,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3509698_imsc>
 * 
 
+## THE GOLDEN NUMBER MATHEMATICS TOURNAMENT (FROM 2023):
+* <https://artofproblemsolving.com/community/c4076798_the_golden_number_mathematics_tournament>
+* 
+
 ## INDIA IRAN FRIENDLY MATH COMPETITION (FROM 2024):
 * <https://artofproblemsolving.com/community/c3941418_india_iran_friendly_math_competition>
 * 
@@ -894,6 +932,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Australian Mathematical Olympiad: <https://artofproblemsolving.com/community/c3781759_2024_australian_mathematical_olympiad>
 * 2024 Bulgarian Winter Tournament: <https://artofproblemsolving.com/community/c3741306_2024_bulgarian_winter_tournament>
 * 2024 Bulgaria MO Regional Round: <https://artofproblemsolving.com/community/c3757527_2024_bulgaria_mo_regional_round>
+* 2024 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076194_2024_chile_tst_ibero>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
@@ -909,7 +948,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2023 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3833205_2023_durer_math_competition_finals>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
+* TNO 2023: <https://artofproblemsolving.com/community/c4084187_tno_2023>
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
+* 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
 * 
 
 ## 2022:
@@ -1116,6 +1157,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Online Math Open Problems: <https://artofproblemsolving.com/community/c4387_2013_online_math_open_problems>
 * 2013 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4274_2013_uzbekistan_national_olympiad>
 * 2013 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675627_2013_turkmenistan_national_math_olympiad>
+* OIFMAT III 2013: <https://artofproblemsolving.com/community/c2484782_oifmat_iii_2013>
 * 
 
 ## 2012:
@@ -1135,6 +1177,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4273_2012_uzbekistan_national_olympiad>
 * 2012 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675632_2012_turkmenistan_national_math_olympiad>
 * 2012 Argentina Cono Sur TST: <https://artofproblemsolving.com/community/c69800_2012_argentina_cono_sur_tst>
+* OIFMAT II 2012: <https://artofproblemsolving.com/community/c2484781_oifmat_ii_2012>
 * 
 
 ## 2011:
@@ -1168,6 +1211,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c4132_2010_malaysia_national_olympiad>
 * 2010 CHMMC Fall: <https://artofproblemsolving.com/community/c3012774_2010_chmmc_fall>
   * 2010 CHMMC Winter: <https://artofproblemsolving.com/community/c3012495_2010_chmmc_winter>
+* OIFMAT I 2010: <https://artofproblemsolving.com/community/c2484780_oifmat_i_2010>
 * 2010 EMCC: <https://artofproblemsolving.com/community/c3003269_2010_emcc>
   * EMCC Accuracy Rounds: <https://artofproblemsolving.com/community/c3568132_emcc_accuracy_rounds>
   * EMCC Speed Rounds: <https://artofproblemsolving.com/community/c3593081_emcc_speed_rounds>
@@ -1318,6 +1362,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1999 Kurschak Competition: <https://artofproblemsolving.com/community/c103172_1999_kurschak_competition>
 * 1999 ELMO Problems: <https://artofproblemsolving.com/community/c4340_1999_elmo_problems>
 * 1999 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c1460238_1999_kazakhstan_national_olympiad>
+* 1999 Chile Classification NMO Juniors: <https://artofproblemsolving.com/community/c2502639_1999_chile_classification_nmo_juniors>
+  * 1999 Chile Junior Math Olympiad: <https://artofproblemsolving.com/community/c2519899_1999_chile_junior_math_olympiad>
+  * 1999 Chile Classification NMO Seniors: <https://artofproblemsolving.com/community/c2502697_1999_chile_classification_nmo_seniors>
+  * 1999 Chile National Olympiad: <https://artofproblemsolving.com/community/c2663593_1999_chile_national_olympiad>
 * 1999 BAMO: <https://artofproblemsolving.com/community/c933035_1999_bamo>
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
 * 1999 China Second Round Olympiad: <https://artofproblemsolving.com/community/c925936_1999_china_second_round_olympiad>
@@ -1425,6 +1473,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1989 Kurschak Competition: <https://artofproblemsolving.com/community/c103194_1989_kurschak_competition>
 * 1989 APMO: https://artofproblemsolving.com/community/c4106_1989_apmo
 * 1989 Federal Competition For Advanced Students: <https://artofproblemsolving.com/community/c1060526_1989_federal_competition_for_advanced_students>
+* 1989 Chile Classification NMO: <https://artofproblemsolving.com/community/c2499140_1989_chile_classification_nmo>
+  * 1989 Chile National Olympiad: <https://artofproblemsolving.com/community/c2651321_1989_chile_national_olympiad>
 * 1989 Cono Sur Olympiad: <https://artofproblemsolving.com/community/c5470_1989_cono_sur_olympiad>
 * 1989 Canada National Olympiad: <https://artofproblemsolving.com/community/c5034_1989_canada_national_olympiad>
 * 
@@ -1878,6 +1928,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## LINKS:
 * New Post Collections: <https://artofproblemsolving.com/community/c116_new_post_collections>
+* <https://artofproblemsolving.com/wiki/index.php?title=Olympiad_Archive>
 * 
 
 

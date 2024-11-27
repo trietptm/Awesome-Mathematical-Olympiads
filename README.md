@@ -316,6 +316,34 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1079628_national_high_school_mathematics_league>
 * 
 
+## CHINA NATIONAL OLYMPIAD (FROM 1986):
+* <https://artofproblemsolving.com/community/c3284_china_national_olympiad>
+* 
+
+## CHINA TEAM SELECTION TEST (FROM 1986):
+* <https://artofproblemsolving.com/community/c3282_china_team_selection_test>
+* 
+
+## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1999):
+* <https://artofproblemsolving.com/community/c3288_china_national_high_school_mathematics_league>
+* 
+
+## CHINA WESTERN MATHEMATICAL OLYMPIAD (FROM 2001):
+* <https://artofproblemsolving.com/community/c3283_china_western_mathematical_olympiad>
+* 
+
+## CHINA GIRLS MATH OLYMPIAD (FROM 2002):
+* <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
+* 
+
+## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
+* <https://artofproblemsolving.com/community/c3285_south_east_mathematical_olympiad>
+* 
+
+## CHINA NORTHERN MO (FROM 2005):
+* <https://artofproblemsolving.com/community/c3286_china_northern_mo>
+* 
+
 ## IRAN MO (2ND ROUND) (FROM 1983):
 * <https://artofproblemsolving.com/community/c3319_iran_mo_2nd_round>
 * 
@@ -354,14 +382,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## INDIA NATIONAL OLYMPIAD (FROM 1986):
 * <https://artofproblemsolving.com/community/c3309_india_national_olympiad>
-* 
-
-## CHINA NATIONAL OLYMPIAD (FROM 1986):
-* <https://artofproblemsolving.com/community/c3284_china_national_olympiad>
-* 
-
-## CHINA TEAM SELECTION TEST (FROM 1986):
-* <https://artofproblemsolving.com/community/c3282_china_team_selection_test>
 * 
 
 ## MEXICO NATIONAL OLYMPIAD (FROM 1987):
@@ -587,10 +607,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3230_centroamerican>
 * 
 
-## (CHINA) NATIONAL HIGH SCHOOL MATHEMATICS LEAGUE (FROM 1999):
-* <https://artofproblemsolving.com/community/c3288_china_national_high_school_mathematics_league>
-* 
-
 ## MACEDONIA NATIONAL OLYMPIAD (FROM 2000):
 * <https://artofproblemsolving.com/community/c3342_macedonia_national_olympiad>
 * 
@@ -615,16 +631,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3356_paraguay_mathematical_olympiad>
 * 
 
-## CHINA WESTERN MATHEMATICAL OLYMPIAD (FROM 2001):
-* <https://artofproblemsolving.com/community/c3283_china_western_mathematical_olympiad>
-* 
-
 ## SILK ROAD (FROM 2002):
 * <https://artofproblemsolving.com/community/c804124_silk_road>
-* 
-
-## CHINA GIRLS MATH OLYMPIAD (FROM 2002):
-* <https://artofproblemsolving.com/community/c3287_china_girls_math_olympiad>
 * 
 
 ## OLYMPIC REVENGE (FROM 2002):
@@ -655,20 +663,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c879688_thailand_national_olympiad>
 * 
 
-## (CHINA) SOUTH EAST MATHEMATICAL OLYMPIAD (FROM 2004):
-* <https://artofproblemsolving.com/community/c3285_south_east_mathematical_olympiad>
-* 
-
 ## DANUBE COMPETITION IN MATHEMATICS (FROM 2005):
 * <https://artofproblemsolving.com/community/c551206_danube_competition_in_mathematics>
 * 
 
 ## INTERNATIONAL ZHAUTYKOV OLYMPIAD (FROM 2005):
 * <https://artofproblemsolving.com/community/c3241_international_zhautykov_olympiad>
-* 
-
-## CHINA NORTHERN MO (FROM 2005):
-* <https://artofproblemsolving.com/community/c3286_china_northern_mo>
 * 
 
 ## MOROCCO NATIONAL OLYMPIAD (FROM 2005):

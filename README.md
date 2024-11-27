@@ -1929,6 +1929,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## LINKS:
 * New Post Collections: <https://artofproblemsolving.com/community/c116_new_post_collections>
 * <https://artofproblemsolving.com/wiki/index.php?title=Olympiad_Archive>
+* <https://artofproblemsolving.com/wiki/index.php/List_of_international_mathematics_competitions>
+* <https://artofproblemsolving.com/wiki/index.php/List_of_mathematics_competitions>
+* <https://artofproblemsolving.com/wiki/index.php/List_of_regional_mathematics_competitions>
+* <https://artofproblemsolving.com/wiki/index.php/Resources_for_mathematics_competitions>
+* <https://web.evanchen.cc/wherestart.html>
+  * <https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/>
+* <https://artofproblemsolving.com/wiki/index.php/Category:Olympiad_Mathematics_Topics>
 * 
 
 

@@ -1936,6 +1936,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://web.evanchen.cc/wherestart.html>
   * <https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/>
 * <https://artofproblemsolving.com/wiki/index.php/Category:Olympiad_Mathematics_Topics>
+* <https://yufeizhao.com/olympiad/>
+* <https://alexanderrem.weebly.com/math-competitions.html>
 * 
 
 

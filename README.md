@@ -1250,6 +1250,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
 * 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
+* 2009 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3530_2009_costa_rica__final_round>
 * 
 
 ## 2008:
@@ -1265,6 +1266,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5357_2008_moldova_mo_1112>
 * 2008 Philippine MO: <https://artofproblemsolving.com/community/c4408_2008_philippine_mo>
 * 2008 Argentina Iberoamerican TST: <https://artofproblemsolving.com/community/c938333_2008_argentina_iberoamerican_tst>
+* 2008 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3529_2008_costa_rica__final_round>
 * 
 
 ## 2007:
@@ -1288,6 +1290,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 Canada National Olympiad: <https://artofproblemsolving.com/community/c5051_2006_canada_national_olympiad>
 * 2006 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5375_2006_lithuania_national_olympiad>
 * 2006 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5356_2006_moldova_mo_1112>
+* 2006 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3528_2006_costa_rica__final_round>
 * 
 
 ## 2005:

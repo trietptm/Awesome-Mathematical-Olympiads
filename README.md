@@ -573,6 +573,16 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## CROATIA NATIONAL OLYMPIAD (FROM 1997):
 * <https://artofproblemsolving.com/community/c3291_croatia_national_olympiad>
+* <https://natjecanja.math.hr/hmok/>
+* <https://natjecanja.math.hr/hjmo-hmo-hmod/hjmo/hjmo-arhiva/>
+* 
+
+## CROATIA TEAM SELECTION TEST (FROM 2001):
+* <https://artofproblemsolving.com/community/c3290_croatia_team_selection_test>
+* 
+
+## CROATIA MO (HMO) - GEOMETRY (FROM 2010):
+* <https://artofproblemsolving.com/community/c1251476_croatia_mo_hmo___geometry>
 * 
 
 ## SLOVENIA NATIONAL OLYMPIAD (FROM 1997):
@@ -1216,6 +1226,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
 * 2010 IFYM, Sozopol: <https://artofproblemsolving.com/community/c1042897_2010_ifym_sozopol>
 * 2010 Math Prize for Girls Olympiad: <https://artofproblemsolving.com/community/c952032_2010_math_prize_for_girls_olympiad>
+* Croatia MO (HMO) - geometry: <https://artofproblemsolving.com/community/c1251476_croatia_mo_hmo___geometry>
 * 2010 Albania National Olympiad: <https://artofproblemsolving.com/community/c3970_2010_albania_national_olympiad>
 * 2010 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5376_2010_lithuania_national_olympiad>
 * 2010 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c4132_2010_malaysia_national_olympiad>
@@ -1352,6 +1363,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2001:
 * 2001 Canada National Olympiad: <https://artofproblemsolving.com/community/c5046_2001_canada_national_olympiad>
 * 2001 Kurschak Competition: <https://artofproblemsolving.com/community/c103162_2001_kurschak_competition>
+* 2001 Croatia Team Selection Test: <https://artofproblemsolving.com/community/c1074439_2001_croatia_team_selection_test>
 * 2001 China Western Mathematical Olympiad: <https://artofproblemsolving.com/community/c5195_2001_china_western_mathematical_olympiad>
 * 2001 Paraguay Mathematical Olympiad: <https://artofproblemsolving.com/community/c2469015_2001_paraguay_mathematical_olympiad>
 * 2001 Kettering HS MO: <https://artofproblemsolving.com/community/c3168260_2001_kettering_hs_mo>

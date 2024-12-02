@@ -180,6 +180,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## GERMAN NATIONAL OLYMPIAD (FROM 1962):
 * <https://artofproblemsolving.com/community/c447157_german_national_olympiad>
+* <https://www.mathematik-olympiaden.de/moev/aufgaben/aufgabenarchiv-2?view=aufgabenarchiv>
 * 
 
 ## GERMANY TEAM SELECTION TEST (FROM 1977):
@@ -188,6 +189,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## BUNDESWETTBEWERB MATHEMATIK (FROM 1971):
 * <https://artofproblemsolving.com/community/c3299_bundeswettbewerb_mathematik>
+* <https://www.mathe-wettbewerbe.de/aufgaben>
+* <https://www.mathe-wettbewerbe.de/erwachsene/aufgaben>
 * 
 
 ## DUTCH MATHEMATICAL OLYMPIAD (FROM 1962):

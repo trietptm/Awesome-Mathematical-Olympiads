@@ -456,6 +456,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3243_rioplatense_mathematical_olympiad_level_3>
 * 
 
+## DENMARK MO - MOHR CONTEST (FROM 1991):
+* <https://artofproblemsolving.com/community/c3053838_denmark_mo__mohr_contest>
+  * <https://artofproblemsolving.com/community/c1255473_denmark_mohr__geometry>
+* 
+
 ## TAIWAN NATIONAL OLYMPIAD (FROM 1992):
 * <https://artofproblemsolving.com/community/c3393_taiwan_national_olympiad>
 * 
@@ -1572,6 +1577,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1991:
 * 1991 Canada National Olympiad: <https://artofproblemsolving.com/community/c5036_1991_canada_national_olympiad>
+* 1991 Denmark MO - Mohr Contest: <https://artofproblemsolving.com/community/c3053839_1991_denmark_mo__mohr_contest>
+  * <https://artofproblemsolving.com/community/c1255473_denmark_mohr__geometry>
 * 1991 Kurschak Competition: <https://artofproblemsolving.com/community/c103180_1991_kurschak_competition>
 * 1991 IMTS: <https://artofproblemsolving.com/community/c4628_1991_imts>
 * 

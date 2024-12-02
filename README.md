@@ -637,6 +637,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c870447_panafrican_shortlist>
 * 
 
+## CUBA MO (FROM 2001):
+* <https://artofproblemsolving.com/community/c3979310_cuba_mo>
+* 
+
 ## PARAGUAY MATHEMATICAL OLYMPIAD (FROM 2001):
 * <https://artofproblemsolving.com/community/c3356_paraguay_mathematical_olympiad>
 * 
@@ -696,6 +700,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## LITHUANIA NATIONAL OLYMPIAD (FROM 2006):
 * <https://artofproblemsolving.com/community/c3340_lithuania_national_olympiad>
+* 
+
+## BERLIN MATHEMATICS DAY (FROM 2006):
+* <https://tdm.math.fu-berlin.de/archive.php> ; <https://tdm.math.fu-berlin.de/competition.php>
 * 
 
 ## MIDDLE EUROPEAN MATHEMATICAL OLYMPIAD (FROM 2007):
@@ -872,6 +880,17 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c645391_nepal_national_olympiad>
 * 
 
+## CYPRUS TEAM SELECTION TEST (FROM 2018):
+* <https://artofproblemsolving.com/community/c854083_cyprus_team_selection_test>
+* <https://www.cms.org.cy/pages/competitions/competition-cms#competitions>
+  * <https://www.cms.org.cy/page/competitions> ; <https://www.cms.org.cy/index.php?id=1096>
+* <https://www.dropbox.com/scl/fo/gqs7vx5iuyzgt4msgy9sz/ABwNcRtJs8x2orYhe-j-ZvU?rlkey=2c54fqk9mt386e0c33ynns5f0&e=1&dl=0>
+* 
+
+## CYPRUS JBMO TST (FROM 2021):
+* <https://artofproblemsolving.com/community/c2007484_cyprus_jbmo_tst>
+* 
+
 ## RIO DE JANEIRO MATHEMATICAL OLYMPIAD (FROM 2018):
 * <https://artofproblemsolving.com/community/c1015938_rio_de_janeiro_mathematical_olympiad>
 * 
@@ -955,6 +974,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
+* <https://www.cms.org.cy/news/papers-and-solutions-for-county-competitions-2024-20251731836235>
 * 
 
 ## 2023:
@@ -977,6 +997,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Canada National Olympiad: <https://artofproblemsolving.com/community/c3012255_2022_canada_national_olympiad>
   * 2022 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3012254_2022_canadian_junior_mathematical_olympiad>
   * 2022 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3173605_2022_canadian_mathematical_olympiad_qualification>
+* 2022 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2995570_2022_cyprus_jbmo_tst>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
 * 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
@@ -1000,6 +1021,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1976896_2021_canadian_mathematical_olympiad_qualification>
   * 2021 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c2014450_2021_canadian_junior_mathematical_olympiad>
   * 2021 Canada National Olympiad: <https://artofproblemsolving.com/community/c1966602_2021_canada_national_olympiad>
+* 2021 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2007483_2021_cyprus_jbmo_tst>
 * 2021 Kurschak Competition: <https://artofproblemsolving.com/community/c2504236_2021_kurschak_competition>
 * 2021 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c2773609_2021_durer_math_competition_first_round>
   * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
@@ -1049,6 +1071,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
+* <https://tdm.math.fu-berlin.de/download/TdM%202019%20Aufgaben%20und%20L%C3%B6sungen.pdf>
 * 
 
 ## 2018:
@@ -1066,6 +1089,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Azerbaijan IZhO TST: <https://artofproblemsolving.com/community/c3406120_2018_azerbaijan_izho_tst>
 * 2018 Brazil EGMO TST: <https://artofproblemsolving.com/community/c2407764_2018_brazil_egmo_tst>
 * 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
+* 2018 Cyprus IMO TST: <https://artofproblemsolving.com/community/c677808_2018_cyprus_imo_tst>
 * 2018 Rio de Janeiro Mathematical Olympiad: <https://artofproblemsolving.com/community/c1015939_2018_rio_de_janeiro_mathematical_olympiad>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
@@ -1126,6 +1150,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Contests: <https://artofproblemsolving.com/community/c36608_2015_contests>
 * 2015 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c285832_2015_canadian_mathematical_olympiad_qualification>
   * 2015 Canada National Olympiad: <https://artofproblemsolving.com/community/c71018_2015_canada_national_olympiad>
+* 2015 Cuba MO: <https://artofproblemsolving.com/community/c4014608_2015_cuba_mo>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
@@ -1148,6 +1173,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 Contests: <https://artofproblemsolving.com/community/c52_2014_contests>
 * 2014 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c285739_2014_canadian_mathematical_olympiad_qualification>
   * 2014 Canada National Olympiad: <https://artofproblemsolving.com/community/c5059_2014_canada_national_olympiad>
+* 2014 Cuba MO: <https://artofproblemsolving.com/community/c4014609_2014_cuba_mo>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
@@ -1171,6 +1197,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Contests: <https://artofproblemsolving.com/community/c53_2013_contests>
 * 2013 Canada National Olympiad: <https://artofproblemsolving.com/community/c5058_2013_canada_national_olympiad>
   * 2013 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4055_2013_canadian_mathematical_olympiad_qualification_repechage>
+* 2013 Cuba MO: <https://artofproblemsolving.com/community/c4014603_2013_cuba_mo>
 * 2013 Kurschak Competition: <https://artofproblemsolving.com/community/c103151_2013_kurschak_competition>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
@@ -1184,6 +1211,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Contests: <https://artofproblemsolving.com/community/c54_2012_contests>
 * 2012 Canada National Olympiad: <https://artofproblemsolving.com/community/c5057_2012_canada_national_olympiad>
   * 2012 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4054_2012_canadian_mathematical_olympiad_qualification_repechage>
+* 2012 Cuba MO: <https://artofproblemsolving.com/community/c4014601_2012_cuba_mo>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
@@ -1198,6 +1226,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675632_2012_turkmenistan_national_math_olympiad>
 * 2012 Argentina Cono Sur TST: <https://artofproblemsolving.com/community/c69800_2012_argentina_cono_sur_tst>
 * OIFMAT II 2012: <https://artofproblemsolving.com/community/c2484781_oifmat_ii_2012>
+* <https://www.viitoriolimpici.ro/uploads/attach_data/122/46/23/tuymaada2012.pdf>
 * 
 
 ## 2011:
@@ -1206,6 +1235,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2011 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4053_2011_canadian_mathematical_olympiad_qualification_repechage>
   * 2011 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c5242_2011_canadian_open_math_challenge>
   * 2011 Canadian Students Math Olympiad: <https://artofproblemsolving.com/community/c4146_2011_canadian_students_math_olympiad>
+* 2011 Cuba MO: <https://artofproblemsolving.com/community/c4014602_2011_cuba_mo>
 * 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
@@ -1221,6 +1251,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2010 Contests: <https://artofproblemsolving.com/community/c56_2010_contests>
 * 2010 Canada National Olympiad: <https://artofproblemsolving.com/community/c5055_2010_canada_national_olympiad>
   * 2010 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4052_2010_canadian_mathematical_olympiad_qualification_repechage>
+* 2010 Cuba MO: <https://artofproblemsolving.com/community/c4014600_2010_cuba_mo>
 * 2010 Kurschak Competition: <https://artofproblemsolving.com/community/c103153_2010_kurschak_competition>
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
@@ -1253,6 +1284,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * 2009 Canada National Olympiad: <https://artofproblemsolving.com/community/c5054_2009_canada_national_olympiad>
   * 2009 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4051_2009_canadian_mathematical_olympiad_qualification_repechage>
+* 2009 Cuba MO: <https://artofproblemsolving.com/community/c3979309_2009_cuba_mo>
 * 2009 Kurschak Competition: <https://artofproblemsolving.com/community/c103154_2009_kurschak_competition>
 * 2009 Bulgarian Spring Mathematical Competition: <https://artofproblemsolving.com/community/c3012977_2009_bulgarian_spring_mathematical_competition>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
@@ -1266,6 +1298,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2008:
 * 2008 Canada National Olympiad: <https://artofproblemsolving.com/community/c5053_2008_canada_national_olympiad>
+* 2008 Cuba MO: <https://artofproblemsolving.com/community/c3979328_2008_cuba_mo>
 * 2008 Kurschak Competition: <https://artofproblemsolving.com/community/c103155_2008_kurschak_competition>
 * Durer Math Competition CD 1st Round - geometry: <https://artofproblemsolving.com/community/c3186990_durer_math_competition_cd_1st_round__geometry>
   * Durer Math Competition CD Finals - geometry: <https://artofproblemsolving.com/community/c1648235_durer_math_competition_cd_finals__geometry>
@@ -1281,6 +1314,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2007:
+* 2007 Cuba MO: <https://artofproblemsolving.com/community/c4011421_2007_cuba_mo>
 * 2007 Kurschak Competition: <https://artofproblemsolving.com/community/c103156_2007_kurschak_competition>
 * 2007 Bulgarian Autumn Math Competition: <https://artofproblemsolving.com/community/c3011584_2007_bulgarian_autumn_math_competition>
 * 2007 Balkan MO Shortlist: <https://artofproblemsolving.com/community/c1120588_2007_balkan_mo_shortlist>
@@ -1293,8 +1327,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2006:
-* 2006 Kurschak Competition: <https://artofproblemsolving.com/community/c103157_2006_kurschak_competition>
 * 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
+* 2006 Kurschak Competition: <https://artofproblemsolving.com/community/c103157_2006_kurschak_competition>
+* 2006 Cuba MO: <https://artofproblemsolving.com/community/c4011412_2006_cuba_mo>
 * 2006 Princeton University Math Competition: <https://artofproblemsolving.com/community/c4231_2006_princeton_university_math_competition>
 * 2006 iTest: <https://artofproblemsolving.com/community/c779283_2006_itest>
 * 2006 Australia National Olympiad: <https://artofproblemsolving.com/community/c5391_2006_australia_national_olympiad>
@@ -1302,12 +1337,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5375_2006_lithuania_national_olympiad>
 * 2006 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5356_2006_moldova_mo_1112>
 * 2006 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3528_2006_costa_rica__final_round>
+* <https://www3.math.tu-berlin.de/TDM/TDM-2006/Ergebnisse.html>
+  * <https://www3.math.tu-berlin.de/TDM/TDM-2006/Downloads/TDM-06-stufe11-13.pdf>
 * 
 
 ## 2005:
-* 2005 Canada National Olympiad: <https://artofproblemsolving.com/community/c5050_2005_canada_national_olympiad>
-* 2005 Kurschak Competition: <https://artofproblemsolving.com/community/c103158_2005_kurschak_competition>
 * 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
+* 2005 Canada National Olympiad: <https://artofproblemsolving.com/community/c5050_2005_canada_national_olympiad>
+* 2005 Cuba MO: <https://artofproblemsolving.com/community/c4011324_2005_cuba_mo>
+* 2005 Kurschak Competition: <https://artofproblemsolving.com/community/c103158_2005_kurschak_competition>
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>
 * 2005 Sharygin Geometry Olympiad: https://artofproblemsolving.com/community/c865802_2005_sharygin_geometry_olympiad
@@ -1324,6 +1362,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2004:
 * 2004 Canada National Olympiad: <https://artofproblemsolving.com/community/c5049_2004_canada_national_olympiad>
+* 2004 Cuba MO: <https://artofproblemsolving.com/community/c4014072_2004_cuba_mo>
 * 2004 Kurschak Competition: <https://artofproblemsolving.com/community/c103159_2004_kurschak_competition>
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
 * 2004 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4670_2004_flanders_junior_olympiad>
@@ -1335,6 +1374,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2003:
 * 2003 Canada National Olympiad: <https://artofproblemsolving.com/community/c5048_2003_canada_national_olympiad>
+* 2003 Cuba MO: <https://artofproblemsolving.com/community/c4011434_2003_cuba_mo>
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
 * 2003 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4669_2003_flanders_junior_olympiad>
@@ -1362,6 +1402,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2001:
 * 2001 Canada National Olympiad: <https://artofproblemsolving.com/community/c5046_2001_canada_national_olympiad>
+* 2001 Cuba MO: <https://artofproblemsolving.com/community/c4011465_2001_cuba_mo>
 * 2001 Kurschak Competition: <https://artofproblemsolving.com/community/c103162_2001_kurschak_competition>
 * 2001 Croatia Team Selection Test: <https://artofproblemsolving.com/community/c1074439_2001_croatia_team_selection_test>
 * 2001 China Western Mathematical Olympiad: <https://artofproblemsolving.com/community/c5195_2001_china_western_mathematical_olympiad>
@@ -1953,6 +1994,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## LINKS:
+* <https://imogeometry.blogspot.com/p/geometry-solved-problem-collections.html>
 * New Post Collections: <https://artofproblemsolving.com/community/c116_new_post_collections>
 * <https://artofproblemsolving.com/wiki/index.php?title=Olympiad_Archive>
 * <https://artofproblemsolving.com/wiki/index.php/List_of_international_mathematics_competitions>

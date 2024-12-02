@@ -661,6 +661,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3979310_cuba_mo>
 * 
 
+## EL SALVADOR CORRESPONDENCE (FROM 2001):
+* <https://artofproblemsolving.com/community/c2513799_el_salvador_correspondence>
+* 
+
 ## PARAGUAY MATHEMATICAL OLYMPIAD (FROM 2001):
 * <https://artofproblemsolving.com/community/c3356_paraguay_mathematical_olympiad>
 * 
@@ -1464,6 +1468,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2001:
 * 2001 Canada National Olympiad: <https://artofproblemsolving.com/community/c5046_2001_canada_national_olympiad>
 * 2001 Cuba MO: <https://artofproblemsolving.com/community/c4011465_2001_cuba_mo>
+* 2001 El Salvador Correspondence: <https://artofproblemsolving.com/community/c2514708_2001_el_salvador_correspondence>
 * 2001 Kurschak Competition: <https://artofproblemsolving.com/community/c103162_2001_kurschak_competition>
 * 2001 Croatia Team Selection Test: <https://artofproblemsolving.com/community/c1074439_2001_croatia_team_selection_test>
 * 2001 China Western Mathematical Olympiad: <https://artofproblemsolving.com/community/c5195_2001_china_western_mathematical_olympiad>

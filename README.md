@@ -876,6 +876,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c2474645_ecuador_mathematical_olympiad_omec>
 * 
 
+## ECUADOR JUNIORS (FROM 2016):
+* <https://artofproblemsolving.com/community/c3183335_ecuador_juniors>
+* 
+
 ## LATVIA NATIONAL OLYMPIAD (FROM 2016):
 * <https://artofproblemsolving.com/community/c298872_latvia_national_olympiad>
 * 
@@ -1092,6 +1096,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USMCA: <https://artofproblemsolving.com/community/c940102_2019_usmca>
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 2019 Online Math Open Problems: <https://artofproblemsolving.com/community/c951538_2019_online_math_open_problems>
+* 2019 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183338_2019_ecuador_juniors>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
@@ -1108,6 +1113,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
+* 2018 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183337_2018_ecuador_juniors>
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
 * 2018 Azerbaijan IZhO TST: <https://artofproblemsolving.com/community/c3406120_2018_azerbaijan_izho_tst>
@@ -1136,6 +1142,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Online Math Open Problems: <https://artofproblemsolving.com/community/c486226_2017_online_math_open_problems>
 * 2017 Australian MO: <https://artofproblemsolving.com/community/c909331_2017_australian_mo>
 * 2017 Azerbaijan EGMO TST: <https://artofproblemsolving.com/community/c3404970_2017_azerbaijan_egmo_tst>
+* 2017 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183336_2017_ecuador_juniors>
 * 2017 Bosnia and Herzegovina EGMO TST: <https://artofproblemsolving.com/community/c732426_2017_bosnia_and_herzegovina_egmo_tst>
 * 2017-2018 SDPC: <https://artofproblemsolving.com/community/c1136843_20172018_sdpc>
 * 2017 ABMC: <https://artofproblemsolving.com/community/c3604283_2017_abmc>
@@ -1162,7 +1169,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Azerbaijan BMO TST: <https://artofproblemsolving.com/community/c365588_2016_azerbaijan_bmo_tst>
 * 2016 Azerbaijan IMO TST First Round: <https://artofproblemsolving.com/community/c164747_2016_azerbaijan_imo_tst_first_round>
 * 2016 Azerbaijan Team Selection Test: <https://artofproblemsolving.com/community/c660051_2016_azerbaijan_team_selection_test>
-* 2016 Ecuador NMO (OMEC): <https://artofproblemsolving.com/community/c2474644_2016_ecuador_nmo_omec>
+* 2016 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183334_2016_ecuador_juniors>
+  * 2016 Ecuador NMO (OMEC): <https://artofproblemsolving.com/community/c2474644_2016_ecuador_nmo_omec>
 * 2016 Latvia National Olympiad: <https://artofproblemsolving.com/community/c298869_2016_latvia_national_olympiad>
 * 2016 CMIMC: <https://artofproblemsolving.com/community/c253587_2016_cmimc>
 * 2016 IOM: <https://artofproblemsolving.com/community/c335778_2016_iom>

@@ -1174,6 +1174,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c285739_2014_canadian_mathematical_olympiad_qualification>
   * 2014 Canada National Olympiad: <https://artofproblemsolving.com/community/c5059_2014_canada_national_olympiad>
 * 2014 Cuba MO: <https://artofproblemsolving.com/community/c4014609_2014_cuba_mo>
+* 2014 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c5500_2014_tuymaada_olympiad>
+  * <https://www.viitoriolimpici.ro/uploads/attach_data/93/20/7/comentariicombo2014.pdf>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
@@ -1191,6 +1193,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * (China) the 2nd XMO: <https://artofproblemsolving.com/community/c3813168_the_2nd_xmo>
 * 2014 ASDAN Math Tournament: <https://artofproblemsolving.com/community/c3073738_2014_asdan_math_tournament>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
+* Călăraşi 2014: <https://www.viitoriolimpici.ro/uploads/attach_data/25/7/13//0_comentariicupadunarii2014.pdf>
 * 
 
 ## 2013:
@@ -1198,6 +1201,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Canada National Olympiad: <https://artofproblemsolving.com/community/c5058_2013_canada_national_olympiad>
   * 2013 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4055_2013_canadian_mathematical_olympiad_qualification_repechage>
 * 2013 Cuba MO: <https://artofproblemsolving.com/community/c4014603_2013_cuba_mo>
+* 2013 EGMO: <https://artofproblemsolving.com/community/c4328_2013_egmo>
+  * <https://www.viitoriolimpici.ro/uploads/attach_data/21/6/16/egmo2013prezentare.pdf>
 * 2013 Kurschak Competition: <https://artofproblemsolving.com/community/c103151_2013_kurschak_competition>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
@@ -1205,6 +1210,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4274_2013_uzbekistan_national_olympiad>
 * 2013 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675627_2013_turkmenistan_national_math_olympiad>
 * OIFMAT III 2013: <https://artofproblemsolving.com/community/c2484782_oifmat_iii_2013>
+* PANAITOPOL/IMAR 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/69/24/33//comentariipanaitopol2013.pdf>
+* The 7th “STARS of MATHEMATICS” Competition – Juniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/129/44/16/2013solutions_stelej.pdf>
+  * The 7th “STARS of MATHEMATICS” Competition – Seniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/60/20/13/2013solutions_stele.pdf>
 * 
 
 ## 2012:
@@ -1227,6 +1235,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Argentina Cono Sur TST: <https://artofproblemsolving.com/community/c69800_2012_argentina_cono_sur_tst>
 * OIFMAT II 2012: <https://artofproblemsolving.com/community/c2484781_oifmat_ii_2012>
 * <https://www.viitoriolimpici.ro/uploads/attach_data/122/46/23/tuymaada2012.pdf>
+* Călăraşi Competition, 2012: <https://www.viitoriolimpici.ro/uploads/attach_data/13/23/26/0_comentariicalarasi2012.pdf>
+  * <https://www.viitoriolimpici.ro/uploads/attach_data/116/19/1//1_comentariicalarasi2012.pdf>
+* Seniors IMAR Test 2012: <https://www.viitoriolimpici.ro/uploads/attach_data/65/22/36/comentariipanaitopol2012.pdf>
+* The 6th “STARS of MATHEMATICS” Competition – Juniors December 8, 2012: <https://www.viitoriolimpici.ro/uploads/attach_data/86/41/34//0_solutions_stelej.pdf>
 * 
 
 ## 2011:
@@ -1245,6 +1257,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4272_2011_uzbekistan_national_olympiad>
 * 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
 * 2011 Armenian Republican Olympiads: <https://artofproblemsolving.com/community/c302119_2011_armenian_republican_olympiads>
+* The 5th “STARS of MATHEMATICS” Competition – Juniors December 10, 2011: <https://www.viitoriolimpici.ro/uploads/attach_data/70/26/0/solutions_stelej.pdf>
 * 
 
 ## 2010:

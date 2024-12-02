@@ -138,6 +138,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3292_czech_and_slovak_olympiad_iii_a>
 * 
 
+## CZECH REPUBLIC DISTRICT ROUND (ROUND II) (FROM 2008):
+* <https://artofproblemsolving.com/community/c3293_district_round_round_ii>
+* 
+
 ## ALL-RUSSIAN OLYMPIAD (FROM 1961):
 * <https://artofproblemsolving.com/community/c3371_allrussian_olympiad>
 * 
@@ -1277,6 +1281,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
 * 2011 Bangladesh Mathematical Olympiad: <https://artofproblemsolving.com/community/c566956_2011_bangladesh_mathematical_olympiad>
 * 2011 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4272_2011_uzbekistan_national_olympiad>
+* 2011 Czech District Round (Round II): <https://artofproblemsolving.com/community/c4224_2011_district_round_round_ii>
 * 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
 * 2011 Armenian Republican Olympiads: <https://artofproblemsolving.com/community/c302119_2011_armenian_republican_olympiads>
 * The 5th “STARS of MATHEMATICS” Competition – Juniors December 10, 2011: <https://www.viitoriolimpici.ro/uploads/attach_data/70/26/0/solutions_stelej.pdf>
@@ -1328,6 +1333,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 BMO TST: <https://artofproblemsolving.com/community/c3906_2009_bmo_tst>
 * 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
 * 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
+* 2009 Czech District Round (Round II): <https://artofproblemsolving.com/community/c4223_2009_district_round_round_ii>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 2009 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3530_2009_costa_rica__final_round>
 * 2009 QEDMO 6th: <https://artofproblemsolving.com/community/c2000892_2009_qedmo_6th>
@@ -1344,6 +1350,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 ITest: <https://artofproblemsolving.com/community/c4445_2008_itest>
   * 2008 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c680215_2008_itest_tournament_of_champions>
 * 2008 Bosnia And Herzegovina - Regional Olympiad: <https://artofproblemsolving.com/community/c3642_2008_bosnia_and_herzegovina__regional_olympiad>
+* 2008 Czech District Round (Round II): <https://artofproblemsolving.com/community/c939340_2008_district_round_round_ii>
 * 2008 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5357_2008_moldova_mo_1112>
 * 2008 Philippine MO: <https://artofproblemsolving.com/community/c4408_2008_philippine_mo>
 * 2008 Argentina Iberoamerican TST: <https://artofproblemsolving.com/community/c938333_2008_argentina_iberoamerican_tst>

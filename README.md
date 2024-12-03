@@ -531,6 +531,22 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3250_imc>
 * 
 
+## HONG KONG TEAM SELECTION TEST (FROM 1994):
+* <https://artofproblemsolving.com/community/c3306_hong_kong_team_selection_test>
+* 
+
+## HONG KONG NATIONAL OLYMPIAD (FROM 1998):
+* <https://artofproblemsolving.com/community/c3305_hong_kong_national_olympiad>
+* 
+
+## HKIMO PRELIMINARY SELECTION CONTEST (FROM 2002):
+* <https://artofproblemsolving.com/community/c64480_hkimo_preliminary_selection_contest>
+* 
+
+## CHKMO (HONG KONG (CHINA) MATH OLYMPIAD FROM 2003):
+* <https://artofproblemsolving.com/community/c255369_chkmo>
+* 
+
 ## PORTUGAL MO (FROM 1994):
 * <https://artofproblemsolving.com/community/c3362_portugal_mo>
 * 
@@ -661,10 +677,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## USAMTS PROBLEMS (FROM 1998):
 * <https://artofproblemsolving.com/community/c3412_usamts_problems>
-* 
-
-## HONG KONG NATIONAL OLYMPIAD (FROM 1998):
-* <https://artofproblemsolving.com/community/c3305_hong_kong_national_olympiad>
 * 
 
 ## GAUSS (FROM 1998):
@@ -1166,6 +1178,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094908_2020_greece_junior_math_olympiad>
   * 2020 Greece JBMO TST: <https://artofproblemsolving.com/community/c1594892_2020_greece_jbmo_tst>
 * 2020 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167743_2020_bosnia_and_herzegovina_junior_bmo_tst>
+* 2020 HK IMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c1598564_2020_hk_imo_preliminary_selection_contest>
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
 * 2020 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1262354_2020_duumlrer_math_competition_first_round>
   * 2020 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1622639_2020_durer_math_competition_finals>
@@ -1636,6 +1649,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2003 Greece JBMO TST: <https://artofproblemsolving.com/community/c881280_2003_greece_jbmo_tst>
 * 2003 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c1179213_2003_bosnia_and_herzegovina_junior_bmo_tst>
 * 2003 Cuba MO: <https://artofproblemsolving.com/community/c4011434_2003_cuba_mo>
+* 2003 CHKMO: <https://artofproblemsolving.com/community/c707778_2003_chkmo>
+  * 2003 HKIMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c69993_2003_hkimo_preliminary_selection_contest>
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
 * 2003 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4669_2003_flanders_junior_olympiad>
@@ -1652,6 +1667,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2002 JBMO ShortLists: <https://artofproblemsolving.com/community/c3732_2002_jbmo_shortlists>
 * 2002 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094877_2002_greece_junior_math_olympiad>
   * 2002 Greece JBMO TST: <https://artofproblemsolving.com/community/c881278_2002_greece_jbmo_tst>
+* 2002 HKIMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c64452_2002_hkimo_preliminary_selection_contest>
 * 2002 Kurschak Competition: <https://artofproblemsolving.com/community/c103161_2002_kurschak_competition>
 * 2002 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4668_2002_flanders_junior_olympiad>
 * 2002 Mid-Michigan MO: <https://artofproblemsolving.com/community/c3168239_2002_midmichigan_mo>
@@ -1782,6 +1798,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://artofproblemsolving.com/community/c5039_1994_canada_national_olympiad>
   * <https://artofproblemsolving.com/downloads/printable_post_collections/5039.pdf>
   * https://imomath.com/othercomp/Can/CanMO94.pdf
+* 1994 Hong Kong TST: <https://artofproblemsolving.com/community/c5419_1994_hong_kong_tst>
 * 1994 Kurschak Competition: <https://artofproblemsolving.com/community/c103177_1994_kurschak_competition>
 * 1994 IMC: <https://artofproblemsolving.com/community/c420975_1994_imc>
 * 1994 Korea National Olympiad: <https://artofproblemsolving.com/community/c909688_1994_korea_national_olympiad>

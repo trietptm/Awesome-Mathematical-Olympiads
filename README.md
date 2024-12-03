@@ -739,9 +739,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c2418231_colombia_team_selection_test>
 * 
 
-
 ## COLOMBIA NATIONAL OLYMPIAD (FROM 2020):
 * <https://artofproblemsolving.com/community/c3212052_colombia_national_olympiad>
+* 
+
+## GEORGIA TEAM SELECTION TEST (FROM 2005):
+* <https://artofproblemsolving.com/community/c3298_georgia_team_selection_test>
 * 
 
 ## QEDMO (FROM 2005):
@@ -1018,6 +1021,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3509698_imsc>
 * 
 
+## EULER OLYMPIAD (FROM 2023):
+* <https://artofproblemsolving.com/community/c3350141_euler_olympiad>
+* 
+
 ## THE GOLDEN NUMBER MATHEMATICS TOURNAMENT (FROM 2023):
 * <https://artofproblemsolving.com/community/c4076798_the_golden_number_mathematics_tournament>
 * 
@@ -1041,6 +1048,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Bulgarian Winter Tournament: <https://artofproblemsolving.com/community/c3741306_2024_bulgarian_winter_tournament>
 * 2024 Bulgaria MO Regional Round: <https://artofproblemsolving.com/community/c3757527_2024_bulgaria_mo_regional_round>
 * 2024 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076194_2024_chile_tst_ibero>
+* 2024 Euler Olympiad, Round 1: <https://artofproblemsolving.com/community/c3808339_2024_euler_olympiad_round_1>
+  * 2024 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3808340_2024_euler_olympiad_round_2>
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
@@ -1057,6 +1066,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2023 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3833205_2023_durer_math_competition_finals>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
+* 2023 Euler Olympiad, Round 1: <https://artofproblemsolving.com/community/c3359581_2023_euler_olympiad_round_1>
+  * 2023 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3350143_2023_euler_olympiad_round_2>
 * TNO 2023: <https://artofproblemsolving.com/community/c4084187_tno_2023>
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
 * 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
@@ -1459,6 +1470,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 France Pre-TST: <https://artofproblemsolving.com/community/c1694001_2005_france_pretst>
 * 2005 Cuba MO: <https://artofproblemsolving.com/community/c4011324_2005_cuba_mo>
 * 2005 QEDMO 1st: <https://artofproblemsolving.com/community/c1511696_2005_qedmo_1st>
+* 2005 Georgia Team Selection Test: <https://artofproblemsolving.com/community/c3842_2005_georgia_team_selection_test>
 * 2005 Kurschak Competition: <https://artofproblemsolving.com/community/c103158_2005_kurschak_competition>
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
 * 2005 International Zhautykov Olympiad: <https://artofproblemsolving.com/community/c3735_2005_international_zhautykov_olympiad>

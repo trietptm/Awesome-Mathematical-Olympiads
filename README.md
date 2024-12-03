@@ -387,6 +387,22 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3229_iberoamerican>
 * 
 
+## FRENCH MATHEMATICAL OLYMPIAD (FROM 1986):
+* <https://artofproblemsolving.com/community/c1981541_french_mathematical_olympiad>
+* 
+
+## FRANCE TEAM SELECTION TEST (FROM 2000):
+* <https://artofproblemsolving.com/community/c3295_france_team_selection_test>
+* 
+
+## FRANCE JBMO TST (FROM 2020):
+* <https://artofproblemsolving.com/community/c3296_france_jbmo_tst>
+* 
+
+## FRANCE PRE-TST (FROM 2005):
+* <https://artofproblemsolving.com/community/c3297_france_pretst>
+* 
+
 ## FLANDERS MATH OLYMPIAD (FROM 1986):
 * <https://artofproblemsolving.com/community/c3268_flanders_math_olympiad>
 * 
@@ -1094,6 +1110,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * 2020 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c1231800_2020_canadian_junior_mathematical_olympiad>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
+* 2020 JBMO TST of France: <https://artofproblemsolving.com/community/c1115939_2020_jbmo_tst_of_france>
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
 * 2020 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1262354_2020_duumlrer_math_competition_first_round>
   * 2020 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1622639_2020_durer_math_competition_finals>
@@ -1439,6 +1456,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2005:
 * 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
 * 2005 Canada National Olympiad: <https://artofproblemsolving.com/community/c5050_2005_canada_national_olympiad>
+* 2005 France Pre-TST: <https://artofproblemsolving.com/community/c1694001_2005_france_pretst>
 * 2005 Cuba MO: <https://artofproblemsolving.com/community/c4011324_2005_cuba_mo>
 * 2005 QEDMO 1st: <https://artofproblemsolving.com/community/c1511696_2005_qedmo_1st>
 * 2005 Kurschak Competition: <https://artofproblemsolving.com/community/c103158_2005_kurschak_competition>
@@ -1509,6 +1527,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2000:
+* 2000 France Team Selection Test: <https://artofproblemsolving.com/community/c5347_2000_france_team_selection_test>
 * 2000 Kurschak Competition: <https://artofproblemsolving.com/community/c103163_2000_kurschak_competition>
 * 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 JBMO ShortLists: <https://artofproblemsolving.com/community/c3730_2000_jbmo_shortlists>
@@ -1669,6 +1688,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1986 India National Olympiad: <https://artofproblemsolving.com/community/c4912_1986_india_national_olympiad>
 * 1986 China National Olympiad: <https://artofproblemsolving.com/community/c5209_1986_china_national_olympiad>
 * 1986 China Team Selection Test: <https://artofproblemsolving.com/community/c4942_1986_china_team_selection_test>
+* 1986 French Mathematical Olympiad: <https://artofproblemsolving.com/community/c2006597_1986_french_mathematical_olympiad>
 * 
 
 ## 1985:

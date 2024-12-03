@@ -973,6 +973,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c986159_simon_marais_mathematical_competition>
 * 
 
+## ASSAM MATHEMATICS OLYMPIAD (FROM 2017):
+* <https://artofproblemsolving.com/community/c909327_assam_mathematics_olympiad>
+* <https://aamonline.org.in/index_pages.php?page=Mathematical-Competition>
+* 
+
+## CHENNAI MATHEMATICAL INSTITUTE B.SC. ENTRANCE EXAM (FROM 2017):
+* <https://artofproblemsolving.com/community/c647250_chennai_mathematical_institute_bsc_entrance_exam>
+* 
+
 ## SLOVAKIA NATIONAL OLYMPIAD (FROM 2018):
 * <https://artofproblemsolving.com/community/c797962_slovakia_national_olympiad>
 * 
@@ -1088,6 +1097,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
+* 2024 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c3921146_2024_cmi_bsc_entrance_exam>
 * <https://www.cms.org.cy/news/papers-and-solutions-for-county-competitions-2024-20251731836235>
 * 
 
@@ -1099,6 +1109,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2023 JBMO Shortlist: <https://artofproblemsolving.com/community/c3875463_2023_jbmo_shortlist>
 * 2023 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c3772308_2023_greece_junior_math_olympiad>
   * 2023 Greece JBMO TST: <https://artofproblemsolving.com/community/c3833135_2023_greece_jbmo_tst>
+* 2023 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c4008096_2023_assam_mathematics_olympiad>
 * 2023 Kurschak Competition: <https://artofproblemsolving.com/community/c3788837_2023_kurschak_competition>
 * 2023 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577691_2023_bulgaria_jbmo_tst>
 * 2023 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3839918_2023_durer__math_competition_first_round>
@@ -1111,6 +1122,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
 * 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
 * 2023 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3394570_2023_safest_olympiad>
+* 2023 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c3379018_2023_cmi_bsc_entrance_exam>
 * 
 
 ## 2022:
@@ -1125,6 +1137,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167741_2022_bosnia_and_herzegovina_junior_bmo_tst>
 * 2022 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2995570_2022_cyprus_jbmo_tst>
 * 2022 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3075869_2022_azerbaijan_jbmo_tst>
+* 2022 Assam Mathematical Olympiad: <https://artofproblemsolving.com/community/c4009329_2022_assam_mathematical_olympiad>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
 * 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
@@ -1222,6 +1235,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
 * 2019 SAFEST Olympiad: <https://artofproblemsolving.com/community/c949677_2019_safest_olympiad>
+* 2019 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c1000562_2019_cmi_bsc_entrance_exam>
 * <https://tdm.math.fu-berlin.de/download/TdM%202019%20Aufgaben%20und%20L%C3%B6sungen.pdf>
 * 
 
@@ -1253,6 +1267,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
   * MOAA Team Rounds: <https://artofproblemsolving.com/community/c2880077_moaa_team_rounds>
+* 2018 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c656223_2018_cmi_bsc_entrance_exam>
 * 
 
 ## 2017:
@@ -1286,6 +1301,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 International Olympic Revenge: <https://artofproblemsolving.com/community/c483660_2017_international_olympic_revenge>
 * 2017 Simon Marais Mathematical Competition: <https://artofproblemsolving.com/community/c1994573_2017_simon_marais_mathematical_competition>
 * 2017 Pan-African Shortlist: <https://artofproblemsolving.com/community/c870452_2017_panafrican_shortlist>
+* 2017 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c909328_2017_assam_mathematics_olympiad>
+  * <https://aamonline.org.in/pdf/02017MathleticsCompetition.pdf.pdf>
+  * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-I.pdf.pdf>
+  * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-II.pdf.pdf>
+  * <https://aamonline.org.in/pdf/02017%20Mathematics%20Olympiad%20-Category%20-III.pdf.pdf>
+* 2017 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c650590_2017_cmi_bsc_entrance_exam>
 * 
 
 ## 2016:

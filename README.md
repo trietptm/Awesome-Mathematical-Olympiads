@@ -481,6 +481,24 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3397_turkey_mo_2nd_round>
 * 
 
+## ESTONIA MATH OPEN SENIOR CONTESTS (FROM 1993):
+* <https://artofproblemsolving.com/community/c1094639_estonia_math_open_senior_contests>
+  * <https://artofproblemsolving.com/community/c1305649_estonia_open_senior__geometry>
+* 
+
+## ESTONIA MATH OPEN JUNIOR CONTESTS (FROM 1995):
+* <https://artofproblemsolving.com/community/c1094634_estonia_math_open_junior_contests>
+  * <https://artofproblemsolving.com/community/c1305640_estonia_open_junior__geometry>
+* 
+
+## ESTONIA NATIONAL OLYMPIAD (FROM 1996):
+* <https://artofproblemsolving.com/community/c1094631_estonia_national_olympiad>
+* 
+
+## ESTONIA TEAM SELECTION TEST (FROM 1996):
+* <https://artofproblemsolving.com/community/c186103_estonia_team_selection_test>
+* 
+
 ## IMC (FROM 1994):
 * <https://artofproblemsolving.com/community/c3250_imc>
 * 
@@ -947,6 +965,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c1177481_girls_in_mathematics_tournament>
 * 
 
+## SAFEST (SOUTH AFRICA - ESTONIA) OLYMPIAD (FROM 2019):
+* <https://artofproblemsolving.com/community/c953282_safest_south_africa__estonia_olympiad>
+* 
+
 ## FRANCOPHONE MATHEMATICAL OLYMPIAD (FROM 2020):
 * <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
 * 
@@ -1022,6 +1044,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * TNO 2023: <https://artofproblemsolving.com/community/c4084187_tno_2023>
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
 * 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
+* 2023 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3394570_2023_safest_olympiad>
 * 
 
 ## 2022:
@@ -1046,6 +1069,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Belarus - Iran Friendly Competition: <https://artofproblemsolving.com/community/c4012162_2022_belarus__iran_friendly_competition>
 * 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
+* 2022 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3393197_2022_safest_olympiad>
 * 
 
 ## 2021:
@@ -1063,6 +1087,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Bolivian Cono Sur TST: <https://artofproblemsolving.com/community/c2650959_2021_bolivian_cono_sur_tst>
 * 2021 Bolivia Ibero TST: <https://artofproblemsolving.com/community/c3126894_2021_bolivia_ibero_tst>
 * 2021 Olimphíada: <https://artofproblemsolving.com/community/c3381772_2021_olimphiacuteada>
+* 2021 SAFEST Olympiad: <https://artofproblemsolving.com/community/c2463038_2021_safest_olympiad>
 * 
 
 ## 2020:
@@ -1085,6 +1110,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
+* 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
 * 
 
 ## 2019:
@@ -1104,6 +1130,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
+* 2019 SAFEST Olympiad: <https://artofproblemsolving.com/community/c949677_2019_safest_olympiad>
 * <https://tdm.math.fu-berlin.de/download/TdM%202019%20Aufgaben%20und%20L%C3%B6sungen.pdf>
 * 
 
@@ -1387,6 +1414,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2007 iTest Tournament of Champions: <https://artofproblemsolving.com/community/c696542_2007_itest_tournament_of_champions>
 * 2007 Serbia National Math Olympiad: <https://artofproblemsolving.com/community/c3633_2007_serbia_national_math_olympiad>
 * 2007-2008 SDML (Middle School): <https://artofproblemsolving.com/community/c312161_20072008_sdml_middle_school>
+* 2007 Estonia Math Open Senior Contests: <https://artofproblemsolving.com/community/c1090811_2007_estonia_math_open_senior_contests>
+  * 2007 Estonia Math Open Junior Contests: <https://artofproblemsolving.com/community/c1090810_2007_estonia_math_open_junior_contests>
 * 
 
 ## 2006:
@@ -1401,6 +1430,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 Lithuania National Olympiad: <https://artofproblemsolving.com/community/c5375_2006_lithuania_national_olympiad>
 * 2006 Moldova MO 11-12: <https://artofproblemsolving.com/community/c5356_2006_moldova_mo_1112>
 * 2006 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3528_2006_costa_rica__final_round>
+* 2006 Estonia Math Open Junior Contests: <https://artofproblemsolving.com/community/c1090795_2006_estonia_math_open_junior_contests>
+  * 2006 Estonia Math Open Senior Contests: <https://artofproblemsolving.com/community/c1090800_2006_estonia_math_open_senior_contests>
 * <https://www3.math.tu-berlin.de/TDM/TDM-2006/Ergebnisse.html>
   * <https://www3.math.tu-berlin.de/TDM/TDM-2006/Downloads/TDM-06-stufe11-13.pdf>
 * 
@@ -1540,6 +1571,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1996 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946178_1996_moscow_mathematical_olympiad>
 * 1996 Romania National Olympiad: <https://artofproblemsolving.com/community/c3949533_1996_romania_national_olympiad>
 * 1996 Bosnia and Herzegovina Team Selection Test: <https://artofproblemsolving.com/community/c732968_1996_bosnia_and_herzegovina_team_selection_test>
+* 1996 Estonia National Olympiad: <https://artofproblemsolving.com/community/c1090830_1996_estonia_national_olympiad>
+  * 1996 Estonia Team Selection Test: <https://artofproblemsolving.com/community/c186104_1996_estonia_team_selection_test>
 * 1st Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2661725_1st_cabri_clubs_1996>
   * 2nd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662364_2nd_cabri_clubs_1996>
   * 3rd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662866_3rd_cabri_clubs_1996>
@@ -1556,6 +1589,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1995 May Olympiad: <https://artofproblemsolving.com/community/c3144153_1995_may_olympiad>
   * May Olympiad L1 - geometry: <https://artofproblemsolving.com/community/c927574_may_olympiad_l1__geometry>
   * May Olympiad L2 - geometry: <https://artofproblemsolving.com/community/c927071_may_olympiad_l2__geometry>
+* Estonia Open Junior - geometry: <https://artofproblemsolving.com/community/c1305640_estonia_open_junior__geometry>
 * 1995 Canada National Olympiad: <https://artofproblemsolving.com/community/c5040_1995_canada_national_olympiad>
 * 
 
@@ -1579,6 +1613,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1993 Korea - Final Round: <https://artofproblemsolving.com/community/c3532_1993_korea__final_round>
 * 1993 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3483_1993_iran_mo_3rd_round>
 * 1993 Turkey MO (2nd round): <https://artofproblemsolving.com/community/c5422_1993_turkey_mo_2nd_round>
+* Estonia Open Senior - geometry: <https://artofproblemsolving.com/community/c1305649_estonia_open_senior__geometry>
 * 
 
 ## 1992:

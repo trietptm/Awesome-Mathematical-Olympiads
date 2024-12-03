@@ -427,6 +427,27 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3309_india_national_olympiad>
 * 
 
+## INDIA REGIONAL MATHEMATICAL OLYMPIAD (FROM 1990):
+* <https://artofproblemsolving.com/community/c3311_regional_mathematical_olympiad>
+* 
+
+## INDIA IMO TRAINING CAMP (FROM 2001):
+* <https://artofproblemsolving.com/community/c3310_india_imo_training_camp>
+* 
+
+## INDIA PRE-REGIONAL MATHEMATICAL OLYMPIAD (FROM 2012):
+* <https://artofproblemsolving.com/community/c919225_india_preregional_mathematical_olympiad>
+* 
+
+## INDIA IOQM (FROM 2020):
+* <https://artofproblemsolving.com/community/c2004783_india_ioqm>
+  * Indian Olympiad Qualifier in Mathematics, a replacement for both PRMO and RMO in India
+* 
+
+## INDIA EGMO TST (FROM 2021):
+* <https://artofproblemsolving.com/community/c2646857_india_egmo_tst>
+* 
+
 ## MEXICO NATIONAL OLYMPIAD (FROM 1987):
 * <https://artofproblemsolving.com/community/c3344_mexico_national_olympiad>
 * 
@@ -759,6 +780,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c879688_thailand_national_olympiad>
 * 
 
+## INDIA POSTAL COACHING (FROM 2004):
+* <https://artofproblemsolving.com/community/c3312_postal_coaching>
+* 
+
 ## COLOMBIA TEAM SELECTION TEST (FROM 2005):
 * <https://artofproblemsolving.com/community/c2418231_colombia_team_selection_test>
 * 
@@ -785,6 +810,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## MOROCCO NATIONAL OLYMPIAD (FROM 2005):
 * <https://artofproblemsolving.com/community/c3470_morocco_national_olympiad>
+* 
+
+## ISI B.MATH ENTRANCE EXAM (FROM 2005):
+* <https://artofproblemsolving.com/community/c3314_isi_bmath_entrance_exam>
+* 
+
+## ISI B.STAT ENTRANCE EXAM (FROM 2005):
+* <https://artofproblemsolving.com/community/c3315_isi_bstat_entrance_exam>
 * 
 
 ## LITHUANIA NATIONAL OLYMPIAD (FROM 2006):
@@ -888,6 +921,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3248_european_mathematical_cup>
 * 
 
+## ISI ENTRANCE EXAMINATION (FROM 2012):
+* <https://artofproblemsolving.com/community/c3316_isi_entrance_examination>
+* 
+
 ## GULF MATH OLYMPIAD (FROM 2012):
 * <https://artofproblemsolving.com/community/c525584_gulf_math_olympiad>
 * 
@@ -895,6 +932,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## (CHINA) XUEERSI MATHEMATICAL OLYMPIAD - A PRACTICE EXAM HELD BY 学而思教育 (XUEERSI EDUCATION) 学而思数学竞赛联考 (FROM 2013):
 * XES Mathematics Olympiad: https://artofproblemsolving.com/community/c3289271_xes_mathematics_olympiad
 * <https://artofproblemsolving.com/community/c3233142_xmo_china__215__geometry>
+* 
+
+## MATHEMATICS TALENT REWARD PROGRAMME (MTRP) (FROM 2013):
+* <https://artofproblemsolving.com/community/c1028609_mathematics_talent_reward_programme_mtrp>
 * 
 
 ## ASDAN MATH TOURNAMENT (FROM 2014):
@@ -982,6 +1023,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c647250_chennai_mathematical_institute_bsc_entrance_exam>
 * 
 
+## NMTC (FROM 2017):
+* <https://artofproblemsolving.com/community/c909321_nmtc>
+* 
+
 ## SLOVAKIA NATIONAL OLYMPIAD (FROM 2018):
 * <https://artofproblemsolving.com/community/c797962_slovakia_national_olympiad>
 * 
@@ -1037,6 +1082,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3381763_mathematicians__for_fun_olympiad>
 * 
 
+## INDIA LIMIT (FROM 2020):
+* <https://artofproblemsolving.com/community/c1125837_india_limit>
+  * International Open book Online Mathematics Competition by Indian Statistical Institute Bangalore
+* 
+
 ## PAN-AMERICAN GIRLS’ MATHEMATICAL OLYMPIAD - PAGMO (FROM 2021):
 * <https://artofproblemsolving.com/community/c2500342_pagmo>
 * 
@@ -1048,6 +1098,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## OLIMPHÍADA (FROM 2021):
 * <https://artofproblemsolving.com/community/c3381765_olimphiacuteada>
+* 
+
+## INDIA STEMS (FROM 2021):
+* <https://artofproblemsolving.com/community/c2742262_india_stems>
 * 
 
 ## IRAN-SINGAPORE-TAIWAN FRIENDLY MATH COMPETITION (FROM 2022):

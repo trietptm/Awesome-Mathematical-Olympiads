@@ -1064,6 +1064,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2024 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788843_2024_canadian_mathematical_olympiad_qualification>
   * 2024 Canada National Olympiad: <https://artofproblemsolving.com/community/c3776691_2024_canada_national_olympiad>
 * 2024 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c3772295_2024_greece_junior_math_olympiad>
+* 2024 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3922888_2024_azerbaijan_jbmo_tst>
 * 2024 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3839913_2024_durer_math_competition_finals>
 * 2024 Australian Mathematical Olympiad: <https://artofproblemsolving.com/community/c3781759_2024_australian_mathematical_olympiad>
 * 2024 Bulgarian Winter Tournament: <https://artofproblemsolving.com/community/c3741306_2024_bulgarian_winter_tournament>
@@ -1106,6 +1107,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2022 Greece JBMO TST: <https://artofproblemsolving.com/community/c3191723_2022_greece_jbmo_tst>
 * 2022 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167741_2022_bosnia_and_herzegovina_junior_bmo_tst>
 * 2022 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2995570_2022_cyprus_jbmo_tst>
+* 2022 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3075869_2022_azerbaijan_jbmo_tst>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
 * 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
@@ -1208,6 +1210,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094906_2018_greece_junior_math_olympiad>
   * 2018 Greece JBMO TST: <https://artofproblemsolving.com/community/c866836_2018_greece_jbmo_tst>
 * 2018 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728727_2018_bosnia_and_herzegovina_junior_bmo_tst>
+* 2018 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3406177_2018_azerbaijan_jbmo_tst>
 * 2018 Kürschák Competition: <https://artofproblemsolving.com/community/c854409_2018_kuumlrschaacutek_competition>
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
@@ -1234,6 +1237,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094905_2017_greece_junior_math_olympiad>
   * 2017 Greece JBMO TST: <https://artofproblemsolving.com/community/c675547_2017_greece_jbmo_tst>
 * 2017 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728958_2017_bosnia_and_herzegovina_junior_bmo_tst>
+* 2017 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3404328_2017_azerbaijan_jbmo_tst>
 * 2017 QEDMO 15th: <https://artofproblemsolving.com/community/c2014828_2017_qedmo_15th>
 * 2017 Kürschák Competition: <https://artofproblemsolving.com/community/c537788_2017_kuumlrschaacutek_competition>
 * 2017 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c936905_2017_bulgaria_jbmo_tst>
@@ -1263,6 +1267,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094904_2016_greece_junior_math_olympiad>
   * 2016 Greece JBMO TST: <https://artofproblemsolving.com/community/c866848_2016_greece_jbmo_tst>
 * 2016 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728967_2016_bosnia_and_herzegovina_junior_bmo_tst>
+* 2016 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3403876_2016_azerbaijan_jbmo_tst>
 * 2016 Kurschak Competition: <https://artofproblemsolving.com/community/c345604_2016_kurschak_competition>
 * 2016 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577516_2016_bulgaria_jbmo_tst>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
@@ -1291,6 +1296,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094903_2015_greece_junior_math_olympiad>
   * 2015 Greece JBMO TST: <https://artofproblemsolving.com/community/c866952_2015_greece_jbmo_tst>
 * 2015 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728993_2015_bosnia_and_herzegovina_junior_bmo_tst>
+* 2015 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c72498_2015_azerbaijan_jbmo_tst>
+  * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
 * 2015 Cuba MO: <https://artofproblemsolving.com/community/c4014608_2015_cuba_mo>
 * 2015 QEDMO 14th: <https://artofproblemsolving.com/community/c2014815_2015_qedmo_14th>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
@@ -1299,8 +1306,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 Albania JBMO TST: <https://artofproblemsolving.com/community/c3560409_2015_albania_jbmo_tst>
-* 2015 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c72498_2015_azerbaijan_jbmo_tst>
-* 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
 * 2015 Azerbaijan IMO TST: <https://artofproblemsolving.com/community/c85324_2015_azerbaijan_imo_tst>
 * 2015 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c255426_2015_turkmenistan_national_math_olympiad>
 * 2015 Bulgaria EGMO TST: <https://artofproblemsolving.com/community/c3284206_2015_bulgaria_egmo_tst>

@@ -787,6 +787,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3237_middle_european_mathematical_olympiad>
 * 
 
+## HONDURAN MATHEMATICAL OLYMPIAD (FROM 2007):
+* <https://artofproblemsolving.com/community/c1022688_honduran_mathematical_olympiad>
+* 
+
+## HONDURAS VIRTUAL MATH COMPETITION (FROM 2020):
+* <https://artofproblemsolving.com/community/c3379009_honduras_virtual_math_competition>
+* 
+
 ## ROMANIAN MASTERS OF MATHEMATICS COLLECTION (FROM 2008):
 * <https://artofproblemsolving.com/community/c3238_romanian_masters_of_mathematics_collection>
 * 
@@ -1124,6 +1132,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c2399561_2021_greece_junior_math_olympiad>
   * 2021 Greece JBMO TST: <https://artofproblemsolving.com/community/c3833134_2021_greece_jbmo_tst>
 * 2021 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2007483_2021_cyprus_jbmo_tst>
+* 2021 Honduras National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3001368_2021_honduras_national_mathematical_olympiad>
 * 2021 Kurschak Competition: <https://artofproblemsolving.com/community/c2504236_2021_kurschak_competition>
 * 2021 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c2773609_2021_durer_math_competition_first_round>
   * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
@@ -1160,6 +1169,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
 * 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
+* Honduras CVM 2020: <https://artofproblemsolving.com/community/c1231987_cvm_2020>
 * 
 
 ## 2019:
@@ -1478,6 +1488,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2007 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094890_2007_greece_junior_math_olympiad>
   * 2007 Greece JBMO TST: <https://artofproblemsolving.com/community/c881284_2007_greece_jbmo_tst>
 * 2007 Cuba MO: <https://artofproblemsolving.com/community/c4011421_2007_cuba_mo>
+* 2007 Honduras National Mathematical Olympiad: <https://artofproblemsolving.com/community/c1287035_2007_honduras_national_mathematical_olympiad>
 * 2007 QEDMO 4th: <https://artofproblemsolving.com/community/c1512151_2007_qedmo_4th>
   * 2007 QEDMO 5th: <https://artofproblemsolving.com/community/c1512156_2007_qedmo_5th>
 * 2007 Bulgarian Autumn Math Competition: <https://artofproblemsolving.com/community/c3011584_2007_bulgarian_autumn_math_competition>

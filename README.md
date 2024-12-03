@@ -379,6 +379,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3302_greece_national_olympiad>
 * 
 
+## GREECE JUNIOR MATH OLYMPIAD (FROM 1986):
+* <https://artofproblemsolving.com/community/c1094891_greece_junior_math_olympiad>
+* 
+
+## GREECE JBMO TST (FROM 1998):
+* <https://artofproblemsolving.com/community/c3304_greece_jbmo_tst>
+* 
+
+## GREECE TEAM SELECTION TEST (FROM 2005):
+* <https://artofproblemsolving.com/community/c3303_greece_team_selection_test>
+* 
+
 ## ITALIAN MATHEMATICAL OLYMPIAD (ITAMO FROM 1985):
 * <https://artofproblemsolving.com/community/c3325_itamo>
 * 
@@ -1484,6 +1496,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>
 * 2005 Argentina Team Selection Test: <https://artofproblemsolving.com/community/c3843_2005_argentina_team_selection_test>
 * 2005 Brazil Undergrad MO: <https://artofproblemsolving.com/community/c5128_2005_brazil_undergrad_mo>
+* 2005 Greece Team Selection Test: <https://artofproblemsolving.com/community/c274543_2005_greece_team_selection_test>
 * 
 
 ## 2004:
@@ -1569,6 +1582,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1998:
 * 1998 Canada National Olympiad: <https://artofproblemsolving.com/community/c5043_1998_canada_national_olympiad>
+* 1998 Greece JBMO TST: <https://artofproblemsolving.com/community/c4413_1998_greece_jbmo_tst>
 * 1998 Kurschak Competition: <https://artofproblemsolving.com/community/c103173_1998_kurschak_competition>
 * 1998 USAMTS Problems: <https://artofproblemsolving.com/community/c4672_1998_usamts_problems>
 * 1998 Harvard-MIT Mathematics Tournament: <https://artofproblemsolving.com/community/c3619_1998_harvardmit_mathematics_tournament>
@@ -1695,6 +1709,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 1986:
 * 1986 Canada National Olympiad: <https://artofproblemsolving.com/community/c5031_1986_canada_national_olympiad>
+* 1986 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c4002146_1986_greece_junior_math_olympiad>
 * 1986 Kurschak Competition: <https://artofproblemsolving.com/community/c103197_1986_kurschak_competition>
 * 1986 Flanders Math Olympiad: <https://artofproblemsolving.com/community/c4587_1986_flanders_math_olympiad>
 * 1986 India National Olympiad: <https://artofproblemsolving.com/community/c4912_1986_india_national_olympiad>

@@ -1273,6 +1273,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
 * 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
 * Honduras CVM 2020: <https://artofproblemsolving.com/community/c1231987_cvm_2020>
+* 2020 LIMIT Category 1: <https://artofproblemsolving.com/community/c1125835_2020_limit_category_1>
+  * 2020 LIMIT Category 2: <https://artofproblemsolving.com/community/c1141210_2020_limit_category_2>
 * 
 
 ## 2019:
@@ -1284,7 +1286,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094907_2019_greece_junior_math_olympiad>
   * 2019 Greece JBMO TST: <https://artofproblemsolving.com/community/c866841_2019_greece_jbmo_tst>
 * 2019 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c903547_2019_bosnia_and_herzegovina_junior_bmo_tst>
-* 2019 India IMO Training Camp: <https://artofproblemsolving.com/community/c908518_2019_india_imo_training_camp>
+* 2019 India PRMO: <https://artofproblemsolving.com/community/c920896_2019_india_prmo>
+  * 2019 India IMO Training Camp: <https://artofproblemsolving.com/community/c908518_2019_india_imo_training_camp>
 * 2019 Kurschak Competition: <https://artofproblemsolving.com/community/c1085530_2019_kurschak_competition>
 * 2019 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1261685_2019_duumlrer_math_competition_first_round>
   * 2019 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1621835_2019_durer_math_competition_finals>
@@ -1300,6 +1303,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
 * 2019 SAFEST Olympiad: <https://artofproblemsolving.com/community/c949677_2019_safest_olympiad>
 * 2019 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c1000562_2019_cmi_bsc_entrance_exam>
+* 2019 LIMIT Category A: <https://artofproblemsolving.com/community/c1994045_2019_limit_category_a>
+  * 2019 LIMIT Category B: <https://artofproblemsolving.com/community/c1994046_2019_limit_category_b>
+  * 2019 LIMIT Category C: <https://artofproblemsolving.com/community/c1994047_2019_limit_category_c>
 * <https://tdm.math.fu-berlin.de/download/TdM%202019%20Aufgaben%20und%20L%C3%B6sungen.pdf>
 * 
 
@@ -1315,7 +1321,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2018 Greece JBMO TST: <https://artofproblemsolving.com/community/c866836_2018_greece_jbmo_tst>
 * 2018 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728727_2018_bosnia_and_herzegovina_junior_bmo_tst>
 * 2018 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3406177_2018_azerbaijan_jbmo_tst>
-* 2018 India IMO Training Camp: <https://artofproblemsolving.com/community/c685672_2018_india_imo_training_camp>
+* 2018 India PRMO: <https://artofproblemsolving.com/community/c918743_2018_india_prmo>
+  * 2018 India IMO Training Camp: <https://artofproblemsolving.com/community/c685672_2018_india_imo_training_camp>
 * 2018 Kürschák Competition: <https://artofproblemsolving.com/community/c854409_2018_kuumlrschaacutek_competition>
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
@@ -1347,7 +1354,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728958_2017_bosnia_and_herzegovina_junior_bmo_tst>
 * 2017 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3404328_2017_azerbaijan_jbmo_tst>
 * 2017 QEDMO 15th: <https://artofproblemsolving.com/community/c2014828_2017_qedmo_15th>
-* 2017 India IMO Training Camp: <https://artofproblemsolving.com/community/c715128_2017_india_imo_training_camp>
+* 2017 India PRMO: <https://artofproblemsolving.com/community/c918956_2017_india_prmo>
+  * 2017 India IMO Training Camp: <https://artofproblemsolving.com/community/c715128_2017_india_imo_training_camp>
 * 2017 Kürschák Competition: <https://artofproblemsolving.com/community/c537788_2017_kuumlrschaacutek_competition>
 * 2017 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c936905_2017_bulgaria_jbmo_tst>
 * 2017 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946169_2017_moscow_mathematical_olympiad>
@@ -1385,6 +1393,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2016 Greece JBMO TST: <https://artofproblemsolving.com/community/c866848_2016_greece_jbmo_tst>
 * 2016 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728967_2016_bosnia_and_herzegovina_junior_bmo_tst>
 * 2016 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3403876_2016_azerbaijan_jbmo_tst>
+* 2016 India PRMO: <https://artofproblemsolving.com/community/c919482_2016_india_prmo>
 * 2016 Kurschak Competition: <https://artofproblemsolving.com/community/c345604_2016_kurschak_competition>
 * 2016 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577516_2016_bulgaria_jbmo_tst>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
@@ -1419,6 +1428,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c72498_2015_azerbaijan_jbmo_tst>
   * 2015 Azerbaijan National Olympiad: <https://artofproblemsolving.com/community/c166174_2015_azerbaijan_national_olympiad>
 * 2015 Cuba MO: <https://artofproblemsolving.com/community/c4014608_2015_cuba_mo>
+* 2015 India PRMO: <https://artofproblemsolving.com/community/c3799588_2015_india_prmo>
 * 2015 QEDMO 14th: <https://artofproblemsolving.com/community/c2014815_2015_qedmo_14th>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
@@ -1449,7 +1459,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://www.viitoriolimpici.ro/uploads/attach_data/93/20/7/comentariicombo2014.pdf>
 * 2014 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094902_2014_greece_junior_math_olympiad>
   * 2014 Greece JBMO TST: <https://artofproblemsolving.com/community/c866973_2014_greece_jbmo_tst>
-* 2014 India IMO Training Camp: <https://artofproblemsolving.com/community/c5008_2014_india_imo_training_camp>
+* 2014 India PRMO: <https://artofproblemsolving.com/community/c918954_2014_india_prmo>
+  * 2014 India IMO Training Camp: <https://artofproblemsolving.com/community/c5008_2014_india_imo_training_camp>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
@@ -1482,6 +1493,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Cuba MO: <https://artofproblemsolving.com/community/c4014603_2013_cuba_mo>
 * 2013 EGMO: <https://artofproblemsolving.com/community/c4328_2013_egmo>
   * <https://www.viitoriolimpici.ro/uploads/attach_data/21/6/16/egmo2013prezentare.pdf>
+* 2013 India PRMO: <https://artofproblemsolving.com/community/c918945_2013_india_prmo>
 * 2013 Kurschak Competition: <https://artofproblemsolving.com/community/c103151_2013_kurschak_competition>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
@@ -1506,6 +1518,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2012 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094900_2012_greece_junior_math_olympiad>
 * 2012 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729182_2012_bosnia_and_herzegovina_junior_bmo_tst>
 * 2012 Cuba MO: <https://artofproblemsolving.com/community/c4014601_2012_cuba_mo>
+* 2012 India PRMO: <https://artofproblemsolving.com/community/c893400_2012_india_prmo>
 * 2012 QEDMO 11th: <https://artofproblemsolving.com/community/c2005578_2012_qedmo_11th>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>

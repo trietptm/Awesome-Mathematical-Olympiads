@@ -367,6 +367,18 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3322_iran_mo_3rd_round>
 * 
 
+## IRAN TEAM SELECTION TEST (FROM 2002):
+* <https://artofproblemsolving.com/community/c3321_iran_team_selection_test>
+* 
+
+## IRAN MO (1ST ROUND) (FROM 2018):
+* <https://artofproblemsolving.com/community/c1962331_iran_mo_1st_round>
+* 
+
+## IRAN RMM TST (FROM 2019):
+* <https://artofproblemsolving.com/community/c1986659_iran_rmm_tst>
+* 
+
 ## BALKAN MO (FROM 1984):
 * <https://artofproblemsolving.com/community/c3225_balkan_mo>
 * 
@@ -694,6 +706,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## FINNISH NATIONAL HIGH SCHOOL MATHEMATICS COMPETITION (FROM 1997):
 * <https://artofproblemsolving.com/community/c3294_finnish_national_high_school_mathematics_competition>
+* 
+
+## IRAN PRE-PREPARATION COURSE EXAMINATION (FROM 1997):
+* <https://artofproblemsolving.com/community/c3320_prepreparation_course_examination>
 * 
 
 ## USAMTS PROBLEMS (FROM 1998):
@@ -1091,6 +1107,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c953282_safest_south_africa__estonia_olympiad>
 * 
 
+## IRANIAN'S SIMURGH TRAINING CAMP EXAMS (FROM 2019):
+* <https://artofproblemsolving.com/community/c860506_simurgh>
+* 
+
 ## FRANCOPHONE MATHEMATICAL OLYMPIAD (FROM 2020):
 * <https://artofproblemsolving.com/community/c1252449_francophone_mathematical_olympiad>
 * 
@@ -1170,6 +1190,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076194_2024_chile_tst_ibero>
 * 2024 Euler Olympiad, Round 1: <https://artofproblemsolving.com/community/c3808339_2024_euler_olympiad_round_1>
   * 2024 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3808340_2024_euler_olympiad_round_2>
+* 2024 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c4101015_2024_iranian_geometry_olympiad>
 * 2024 India IMOTC (India International Mathematics Olympiad Training Camp 2024): <https://artofproblemsolving.com/community/c3844754_2024_india_imotc> 
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
@@ -1199,6 +1220,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>
 * 2023 Euler Olympiad, Round 1: <https://artofproblemsolving.com/community/c3359581_2023_euler_olympiad_round_1>
   * 2023 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3350143_2023_euler_olympiad_round_2>
+* 2023 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c3730557_2023_iranian_geometry_olympiad>
 * TNO 2023: <https://artofproblemsolving.com/community/c4084187_tno_2023>
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
 * 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
@@ -1227,6 +1249,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
   * 2022 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3213316_2022_durer_math_competition_finals>
 * 2022 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946164_2022_moscow_mathematical_olympiad>
+* 2022 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c3226233_2022_iranian_geometry_olympiad>
 * 2022 ELMO Revenge: <https://artofproblemsolving.com/community/c3229098_2022_elmo_revenge>
 * 2022 Azerbaijan EGMO/CMO TST: <https://artofproblemsolving.com/community/c3034711_2022_azerbaijan_egmocmo_tst>
 * 2022 Bosnia and Herzegovina IMO TST: <https://artofproblemsolving.com/community/c3167766_2022_bosnia_and_herzegovina_imo_tst>
@@ -1258,6 +1281,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Kurschak Competition: <https://artofproblemsolving.com/community/c2504236_2021_kurschak_competition>
 * 2021 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c2773609_2021_durer_math_competition_first_round>
   * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
+* 2021 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c2749782_2021_iranian_geometry_olympiad>
+  * 2021 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c2424946_2021_iranian_combinatorics_olympiad>
+  * 2021 Iran RMM TST: <https://artofproblemsolving.com/community/c1986654_2021_iran_rmm_tst>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
 * 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
 * 2021 Lotfi Zadeh Olympiad: <https://artofproblemsolving.com/community/c2745793_2021_lotfi_zadeh_olympiad>
@@ -1284,7 +1310,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
 * 2020 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1262354_2020_duumlrer_math_competition_first_round>
   * 2020 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1622639_2020_durer_math_competition_finals>
-* 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
+* 2020 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c1472958_2020_iranian_geometry_olympiad>
+  * 2020 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c1136520_2020_iranian_combinatorics_olympiad>
+  * 2020 Iran RMM TST: <https://artofproblemsolving.com/community/c1051532_2020_iran_rmm_tst>
 * 2020 USMCA: <https://artofproblemsolving.com/community/c1055557_2020_usmca>
 * 2020 Online Math Open Problems: <https://artofproblemsolving.com/community/c1124220_2020_online_math_open_problems>
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
@@ -1299,6 +1327,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
 * 2020 Iranian Our MO: <https://artofproblemsolving.com/community/c1091970_2020_iranian_our_mo>
+* 2019 Simurgh: <https://artofproblemsolving.com/community/c860507_2019_simurgh>
 * 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
 * Honduras CVM 2020: <https://artofproblemsolving.com/community/c1231987_cvm_2020>
 * 2020 LIMIT Category 1: <https://artofproblemsolving.com/community/c1125835_2020_limit_category_1>
@@ -1325,6 +1354,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 USMCA: <https://artofproblemsolving.com/community/c940102_2019_usmca>
 * 2019 USEMO: <https://artofproblemsolving.com/community/c1204475_2019_usemo>
 * 2019 Online Math Open Problems: <https://artofproblemsolving.com/community/c951538_2019_online_math_open_problems>
+* 2019 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c963062_2019_iranian_geometry_olympiad>
+  * 2019 Iran RMM TST: <https://artofproblemsolving.com/community/c1088123_2019_iran_rmm_tst>
 * 2019 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183338_2019_ecuador_juniors>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
@@ -1358,6 +1389,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
 * 2018 Online Math Open Problems: <https://artofproblemsolving.com/community/c951571_2018_online_math_open_problems>
+* 2018 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c732609_2018_iranian_geometry_olympiad>
+  * 2018 Iran MO (1st Round): <https://artofproblemsolving.com/community/c1962336_2018_iran_mo_1st_round>
 * 2018 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183337_2018_ecuador_juniors>
 * 2018 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445610_2018_malaysia_national_olympiad>
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
@@ -1397,6 +1430,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 NIMO Problems: <https://artofproblemsolving.com/community/c337601_2017_nimo_problems>
   * 2017 NIMO Summer Contest: <https://artofproblemsolving.com/community/c931800_2017_nimo_summer_contest>
 * 2017 Online Math Open Problems: <https://artofproblemsolving.com/community/c486226_2017_online_math_open_problems>
+* 2017 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c520386_2017_iranian_geometry_olympiad>
 * 2017 Australian MO: <https://artofproblemsolving.com/community/c909331_2017_australian_mo>
 * 2017 Azerbaijan EGMO TST: <https://artofproblemsolving.com/community/c3404970_2017_azerbaijan_egmo_tst>
 * 2017 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183336_2017_ecuador_juniors>
@@ -1435,6 +1469,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
   * 2016 NIMO Summer Contest: <https://artofproblemsolving.com/community/c330165_2016_nimo_summer_contest>
 * 2016 Online Math Open Problems: <https://artofproblemsolving.com/community/c384245_2016_online_math_open_problems>
+* 2016 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c457380_2016_iranian_geometry_olympiad>
 * 2016 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c1675676_2016_uzbekistan_national_olympiad>
 * 2016 Azerbaijan National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3402661_2016_azerbaijan_national_mathematical_olympiad>
 * 2016 Azerbaijan Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c225281_2016_azerbaijan_junior_mathematical_olympiad>
@@ -1473,6 +1508,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
 * 2015 Online Math Open Problems: <https://artofproblemsolving.com/community/c112143_2015_online_math_open_problems>
+* 2015 Iran Geometry Olympiad: <https://artofproblemsolving.com/community/c593235_2015_iran_geometry_olympiad>
 * 2015 Caucasus Mathematical Olympiad: <https://artofproblemsolving.com/community/c866004_2015_caucasus_mathematical_olympiad>
 * 2015 Albania JBMO TST: <https://artofproblemsolving.com/community/c3560409_2015_albania_jbmo_tst>
 * 2015 Azerbaijan IMO TST: <https://artofproblemsolving.com/community/c85324_2015_azerbaijan_imo_tst>
@@ -1812,6 +1848,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
 * 2004 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4670_2004_flanders_junior_olympiad>
 * 2004 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4270_2004_uzbekistan_national_olympiad>
+* 2004 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5380_2004_iran_team_selection_test>
 * 2004 Regional Olympiad - Republic of Srpska: <https://artofproblemsolving.com/community/c732177_2004_regional_olympiad__republic_of_srpska>
 * 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
@@ -1858,6 +1895,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * Mid-Michigan MO, Grades 7-9: <https://artofproblemsolving.com/community/c3005888_midmichigan_mo_grades_79>
 * 2002 Silk Road: <https://artofproblemsolving.com/community/c714789_2002_silk_road>
 * 2002 China Girls Math Olympiad: <https://artofproblemsolving.com/community/c3667_2002_china_girls_math_olympiad>
+* 2002 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5379_2002_iran_team_selection_test>
 * 2002 Indonesia MO: <https://artofproblemsolving.com/community/c3645_2002_indonesia_mo>
 * 2002 Olympic Revenge: <https://artofproblemsolving.com/community/c1134212_2002_olympic_revenge>
 * 
@@ -1944,6 +1982,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1997 Slovenia National Olympiad: <https://artofproblemsolving.com/community/c1996664_1997_slovenia_national_olympiad>
 * 1997 Finnish National High School Mathematics Competition: <https://artofproblemsolving.com/community/c4244_1997_finnish_national_high_school_mathematics_competition>
 * 1997 Brazil Team Selection Test: <https://artofproblemsolving.com/community/c2001157_1997_brazil_team_selection_test>
+* 1997 Iran Pre-Preparation Course Examination: <https://artofproblemsolving.com/community/c5285_1997_prepreparation_course_examination>
 * 
 
 ## 1996:

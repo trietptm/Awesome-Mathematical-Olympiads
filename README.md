@@ -1104,6 +1104,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * International Open book Online Mathematics Competition by Indian Statistical Institute Bangalore
 * 
 
+## 2020 IRANIAN OUR MO (FROM 2020):
+* <https://artofproblemsolving.com/community/c1091970_2020_iranian_our_mo>
+* 
+
 ## PAN-AMERICAN GIRLS’ MATHEMATICAL OLYMPIAD - PAGMO (FROM 2021):
 * <https://artofproblemsolving.com/community/c2500342_pagmo>
 * 
@@ -1294,6 +1298,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
+* 2020 Iranian Our MO: <https://artofproblemsolving.com/community/c1091970_2020_iranian_our_mo>
 * 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
 * Honduras CVM 2020: <https://artofproblemsolving.com/community/c1231987_cvm_2020>
 * 2020 LIMIT Category 1: <https://artofproblemsolving.com/community/c1125835_2020_limit_category_1>

@@ -760,6 +760,23 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3317_indonesia_mo>
 * 
 
+## INDONESIA JUNIORS (FROM 2003):
+* <https://artofproblemsolving.com/community/c2548461_indonesia_juniors>
+* 
+
+## INDONESIA REGIONAL (FROM 2002):
+* <https://artofproblemsolving.com/community/c2476066_indonesia_regional>
+* Indonesia Regional MO OSP SMA - geometry: <https://artofproblemsolving.com/community/c1651818_indonesia_regional_mo_osp_sma__geometry>
+* 
+
+## INDONESIA TST (FROM 2007):
+* <https://artofproblemsolving.com/community/c3318_indonesia_tst>
+* 
+
+## INDONESIA MO SHORTLIST (FROM 2008):
+* <https://artofproblemsolving.com/community/c909877_indonesia_mo_shortlist>
+* 
+
 ## PURPLE COMET PROBLEMS (FROM 2003):
 * <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
 * 
@@ -1153,6 +1170,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
 * 2024 Nepal Mathematics Olympiad (Pre-TST): <https://artofproblemsolving.com/community/c3783160_2024_nepal_mathematics_olympiad_pretst>
+* 2024 Indonesia Regional: <https://artofproblemsolving.com/community/c3822637_2024_indonesia_regional>
 * 2024 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c3921146_2024_cmi_bsc_entrance_exam>
 * <https://www.cms.org.cy/news/papers-and-solutions-for-county-competitions-2024-20251731836235>
 * 
@@ -1168,6 +1186,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023-24 IOQM India: <https://artofproblemsolving.com/community/c3531959_202324_ioqm_india>
 * 2023 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c4008096_2023_assam_mathematics_olympiad>
 * 2023 India IMO Training Camp: <https://artofproblemsolving.com/community/c3382886_2023_india_imo_training_camp>
+* 2023 Indonesia Regional: <https://artofproblemsolving.com/community/c3395388_2023_indonesia_regional>
 * 2023 Kurschak Competition: <https://artofproblemsolving.com/community/c3788837_2023_kurschak_competition>
 * 2023 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577691_2023_bulgaria_jbmo_tst>
 * 2023 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3839918_2023_durer__math_competition_first_round>
@@ -1198,6 +1217,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 IOQM India: <https://artofproblemsolving.com/community/c3007444_2022_ioqm_india>
   * 2022-23 IOQM India: <https://artofproblemsolving.com/community/c3188416_202223_ioqm_india>
 * 2022 Assam Mathematical Olympiad: <https://artofproblemsolving.com/community/c4009329_2022_assam_mathematical_olympiad>
+* 2022 Indonesia Regional: <https://artofproblemsolving.com/community/c3175657_2022_indonesia_regional>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
 * 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
@@ -1230,6 +1250,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2007483_2021_cyprus_jbmo_tst>
 * 2021 Honduras National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3001368_2021_honduras_national_mathematical_olympiad>
 * India EGMO 2021 TST: <https://artofproblemsolving.com/community/c2646858_india_egmo_2021_tst>
+* 2021 Indonesia Regional: <https://artofproblemsolving.com/community/c2514663_2021_indonesia_regional>
 * 2021 Kurschak Competition: <https://artofproblemsolving.com/community/c2504236_2021_kurschak_competition>
 * 2021 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c2773609_2021_durer_math_competition_first_round>
   * 2021 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c2749870_2021_durer_math_competition_finals>
@@ -1255,6 +1276,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 HK IMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c1598564_2020_hk_imo_preliminary_selection_contest>
 * 2020-21 IOQM India: <https://artofproblemsolving.com/community/c1757660_202021_ioqm_india>
   * 2020-21 KVS IOQM India: <https://artofproblemsolving.com/community/c1839101_202021_kvs_ioqm_india>
+* 2020 Indonesia Regional: <https://artofproblemsolving.com/community/c2495680_2020_indonesia_regional>
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
 * 2020 Dürer Math Competition (First Round): <https://artofproblemsolving.com/community/c1262354_2020_duumlrer_math_competition_first_round>
   * 2020 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c1622639_2020_durer_math_competition_finals>
@@ -1268,6 +1290,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
   * 2020 Canadian MO: <https://artofproblemsolving.com/community/c1094086_2020_candian_mo>
 * 2020 Colombia National Olympiad: <https://artofproblemsolving.com/community/c3212053_2020_colombia_national_olympiad>
+* 2020 Indonesia Juniors: <https://artofproblemsolving.com/community/c2608854_2020_indonesia_juniors>
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
@@ -1301,6 +1324,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
+* 2019 Indonesia Regional: <https://artofproblemsolving.com/community/c2476071_2019_indonesia_regional>
+  * 2019 Indonesia Juniors: <https://artofproblemsolving.com/community/c2611568_2019_indonesia_juniors>
 * 2019 SAFEST Olympiad: <https://artofproblemsolving.com/community/c949677_2019_safest_olympiad>
 * 2019 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c1000562_2019_cmi_bsc_entrance_exam>
 * 2019 LIMIT Category A: <https://artofproblemsolving.com/community/c1994045_2019_limit_category_a>
@@ -1323,6 +1348,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3406177_2018_azerbaijan_jbmo_tst>
 * 2018 India PRMO: <https://artofproblemsolving.com/community/c918743_2018_india_prmo>
   * 2018 India IMO Training Camp: <https://artofproblemsolving.com/community/c685672_2018_india_imo_training_camp>
+* 2018 Indonesia Regional: <https://artofproblemsolving.com/community/c2495319_2018_indonesia_regional>
 * 2018 Kürschák Competition: <https://artofproblemsolving.com/community/c854409_2018_kuumlrschaacutek_competition>
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
@@ -1340,6 +1366,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
   * MOAA Team Rounds: <https://artofproblemsolving.com/community/c2880077_moaa_team_rounds>
 * 2018 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c656223_2018_cmi_bsc_entrance_exam>
+* 2018 Indonesia Juniors: <https://artofproblemsolving.com/community/c2611562_2018_indonesia_juniors>
 * 
 
 ## 2017:
@@ -1356,6 +1383,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 QEDMO 15th: <https://artofproblemsolving.com/community/c2014828_2017_qedmo_15th>
 * 2017 India PRMO: <https://artofproblemsolving.com/community/c918956_2017_india_prmo>
   * 2017 India IMO Training Camp: <https://artofproblemsolving.com/community/c715128_2017_india_imo_training_camp>
+* 2017 Indonesia Juniors: <https://artofproblemsolving.com/community/c2576638_2017_indonesia_juniors>
+  * 2017 Indonesia Regional: <https://artofproblemsolving.com/community/c2495318_2017_indonesia_regional>
 * 2017 Kürschák Competition: <https://artofproblemsolving.com/community/c537788_2017_kuumlrschaacutek_competition>
 * 2017 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c936905_2017_bulgaria_jbmo_tst>
 * 2017 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946169_2017_moscow_mathematical_olympiad>
@@ -1394,6 +1423,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728967_2016_bosnia_and_herzegovina_junior_bmo_tst>
 * 2016 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3403876_2016_azerbaijan_jbmo_tst>
 * 2016 India PRMO: <https://artofproblemsolving.com/community/c919482_2016_india_prmo>
+* 2016 Indonesia Juniors: <https://artofproblemsolving.com/community/c2589905_2016_indonesia_juniors>
+  * 2016 Indonesia Regional: <https://artofproblemsolving.com/community/c2495317_2016_indonesia_regional>
 * 2016 Kurschak Competition: <https://artofproblemsolving.com/community/c345604_2016_kurschak_competition>
 * 2016 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577516_2016_bulgaria_jbmo_tst>
 * 2016 NIMO Problems: <https://artofproblemsolving.com/community/c255496_2016_nimo_problems>
@@ -1430,6 +1461,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Cuba MO: <https://artofproblemsolving.com/community/c4014608_2015_cuba_mo>
 * 2015 India PRMO: <https://artofproblemsolving.com/community/c3799588_2015_india_prmo>
 * 2015 QEDMO 14th: <https://artofproblemsolving.com/community/c2014815_2015_qedmo_14th>
+* 2015 Indonesia Juniors: <https://artofproblemsolving.com/community/c2589920_2015_indonesia_juniors>
+  * 2015 Indonesia Regional: <https://artofproblemsolving.com/community/c2494783_2015_indonesia_regional>
+  * 2015 Indonesia MO Shortlist: <https://artofproblemsolving.com/community/c870122_2015_indonesia_mo_shortlist>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
@@ -1461,6 +1495,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2014 Greece JBMO TST: <https://artofproblemsolving.com/community/c866973_2014_greece_jbmo_tst>
 * 2014 India PRMO: <https://artofproblemsolving.com/community/c918954_2014_india_prmo>
   * 2014 India IMO Training Camp: <https://artofproblemsolving.com/community/c5008_2014_india_imo_training_camp>
+* 2014 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562451_2014_indonesia_juniors>
+  * 2014 Indonesia Regional: <https://artofproblemsolving.com/community/c2494782_2014_indonesia_regional>
+  * 2014 Indonesia MO Shortlist: <https://artofproblemsolving.com/community/c870136_2014_indonesia_mo_shortlist>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
@@ -1494,6 +1531,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 EGMO: <https://artofproblemsolving.com/community/c4328_2013_egmo>
   * <https://www.viitoriolimpici.ro/uploads/attach_data/21/6/16/egmo2013prezentare.pdf>
 * 2013 India PRMO: <https://artofproblemsolving.com/community/c918945_2013_india_prmo>
+* 2013 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562450_2013_indonesia_juniors>
+  * 2013 Indonesia Regional: <https://artofproblemsolving.com/community/c2494755_2013_indonesia_regional>
 * 2013 Kurschak Competition: <https://artofproblemsolving.com/community/c103151_2013_kurschak_competition>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
@@ -1520,6 +1559,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Cuba MO: <https://artofproblemsolving.com/community/c4014601_2012_cuba_mo>
 * 2012 India PRMO: <https://artofproblemsolving.com/community/c893400_2012_india_prmo>
 * 2012 QEDMO 11th: <https://artofproblemsolving.com/community/c2005578_2012_qedmo_11th>
+* 2012 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562449_2012_indonesia_juniors>
+  * 2012 Indonesia Regional: <https://artofproblemsolving.com/community/c2494505_2012_indonesia_regional>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
@@ -1558,6 +1599,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2011 QEDMO 8th: <https://artofproblemsolving.com/community/c2005072_2011_qedmo_8th>
   * 2011 QEDMO 10th: <https://artofproblemsolving.com/community/c2005306_2011_qedmo_10th>
 * 2011 India IMO Training Camp: <https://artofproblemsolving.com/community/c5005_2011_india_imo_training_camp>
+* 2011 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562447_2011_indonesia_juniors>
+  * 2011 Indonesia Regional: <https://artofproblemsolving.com/community/c2494504_2011_indonesia_regional>
 * 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
@@ -1581,6 +1624,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2010 Greece JBMO TST: <https://artofproblemsolving.com/community/c867376_2010_greece_jbmo_tst>
 * 2010 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729458_2010_bosnia_and_herzegovina_junior_bmo_tst>
 * 2010 Cuba MO: <https://artofproblemsolving.com/community/c4014600_2010_cuba_mo>
+* 2010 Indonesia Juniors: <https://artofproblemsolving.com/community/c2557267_2010_indonesia_juniors>
+  * 2010 Indonesia Regional: <https://artofproblemsolving.com/community/c2494503_2010_indonesia_regional>
 * 2010 Kurschak Competition: <https://artofproblemsolving.com/community/c103153_2010_kurschak_competition>
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
@@ -1621,6 +1666,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2009 Greece JBMO TST: <https://artofproblemsolving.com/community/c867377_2009_greece_jbmo_tst>
 * 2009 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729459_2009_bosnia_and_herzegovina_junior_bmo_tst>
 * 2009 Cuba MO: <https://artofproblemsolving.com/community/c3979309_2009_cuba_mo>
+* 2009 Indonesia Juniors: <https://artofproblemsolving.com/community/c2557162_2009_indonesia_juniors>
+  * 2009 Indonesia Regional: <https://artofproblemsolving.com/community/c2493825_2009_indonesia_regional>
 * 2009 Kurschak Competition: <https://artofproblemsolving.com/community/c103154_2009_kurschak_competition>
 * 2009 Bulgarian Spring Mathematical Competition: <https://artofproblemsolving.com/community/c3012977_2009_bulgarian_spring_mathematical_competition>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
@@ -1643,6 +1690,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2008 Greece JBMO TST: <https://artofproblemsolving.com/community/c867378_2008_greece_jbmo_tst>
 * 2008 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c82312_2008_bosnia_and_herzegovina_junior_bmo_tst>
 * 2008 Cuba MO: <https://artofproblemsolving.com/community/c3979328_2008_cuba_mo>
+* 2008 Indonesia Juniors: <https://artofproblemsolving.com/community/c2549916_2008_indonesia_juniors>
+  * 2008 Indonesia Regional: <https://artofproblemsolving.com/community/c2493760_2008_indonesia_regional>
+  * Indonesia MO Shortlist - geometry: <https://artofproblemsolving.com/community/c1101409_indonesia_mo_shortlist__geometry>
 * 2008 Kurschak Competition: <https://artofproblemsolving.com/community/c103155_2008_kurschak_competition>
 * Durer Math Competition CD 1st Round - geometry: <https://artofproblemsolving.com/community/c3186990_durer_math_competition_cd_1st_round__geometry>
   * Durer Math Competition CD Finals - geometry: <https://artofproblemsolving.com/community/c1648235_durer_math_competition_cd_finals__geometry>
@@ -1665,6 +1715,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2007 Greece JBMO TST: <https://artofproblemsolving.com/community/c881284_2007_greece_jbmo_tst>
 * 2007 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c1179201_2007_bosnia_and_herzegovina_junior_bmo_tst>
 * 2007 Cuba MO: <https://artofproblemsolving.com/community/c4011421_2007_cuba_mo>
+* 2007 Indonesia Juniors: <https://artofproblemsolving.com/community/c2549915_2007_indonesia_juniors>
+  * 2007 Indonesia Regional: <https://artofproblemsolving.com/community/c2493699_2007_indonesia_regional>
+  * 2007 Indonesia TST: <https://artofproblemsolving.com/community/c1654628_2007_indonesia_tst>
 * 2007 Honduras National Mathematical Olympiad: <https://artofproblemsolving.com/community/c1287035_2007_honduras_national_mathematical_olympiad>
 * 2007 QEDMO 4th: <https://artofproblemsolving.com/community/c1512151_2007_qedmo_4th>
   * 2007 QEDMO 5th: <https://artofproblemsolving.com/community/c1512156_2007_qedmo_5th>
@@ -1693,6 +1746,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 QEDMO 2nd: <https://artofproblemsolving.com/community/c1511721_2006_qedmo_2nd>
 * 2006 Princeton University Math Competition: <https://artofproblemsolving.com/community/c4231_2006_princeton_university_math_competition>
 * 2006 iTest: <https://artofproblemsolving.com/community/c779283_2006_itest>
+* 2006 Indonesia Juniors: <https://artofproblemsolving.com/community/c2549160_2006_indonesia_juniors>
+  * 2006 Indonesia Regional: <https://artofproblemsolving.com/community/c2493582_2006_indonesia_regional>
 * 2006 Australia National Olympiad: <https://artofproblemsolving.com/community/c5391_2006_australia_national_olympiad>
 * 2006 Canada National Olympiad: <https://artofproblemsolving.com/community/c5051_2006_canada_national_olympiad>
 * 2006 Kurschak Competition: <https://artofproblemsolving.com/community/c103157_2006_kurschak_competition>
@@ -1718,6 +1773,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 Cuba MO: <https://artofproblemsolving.com/community/c4011324_2005_cuba_mo>
 * 2005 QEDMO 1st: <https://artofproblemsolving.com/community/c1511696_2005_qedmo_1st>
 * 2005 Georgia Team Selection Test: <https://artofproblemsolving.com/community/c3842_2005_georgia_team_selection_test>
+* 2005 Indonesia Juniors: <https://artofproblemsolving.com/community/c2549155_2005_indonesia_juniors>
+  * 2005 Indonesia Regional: <https://artofproblemsolving.com/community/c2476070_2005_indonesia_regional>
 * 2005 India IMO Training Camp: <https://artofproblemsolving.com/community/c5000_2005_india_imo_training_camp>
 * 2005 Kurschak Competition: <https://artofproblemsolving.com/community/c103158_2005_kurschak_competition>
 * 2005 Danube Mathematical Olympiad: <https://artofproblemsolving.com/community/c5271_2005_danube_mathematical_olympiad>
@@ -1743,6 +1800,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2004 Greece JBMO TST: <https://artofproblemsolving.com/community/c881281_2004_greece_jbmo_tst>
 * 2004 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c1179208_2004_bosnia_and_herzegovina_junior_bmo_tst>
 * 2004 Cuba MO: <https://artofproblemsolving.com/community/c4014072_2004_cuba_mo>
+* 2004 Indonesia Juniors: <https://artofproblemsolving.com/community/c2548462_2004_indonesia_juniors>
+  * 2004 Indonesia Regional: <https://artofproblemsolving.com/community/c2476069_2004_indonesia_regional>
 * 2004 India IMO Training Camp: <https://artofproblemsolving.com/community/c4999_2004_india_imo_training_camp>
 * 2004 Kurschak Competition: <https://artofproblemsolving.com/community/c103159_2004_kurschak_competition>
 * 2004 Switzerland - Final Round: <https://artofproblemsolving.com/community/c3236711_2004_switzerland__final_round>
@@ -1763,7 +1822,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2003 Cuba MO: <https://artofproblemsolving.com/community/c4011434_2003_cuba_mo>
 * 2003 CHKMO: <https://artofproblemsolving.com/community/c707778_2003_chkmo>
   * 2003 HKIMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c69993_2003_hkimo_preliminary_selection_contest>
-* 2002 India IMO Training Camp: <https://artofproblemsolving.com/community/c4997_2002_india_imo_training_camp>
+* 2003 Indonesia Juniors: <https://artofproblemsolving.com/community/c2548471_2003_indonesia_juniors>
+  * 2003 Indonesia Regional: <https://artofproblemsolving.com/community/c2476068_2003_indonesia_regional>
 * 2003 India IMO Training Camp: <https://artofproblemsolving.com/community/c4998_2003_india_imo_training_camp>
 * 2003 Kurschak Competition: <https://artofproblemsolving.com/community/c103160_2003_kurschak_competition>
 * 2003 Purple Comet Problems: <https://artofproblemsolving.com/community/c4133_2003_purple_comet_problems>
@@ -1782,6 +1842,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2002 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094877_2002_greece_junior_math_olympiad>
   * 2002 Greece JBMO TST: <https://artofproblemsolving.com/community/c881278_2002_greece_jbmo_tst>
 * 2002 HKIMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c64452_2002_hkimo_preliminary_selection_contest>
+* 2002 India IMO Training Camp: <https://artofproblemsolving.com/community/c4997_2002_india_imo_training_camp>
+* 2002 Indonesia Regional: <https://artofproblemsolving.com/community/c2476067_2002_indonesia_regional>
+  * Indonesia Regional MO OSP SMA - geometry: <https://artofproblemsolving.com/community/c1651818_indonesia_regional_mo_osp_sma__geometry>
 * 2002 Kurschak Competition: <https://artofproblemsolving.com/community/c103161_2002_kurschak_competition>
 * 2002 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4668_2002_flanders_junior_olympiad>
 * 2002 Mid-Michigan MO: <https://artofproblemsolving.com/community/c3168239_2002_midmichigan_mo>

@@ -1194,7 +1194,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2025:
-* 2025 Israel TST: <https://artofproblemsolving.com/community/c4081821_2025_israel_tst>
+* 2025 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c4111340_2025_israel_national_olympiad_gillis>
+  * 2025 Israel TST: <https://artofproblemsolving.com/community/c4081821_2025_israel_tst>
 * 
 
 ## 2024:
@@ -1215,6 +1216,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Euler Olympiad, Round 1: <https://artofproblemsolving.com/community/c3808339_2024_euler_olympiad_round_1>
   * 2024 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3808340_2024_euler_olympiad_round_2>
 * 2024 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c4101015_2024_iranian_geometry_olympiad>
+* 2024 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c3677058_2024_israel_national_olympiad_gillis>
 * 2024 India IMOTC (India International Mathematics Olympiad Training Camp 2024): <https://artofproblemsolving.com/community/c3844754_2024_india_imotc> 
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
@@ -1248,6 +1250,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2023 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3350143_2023_euler_olympiad_round_2>
 * 2023 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c3730557_2023_iranian_geometry_olympiad>
 * TNO 2023: <https://artofproblemsolving.com/community/c4084187_tno_2023>
+* 2023 Israel National Olympiad: <https://artofproblemsolving.com/community/c3229056_2023_israel_national_olympiad>
 * 2023 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788842_2023_canadian_mathematical_olympiad_qualification>
 * 2023 Chile TST Ibero: <https://artofproblemsolving.com/community/c4076256_2023_chile_tst_ibero>
 * 2023 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3394570_2023_safest_olympiad>
@@ -1273,6 +1276,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Indonesia Regional: <https://artofproblemsolving.com/community/c3175657_2022_indonesia_regional>
 * 2022 Irish Math Olympiad: <https://artofproblemsolving.com/community/c3043767_2022_irish_math_olympiad>
 * 2022 Israel TST: <https://artofproblemsolving.com/community/c3048611_2022_israel_tst>
+* 2022 Israel National Olympiad: <https://artofproblemsolving.com/community/c3229047_2022_israel_national_olympiad>
 * 2022 Kurschak Competition: <https://artofproblemsolving.com/community/c3168666_2022_kurschak_competition>
 * 2022 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3191706_2022_bulgaria_jbmo_tst>
 * 2022 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3214743_2022_durer__math_competition_first_round>
@@ -1316,6 +1320,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2021 Iranian Combinatorics Olympiad: <https://artofproblemsolving.com/community/c2424946_2021_iranian_combinatorics_olympiad>
   * 2021 Iran RMM TST: <https://artofproblemsolving.com/community/c1986654_2021_iran_rmm_tst>
 * 2021 Pan-American Girls' Math Olympiad: <https://artofproblemsolving.com/community/c2499895_2021_panamerican_girls_math_olympiad>
+* 2021 Israel National Olympiad: <https://artofproblemsolving.com/community/c3228913_2021_israel_national_olympiad>
 * 2021 USMCA: <https://artofproblemsolving.com/community/c2444858_2021_usmca>
 * 2021 Lotfi Zadeh Olympiad: <https://artofproblemsolving.com/community/c2745793_2021_lotfi_zadeh_olympiad>
 * 2021 Bolivian Cono Sur TST: <https://artofproblemsolving.com/community/c2650959_2021_bolivian_cono_sur_tst>
@@ -1350,6 +1355,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Francophone Mathematical Olympiad: <https://artofproblemsolving.com/community/c1252434_2020_francophone_mathematical_olympiad>
 * 2020 OMpD: <https://artofproblemsolving.com/community/c3381659_2020_ompd>
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
+* 2020 Israel National Olympiad: <https://artofproblemsolving.com/community/c3228714_2020_israel_national_olympiad>
 * 2020 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1135962_2020_canadian_mathematical_olympiad_qualification>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
   * 2020 Canadian MO: <https://artofproblemsolving.com/community/c1094086_2020_candian_mo>
@@ -1393,6 +1399,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Ecuador Juniors: <https://artofproblemsolving.com/community/c3183338_2019_ecuador_juniors>
 * 2019 Girls in Math at Yale: <https://artofproblemsolving.com/community/c3572568_2019_girls_in_math_at_yale>
 * 2019 Girls in Mathematics Tournament: <https://artofproblemsolving.com/community/c1177480_2019_girls_in_mathematics_tournament>
+* 2019 Israel National Olympiad: <https://artofproblemsolving.com/community/c919189_2019_israel_national_olympiad>
 * 2019 Malaysia National Olympiad: <https://artofproblemsolving.com/community/c2445624_2019_malaysia_national_olympiad>
 * 2019 Indonesia Regional: <https://artofproblemsolving.com/community/c2476071_2019_indonesia_regional>
   * 2019 Indonesia Juniors: <https://artofproblemsolving.com/community/c2611568_2019_indonesia_juniors>
@@ -1431,6 +1438,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Slovakia National MO: <https://artofproblemsolving.com/community/c797971_2018_slovakia_national_mo>
 * 2018 Azerbaijan IZhO TST: <https://artofproblemsolving.com/community/c3406120_2018_azerbaijan_izho_tst>
 * 2018 Brazil EGMO TST: <https://artofproblemsolving.com/community/c2407764_2018_brazil_egmo_tst>
+* 2018 Israel National Olympiad: <https://artofproblemsolving.com/community/c919190_2018_israel_national_olympiad>
 * 2018 Israel Olympic Revenge: <https://artofproblemsolving.com/community/c2444577_2018_israel_olympic_revenge>
 * 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
 * 2018 Cyprus IMO TST: <https://artofproblemsolving.com/community/c677808_2018_cyprus_imo_tst>
@@ -1482,6 +1490,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 International Olympic Revenge: <https://artofproblemsolving.com/community/c483660_2017_international_olympic_revenge>
 * 2017 Simon Marais Mathematical Competition: <https://artofproblemsolving.com/community/c1994573_2017_simon_marais_mathematical_competition>
 * 2017 Pan-African Shortlist: <https://artofproblemsolving.com/community/c870452_2017_panafrican_shortlist>
+* 2017 Israel National Olympiad: <https://artofproblemsolving.com/community/c422572_2017_israel_national_olympiad>
 * 2017 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c909328_2017_assam_mathematics_olympiad>
   * <https://aamonline.org.in/pdf/02017MathleticsCompetition.pdf.pdf>
   * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-I.pdf.pdf>
@@ -1527,6 +1536,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 ASMT: <https://artofproblemsolving.com/community/c3568942_2016_asmt>
 * Istek Lyceum Math Olympiad 2016: <https://artofproblemsolving.com/community/c172287_istek_lyceum_math_olympiad__2016>
 * 2016 India IMO Training Camp: <https://artofproblemsolving.com/community/c299003_2016_india_imo_training_camp>
+* 2016 Israel National Olympiad: <https://artofproblemsolving.com/community/c919192_2016_israel_national_olympiad>
 * 
 
 ## 2015:
@@ -1547,6 +1557,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2015 Indonesia Regional: <https://artofproblemsolving.com/community/c2494783_2015_indonesia_regional>
   * 2015 Indonesia MO Shortlist: <https://artofproblemsolving.com/community/c870122_2015_indonesia_mo_shortlist>
 * 2015 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728768_2015_irish_math_olympiad>
+* 2015 Israel National Olympiad: <https://artofproblemsolving.com/community/c919194_2015_israel_national_olympiad>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
@@ -1583,6 +1594,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2014 Indonesia Regional: <https://artofproblemsolving.com/community/c2494782_2014_indonesia_regional>
   * 2014 Indonesia MO Shortlist: <https://artofproblemsolving.com/community/c870136_2014_indonesia_mo_shortlist>
 * 2014 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728424_2014_irish_math_olympiad>
+* 2014 Israel National Olympiad: <https://artofproblemsolving.com/community/c919195_2014_israel_national_olympiad>
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
@@ -1627,6 +1639,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675627_2013_turkmenistan_national_math_olympiad>
 * OIFMAT III 2013: <https://artofproblemsolving.com/community/c2484782_oifmat_iii_2013>
 * 2013 India IMO Training Camp: <https://artofproblemsolving.com/community/c5007_2013_india_imo_training_camp>
+* 2013 Israel National Olympiad: <https://artofproblemsolving.com/community/c919196_2013_israel_national_olympiad>
 * PANAITOPOL/IMAR 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/69/24/33//comentariipanaitopol2013.pdf>
 * The 7th “STARS of MATHEMATICS” Competition – Juniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/129/44/16/2013solutions_stelej.pdf>
   * The 7th “STARS of MATHEMATICS” Competition – Seniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/60/20/13/2013solutions_stele.pdf>
@@ -1648,6 +1661,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562449_2012_indonesia_juniors>
   * 2012 Indonesia Regional: <https://artofproblemsolving.com/community/c2494505_2012_indonesia_regional>
 * 2012 Irish Math Olympiad: <https://artofproblemsolving.com/community/c613454_2012_irish_math_olympiad>
+* 2012 Israel National Olympiad: <https://artofproblemsolving.com/community/c919261_2012_israel_national_olympiad>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
@@ -1689,6 +1703,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562447_2011_indonesia_juniors>
   * 2011 Indonesia Regional: <https://artofproblemsolving.com/community/c2494504_2011_indonesia_regional>
 * 2011 Irish Math Olympiad: <https://artofproblemsolving.com/community/c608369_2011_irish_math_olympiad>
+* 2011 Israel National Olympiad: <https://artofproblemsolving.com/community/c919267_2011_israel_national_olympiad>
 * 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
@@ -1981,6 +1996,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2000 Greece JBMO TST: <https://artofproblemsolving.com/community/c881272_2000_greece_jbmo_tst>
   * 2000 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094875_2000_greece_junior_math_olympiad>
 * 2000 Irish Math Olympiad: <https://artofproblemsolving.com/community/c583215_2000_irish_math_olympiad>
+* 2000 Israel National Olympiad: <https://artofproblemsolving.com/community/c116970_2000_israel_national_olympiad>
 * 2000 Kurschak Competition: <https://artofproblemsolving.com/community/c103163_2000_kurschak_competition>
 * 2000 USA Team Selection Test: <https://artofproblemsolving.com/community/c4630_2000_usa_team_selection_test>
 * 2000 Stanford Mathematics Tournament: <https://artofproblemsolving.com/community/c3856_2000_stanford_mathematics_tournament>
@@ -2017,6 +2033,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1998 Greece JBMO TST: <https://artofproblemsolving.com/community/c4413_1998_greece_jbmo_tst>
   * 1998 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094873_1998_greece_junior_math_olympiad>
 * 1998 Irish Math Olympiad: <https://artofproblemsolving.com/community/c583209_1998_irish_math_olympiad>
+* 1998 Israel National Olympiad: <https://artofproblemsolving.com/community/c1075187_1998_israel_national_olympiad>
 * 1998 Kurschak Competition: <https://artofproblemsolving.com/community/c103173_1998_kurschak_competition>
 * 1998 USAMTS Problems: <https://artofproblemsolving.com/community/c4672_1998_usamts_problems>
 * 1998 Harvard-MIT Mathematics Tournament: <https://artofproblemsolving.com/community/c3619_1998_harvardmit_mathematics_tournament>
@@ -2034,6 +2051,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1997 Junior Balkan MO: <https://artofproblemsolving.com/community/c4199_1997_junior_balkan_mo>
 * 1997 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094872_1997_greece_junior_math_olympiad>
 * 1997 Irish Math Olympiad: <https://artofproblemsolving.com/community/c583207_1997_irish_math_olympiad>
+* 1997 Israel National Olympiad: <https://artofproblemsolving.com/community/c1075217_1997_israel_national_olympiad>
 * 1997 Kurschak Competition: <https://artofproblemsolving.com/community/c103174_1997_kurschak_competition>
 * 1997 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3379481_1997_moscow_mathematical_olympiad>
 * 1997 Manhattan Mathematical Olympiad: <https://artofproblemsolving.com/community/c2998127_1997_manhattan_mathematical_olympiad>
@@ -2050,6 +2068,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1996 Canada National Olympiad: <https://artofproblemsolving.com/community/c5041_1996_canada_national_olympiad>
   * 1996 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c5241_1996_canadian_open_math_challenge>
 * 1996 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094871_1996_greece_junior_math_olympiad>
+* 1996 Israel National Olympiad: <https://artofproblemsolving.com/community/c1075221_1996_israel_national_olympiad>
 * 1996 Kurschak Competition: <https://artofproblemsolving.com/community/c103175_1996_kurschak_competition>
 * 1996 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946178_1996_moscow_mathematical_olympiad>
 * 1996 Romania National Olympiad: <https://artofproblemsolving.com/community/c3949533_1996_romania_national_olympiad>

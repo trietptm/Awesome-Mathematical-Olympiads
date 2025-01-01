@@ -865,6 +865,19 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3470_morocco_national_olympiad>
 * 
 
+## LITHUANIA NATIONAL OLYMPIAD (FROM 2006):
+* <https://artofproblemsolving.com/community/c3340_lithuania_national_olympiad>
+* 
+
+## LITHUANIA TEAM SELECTION TEST (FROM 2005):
+* <https://artofproblemsolving.com/community/c3341_lithuania_team_selection_test>
+* 
+
+## GRAND DUCHY OF LITHUANIA (FROM 2009):
+* <https://artofproblemsolving.com/community/c1321893_grand_duchy_of_lithuania>
+  * Grand Duchy of Lithuania, Mathematical Contest (Baltic Way TST)
+* 
+
 ## ISI B.MATH ENTRANCE EXAM (FROM 2005):
 * <https://artofproblemsolving.com/community/c3314_isi_bmath_entrance_exam>
 * 
@@ -875,10 +888,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## TODAY'S CALCULATION OF INTEGRAL (FROM 2005):
 * <https://artofproblemsolving.com/community/c3332_todays_calculation_of_integral>
-* 
-
-## LITHUANIA NATIONAL OLYMPIAD (FROM 2006):
-* <https://artofproblemsolving.com/community/c3340_lithuania_national_olympiad>
 * 
 
 ## BERLIN MATHEMATICS DAY (FROM 2006):
@@ -2042,6 +2051,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 iTest: <https://artofproblemsolving.com/community/c3176431_2005_itest>
 * 2005 Flanders Junior Olympiad: <https://artofproblemsolving.com/community/c4671_2005_flanders_junior_olympiad>
 * 2005 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4271_2005_uzbekistan_national_olympiad>
+* 2005 Lithuania Team Selection Test: <https://artofproblemsolving.com/community/c1312736_2005_lithuania_team_selection_test>
 * 2005 Colombia Team Selection Test: <https://artofproblemsolving.com/community/c2418232_2005_colombia_team_selection_test>
 * 2005 China Northern MO: <https://artofproblemsolving.com/community/c1652375_2005_china_northern_mo>
 * 2005 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4104_2005_morocco_national_olympiad>

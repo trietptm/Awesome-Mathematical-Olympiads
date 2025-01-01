@@ -407,6 +407,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3325_itamo>
 * 
 
+## ITALY TST (FROM 1993):
+* <https://artofproblemsolving.com/community/c3326_italy_tst>
+* 
+
 ## IBEROAMERICAN (FROM 1985):
 * <https://artofproblemsolving.com/community/c3229_iberoamerican>
 * 
@@ -891,6 +895,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## PHILIPPINE MO (FROM 2008):
 * <https://artofproblemsolving.com/community/c3473_philippine_mo>
+* 
+
+## OLIFORUM CONTEST (FROM 2008):
+* <https://artofproblemsolving.com/community/c2487525_oliforum_contest>
 * 
 
 ## ALBANIA TEAM SELECTION TEST (FROM 2009):
@@ -1491,6 +1499,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Simon Marais Mathematical Competition: <https://artofproblemsolving.com/community/c1994573_2017_simon_marais_mathematical_competition>
 * 2017 Pan-African Shortlist: <https://artofproblemsolving.com/community/c870452_2017_panafrican_shortlist>
 * 2017 Israel National Olympiad: <https://artofproblemsolving.com/community/c422572_2017_israel_national_olympiad>
+* Oliforum Contest V 2017: <https://artofproblemsolving.com/community/c2487575_oliforum_contest_v_2017>
 * 2017 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c909328_2017_assam_mathematics_olympiad>
   * <https://aamonline.org.in/pdf/02017MathleticsCompetition.pdf.pdf>
   * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-I.pdf.pdf>
@@ -1631,6 +1640,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2013 Indonesia Juniors: <https://artofproblemsolving.com/community/c2562450_2013_indonesia_juniors>
   * 2013 Indonesia Regional: <https://artofproblemsolving.com/community/c2494755_2013_indonesia_regional>
 * 2013 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728737_2013_irish_math_olympiad>
+* Oliforum Contest IV 2013: <https://artofproblemsolving.com/community/c2487546_oliforum_contest_iv_2013>
 * 2013 Kurschak Competition: <https://artofproblemsolving.com/community/c103151_2013_kurschak_competition>
 * 2013 NIMO Problems: <https://artofproblemsolving.com/community/c4091_2013_nimo_problems>
 * 2013 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4229_2013_nimo_summer_contest>
@@ -1662,6 +1672,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2012 Indonesia Regional: <https://artofproblemsolving.com/community/c2494505_2012_indonesia_regional>
 * 2012 Irish Math Olympiad: <https://artofproblemsolving.com/community/c613454_2012_irish_math_olympiad>
 * 2012 Israel National Olympiad: <https://artofproblemsolving.com/community/c919261_2012_israel_national_olympiad>
+* Oliforum Contest III 2012: <https://artofproblemsolving.com/community/c2487545_oliforum_contest_iii_2012>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
@@ -1774,6 +1785,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2009 Indonesia Regional: <https://artofproblemsolving.com/community/c2493825_2009_indonesia_regional>
 * 2009 Irish Math Olympiad: <https://artofproblemsolving.com/community/c602484_2009_irish_math_olympiad>
 * 2009 Kurschak Competition: <https://artofproblemsolving.com/community/c103154_2009_kurschak_competition>
+* Oliforum Contest II 2009: <https://artofproblemsolving.com/community/c2487544_oliforum_contest_ii_2009>
 * 2009 Bulgarian Spring Mathematical Competition: <https://artofproblemsolving.com/community/c3012977_2009_bulgarian_spring_mathematical_competition>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Albania Team Selection Test: <https://artofproblemsolving.com/community/c3965_2009_albania_team_selection_test>
@@ -1799,6 +1811,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2008 Indonesia Regional: <https://artofproblemsolving.com/community/c2493760_2008_indonesia_regional>
   * Indonesia MO Shortlist - geometry: <https://artofproblemsolving.com/community/c1101409_indonesia_mo_shortlist__geometry>
 * 2008 Irish Math Olympiad: <https://artofproblemsolving.com/community/c587312_2008_irish_math_olympiad>
+* Oliforum Contest I 2008: <https://artofproblemsolving.com/community/c2487526_oliforum_contest_i_2008>
 * 2008 Kurschak Competition: <https://artofproblemsolving.com/community/c103155_2008_kurschak_competition>
 * Durer Math Competition CD 1st Round - geometry: <https://artofproblemsolving.com/community/c3186990_durer_math_competition_cd_1st_round__geometry>
   * Durer Math Competition CD Finals - geometry: <https://artofproblemsolving.com/community/c1648235_durer_math_competition_cd_finals__geometry>
@@ -2115,6 +2128,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 1993:
 * 1993 Canada National Olympiad: <https://artofproblemsolving.com/community/c5038_1993_canada_national_olympiad>
 * 1993 Irish Math Olympiad: <https://artofproblemsolving.com/community/c534049_1993_irish_math_olympiad>
+* 1993 Italy TST: <https://artofproblemsolving.com/community/c1075280_1993_italy_tst>
 * 1993 Kurschak Competition: <https://artofproblemsolving.com/community/c103178_1993_kurschak_competition>
 * 1993 Abels Math Contest (Norwegian MO): <https://artofproblemsolving.com/community/c1071156_1993_abels_math_contest_norwegian_mo>
 * 1993 Korea - Final Round: <https://artofproblemsolving.com/community/c3532_1993_korea__final_round>

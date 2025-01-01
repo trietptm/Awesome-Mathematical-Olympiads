@@ -945,6 +945,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3469_kyrgyzstan_national_olympiad>
 * 
 
+## KYRGYZSTAN REGIONAL OLYMPIAD (FROM 2017):
+* <https://artofproblemsolving.com/community/c3379470_kyrgyzstan_regional_olympiad>
+* 
+
 ## BENELUX (FROM 2009):
 * <https://artofproblemsolving.com/community/c3242_benelux>
 * 
@@ -1496,6 +1500,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Indonesia Regional: <https://artofproblemsolving.com/community/c2495319_2018_indonesia_regional>
 * 2018 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728774_2018_irish_math_olympiad>
 * 2018 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c652166_2018_kazakhstan_national_olympiad>
+* 2018 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c866046_2018_kyrgyzstan_national_olympiad>
 * 2018 Kürschák Competition: <https://artofproblemsolving.com/community/c854409_2018_kuumlrschaacutek_competition>
 * 2018 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c675163_2018_bulgaria_jbmo_tst>
 * 2018 Moscow Mathematical Olympiad: <https://artofproblemsolving.com/community/c3946155_2018_moscow_mathematical_olympiad>
@@ -1536,6 +1541,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 QEDMO 15th: <https://artofproblemsolving.com/community/c2014828_2017_qedmo_15th>
 * 2017 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c489360_2017_kosovo_national_mathematical_olympiad>
   * 2017 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c426760_2017_kosovo_team_selection_test>
+* 2017 Kyrgyzstan Regional Olympiad: <https://artofproblemsolving.com/community/c3379469_2017_kyrgyzstan_regional_olympiad>
 * 2017 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c869280_2017_korea_junior_math_olympiad>
 * 2017 India PRMO: <https://artofproblemsolving.com/community/c918956_2017_india_prmo>
   * 2017 India IMO Training Camp: <https://artofproblemsolving.com/community/c715128_2017_india_imo_training_camp>
@@ -1595,6 +1601,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Indonesia Juniors: <https://artofproblemsolving.com/community/c2589905_2016_indonesia_juniors>
   * 2016 Indonesia Regional: <https://artofproblemsolving.com/community/c2495317_2016_indonesia_regional>
 * 2016 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728414_2016_irish_math_olympiad>
+* 2016 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c278318_2016_kyrgyzstan_national_olympiad>
 * https://www.mathsweek.ie/2024/wp-content/uploads/2018/09/senior2016.pdf
 * 2016 Israel Team Selection Test: <https://artofproblemsolving.com/community/c422600_2016_israel_team_selection_test>
 * 2016 Kurschak Competition: <https://artofproblemsolving.com/community/c345604_2016_kurschak_competition>
@@ -1763,6 +1770,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Israel National Olympiad: <https://artofproblemsolving.com/community/c919261_2012_israel_national_olympiad>
 * Oliforum Contest III 2012: <https://artofproblemsolving.com/community/c2487545_oliforum_contest_iii_2012>
 * 2012 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4045_2012_kazakhstan_national_olympiad>
+* 2012 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4101_2012_kyrgyzstan_national_olympiad>
 * 2012 Kurschak Competition: <https://artofproblemsolving.com/community/c103152_2012_kurschak_competition>
 * 2012 EGMO: <https://artofproblemsolving.com/community/c4327_2012_egmo>
 * 2012 Czech-Polish-Slovak Junior Match: <https://artofproblemsolving.com/community/c1090883_2012_czechpolishslovak_junior_match>
@@ -1809,6 +1817,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4044_2011_kazakhstan_national_olympiad>
 * 2011 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4094_2011_kosovo_national_mathematical_olympiad>
   * 2011 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c4102_2011_kosovo_team_selection_test>
+* 2011 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4100_2011_kyrgyzstan_national_olympiad>
 * 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
@@ -1838,6 +1847,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2010 Indonesia Regional: <https://artofproblemsolving.com/community/c2494503_2010_indonesia_regional>
 * 2010 Irish Math Olympiad: <https://artofproblemsolving.com/community/c602485_2010_irish_math_olympiad>
 * 2010 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4043_2010_kazakhstan_national_olympiad>
+* 2010 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4099_2010_kyrgyzstan_national_olympiad>
 * 2010 Kurschak Competition: <https://artofproblemsolving.com/community/c103153_2010_kurschak_competition>
 * 2010 USAJMO: <https://artofproblemsolving.com/community/c3973_2010_usajmo>
 * 2010 ELMO Shortlist: <https://artofproblemsolving.com/community/c4348_2010_elmo_shortlist>
@@ -1884,13 +1894,13 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2009 Indonesia Regional: <https://artofproblemsolving.com/community/c2493825_2009_indonesia_regional>
 * 2009 Irish Math Olympiad: <https://artofproblemsolving.com/community/c602484_2009_irish_math_olympiad>
 * 2009 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4042_2009_kazakhstan_national_olympiad>
+* 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Kurschak Competition: <https://artofproblemsolving.com/community/c103154_2009_kurschak_competition>
 * Oliforum Contest II 2009: <https://artofproblemsolving.com/community/c2487544_oliforum_contest_ii_2009>
 * 2009 Bulgarian Spring Mathematical Competition: <https://artofproblemsolving.com/community/c3012977_2009_bulgarian_spring_mathematical_competition>
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Albania Team Selection Test: <https://artofproblemsolving.com/community/c3965_2009_albania_team_selection_test>
 * 2009 BMO TST: <https://artofproblemsolving.com/community/c3906_2009_bmo_tst>
-* 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Czech District Round (Round II): <https://artofproblemsolving.com/community/c4223_2009_district_round_round_ii>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>
 * 2009 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3530_2009_costa_rica__final_round>

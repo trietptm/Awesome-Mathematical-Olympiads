@@ -1823,7 +1823,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2012 Online Math Open Problems: <https://artofproblemsolving.com/community/c4386_2012_online_math_open_problems>
 * 2012 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4273_2012_uzbekistan_national_olympiad>
 * 2012 Turkmenistan National Math Olympiad: <https://artofproblemsolving.com/community/c1675632_2012_turkmenistan_national_math_olympiad>
-* <https://artofproblemsolving.com/community/c1322211_2012_grand_duchy_of_lithuania>
+* 2012 Grand Duchy of Lithuania: <https://artofproblemsolving.com/community/c1322211_2012_grand_duchy_of_lithuania>
 * 2012 Argentina Cono Sur TST: <https://artofproblemsolving.com/community/c69800_2012_argentina_cono_sur_tst>
 * OIFMAT II 2012: <https://artofproblemsolving.com/community/c2484781_oifmat_ii_2012>
 * 2012 India IMO Training Camp: <https://artofproblemsolving.com/community/c5006_2012_india_imo_training_camp>
@@ -1860,8 +1860,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2011 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c4102_2011_kosovo_team_selection_test>
 * 2011 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4100_2011_kyrgyzstan_national_olympiad>
 * 2011 Grand Duchy of Lithuania: <https://artofproblemsolving.com/community/c1322202_2011_grand_duchy_of_lithuania>
-* 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
-* 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
   * 2011 NIMO Summer Contest: <https://artofproblemsolving.com/community/c4227_2011_nimo_summer_contest>
 * 2011 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c4236_2011_lusophon_mathematical_olympiad>
@@ -1869,6 +1867,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Uzbekistan National Olympiad: <https://artofproblemsolving.com/community/c4272_2011_uzbekistan_national_olympiad>
 * 2011 Czech District Round (Round II): <https://artofproblemsolving.com/community/c4224_2011_district_round_round_ii>
 * 2011 Morocco National Olympiad: <https://artofproblemsolving.com/community/c4105_2011_morocco_national_olympiad>
+* 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
+* 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 Armenian Republican Olympiads: <https://artofproblemsolving.com/community/c302119_2011_armenian_republican_olympiads>
 * The 5th “STARS of MATHEMATICS” Competition – Juniors December 10, 2011: <https://www.viitoriolimpici.ro/uploads/attach_data/70/26/0/solutions_stelej.pdf>
 * 

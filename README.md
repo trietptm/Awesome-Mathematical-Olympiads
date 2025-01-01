@@ -937,6 +937,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3467_kosovo_national_mathematical_olympiad>
 * 
 
+## KOSOVO TEAM SELECTION TEST (FROM 2009):
+* <https://artofproblemsolving.com/community/c3468_kosovo_team_selection_test>
+* 
+
 ## KYRGYZSTAN NATIONAL OLYMPIAD (FROM 2009):
 * <https://artofproblemsolving.com/community/c3469_kyrgyzstan_national_olympiad>
 * 
@@ -1227,6 +1231,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2025:
+* 2025 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4101901_2025_kosovo_national_mathematical_olympiad>
 * 2025 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c4111340_2025_israel_national_olympiad_gillis>
   * 2025 Israel TST: <https://artofproblemsolving.com/community/c4081821_2025_israel_tst>
 * 
@@ -1253,6 +1258,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2024 Euler Olympiad, Round 2: <https://artofproblemsolving.com/community/c3808340_2024_euler_olympiad_round_2>
 * 2024 Iranian Geometry Olympiad: <https://artofproblemsolving.com/community/c4101015_2024_iranian_geometry_olympiad>
 * 2024 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c3677058_2024_israel_national_olympiad_gillis>
+* 2024 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c4061059_2024_kosovo_team_selection_test>
 * 2024 India IMOTC (India International Mathematics Olympiad Training Camp 2024): <https://artofproblemsolving.com/community/c3844754_2024_india_imotc> 
 * 2024 India Iran Friendly Math Competition: <https://artofproblemsolving.com/community/c3941419_2024_india_iran_friendly_math_competition>
 * 2024 TASIMO: <https://artofproblemsolving.com/community/c3834811_2024_tasimo>
@@ -1311,6 +1317,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167741_2022_bosnia_and_herzegovina_junior_bmo_tst>
 * 2022 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2995570_2022_cyprus_jbmo_tst>
 * 2022 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3075869_2022_azerbaijan_jbmo_tst>
+* 2022 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3076052_2022_kosovo_national_mathematical_olympiad>
+* 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 IOQM India: <https://artofproblemsolving.com/community/c3007444_2022_ioqm_india>
   * 2022-23 IOQM India: <https://artofproblemsolving.com/community/c3188416_202223_ioqm_india>
 * 2022 Assam Mathematical Olympiad: <https://artofproblemsolving.com/community/c4009329_2022_assam_mathematical_olympiad>
@@ -1333,9 +1341,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Bolivia Cono Sur TST: <https://artofproblemsolving.com/community/c3092400_2022_bolivia_cono_sur_tst>
 * 2022 Bolivia IMO TST: <https://artofproblemsolving.com/community/c3092402_2022_bolivia_imo_tst>
 * 2022 CMWMC: <https://artofproblemsolving.com/community/c3503567_2022_cmwmc>
+* 2022 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c3076057_2022_kosovo_team_selection_test>
 * 2022 Iran-Taiwan Friendly Math Competition: <https://artofproblemsolving.com/community/c3069229_2022_irantaiwan_friendly_math_competition>
 * 2022 Belarus - Iran Friendly Competition: <https://artofproblemsolving.com/community/c4012162_2022_belarus__iran_friendly_competition>
-* 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 2022 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3393197_2022_safest_olympiad>
 * 2022 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c3102514_2022_korea_winter_program_practice_test>
@@ -1352,6 +1360,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2021 Greece JBMO TST: <https://artofproblemsolving.com/community/c3833134_2021_greece_jbmo_tst>
 * 2021 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167744_2021_bosnia_and_herzegovina_junior_bmo_tst>
 * 2021 Cyprus JBMO TST: <https://artofproblemsolving.com/community/c2007483_2021_cyprus_jbmo_tst>
+* 2021 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c1957286_2021_kosovo_national_mathematical_olympiad>
 * 2021 Honduras National Mathematical Olympiad: <https://artofproblemsolving.com/community/c3001368_2021_honduras_national_mathematical_olympiad>
 * India EGMO 2021 TST: <https://artofproblemsolving.com/community/c2646858_india_egmo_2021_tst>
 * 2021 Indonesia Regional: <https://artofproblemsolving.com/community/c2514663_2021_indonesia_regional>
@@ -1386,6 +1395,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094908_2020_greece_junior_math_olympiad>
   * 2020 Greece JBMO TST: <https://artofproblemsolving.com/community/c1594892_2020_greece_jbmo_tst>
 * 2020 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c3167743_2020_bosnia_and_herzegovina_junior_bmo_tst>
+* 2020 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c1067475_2020_kosovo_national_mathematical_olympiad>
 * 2020 HK IMO Preliminary Selection Contest: <https://artofproblemsolving.com/community/c1598564_2020_hk_imo_preliminary_selection_contest>
 * 2020-21 IOQM India: <https://artofproblemsolving.com/community/c1757660_202021_ioqm_india>
   * 2020-21 KVS IOQM India: <https://artofproblemsolving.com/community/c1839101_202021_kvs_ioqm_india>
@@ -1413,6 +1423,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
+* 2020 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c1069790_2020_kosovo_team_selection_test>
 * 2020 Korean MO winter camp: <https://artofproblemsolving.com/community/c1289613_2020_korean_mo_winter_camp>
 * 2020 Iranian Our MO: <https://artofproblemsolving.com/community/c1091970_2020_iranian_our_mo>
 * 2019 Simurgh: <https://artofproblemsolving.com/community/c860507_2019_simurgh>
@@ -1431,6 +1442,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094907_2019_greece_junior_math_olympiad>
   * 2019 Greece JBMO TST: <https://artofproblemsolving.com/community/c866841_2019_greece_jbmo_tst>
 * 2019 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c903547_2019_bosnia_and_herzegovina_junior_bmo_tst>
+* 2019 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c854515_2019_kosovo_national_mathematical_olympiad>
+  * 2019 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c913750_2019_kosovo_team_selection_test>
 * 2019 India PRMO: <https://artofproblemsolving.com/community/c920896_2019_india_prmo>
   * 2019 India IMO Training Camp: <https://artofproblemsolving.com/community/c908518_2019_india_imo_training_camp>
 * 2019 Irish Math Olympiad: <https://artofproblemsolving.com/community/c1326349_2019_irish_math_olympiad>
@@ -1521,6 +1534,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728958_2017_bosnia_and_herzegovina_junior_bmo_tst>
 * 2017 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3404328_2017_azerbaijan_jbmo_tst>
 * 2017 QEDMO 15th: <https://artofproblemsolving.com/community/c2014828_2017_qedmo_15th>
+* 2017 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c489360_2017_kosovo_national_mathematical_olympiad>
+  * 2017 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c426760_2017_kosovo_team_selection_test>
 * 2017 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c869280_2017_korea_junior_math_olympiad>
 * 2017 India PRMO: <https://artofproblemsolving.com/community/c918956_2017_india_prmo>
   * 2017 India IMO Training Camp: <https://artofproblemsolving.com/community/c715128_2017_india_imo_training_camp>
@@ -1572,6 +1587,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2016 Greece JBMO TST: <https://artofproblemsolving.com/community/c866848_2016_greece_jbmo_tst>
 * 2016 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728967_2016_bosnia_and_herzegovina_junior_bmo_tst>
 * 2016 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3403876_2016_azerbaijan_jbmo_tst>
+* 2016 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c395968_2016_kosovo_national_mathematical_olympiad>
+  * 2016 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c395977_2016_kosovo_team_selection_test>
 * 2016 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868533_2016_korea_junior_math_olympiad>
   * 2016 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c216796_2016_korea_winter_program_practice_test>
 * 2016 India PRMO: <https://artofproblemsolving.com/community/c919482_2016_india_prmo>
@@ -1628,6 +1645,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2015 Irish Math Olympiad: <https://artofproblemsolving.com/community/c728768_2015_irish_math_olympiad>
 * 2015 Israel National Olympiad: <https://artofproblemsolving.com/community/c919194_2015_israel_national_olympiad>
 * 2015 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4048_2015_kazakhstan_national_olympiad>
+* 2015 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c57485_2015_kosovo_team_selection_test>
 * 2015 Kurschak Competition: <https://artofproblemsolving.com/community/c345601_2015_kurschak_competition>
 * 2015 NIMO Problems: <https://artofproblemsolving.com/community/c4093_2015_nimo_problems>
   * 2015 NIMO Summer Contest: <https://artofproblemsolving.com/community/c130095_2015_nimo_summer_contest>
@@ -1654,6 +1672,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2014 JBMO Shortlist: <https://artofproblemsolving.com/community/c584821_2014_jbmo_shortlist>
 * 2014 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729012_2014_bosnia_and_herzegovina_junior_bmo_tst>
 * 2014 Cuba MO: <https://artofproblemsolving.com/community/c4014609_2014_cuba_mo>
+* 2014 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330070_2014_kosovo_national_mathematical_olympiad>
 * 2014 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c5500_2014_tuymaada_olympiad>
   * <https://www.viitoriolimpici.ro/uploads/attach_data/93/20/7/comentariicombo2014.pdf>
 * 2014 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094902_2014_greece_junior_math_olympiad>
@@ -1697,6 +1716,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2013 Greece JBMO TST: <https://artofproblemsolving.com/community/c866986_2013_greece_jbmo_tst>
 * 2013 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729169_2013_bosnia_and_herzegovina_junior_bmo_tst>
 * 2013 Cuba MO: <https://artofproblemsolving.com/community/c4014603_2013_cuba_mo>
+* 2013 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4095_2013_kosovo_national_mathematical_olympiad>
 * 2013 EGMO: <https://artofproblemsolving.com/community/c4328_2013_egmo>
   * <https://www.viitoriolimpici.ro/uploads/attach_data/21/6/16/egmo2013prezentare.pdf>
 * 2013 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868178_2013_korea_junior_math_olympiad>
@@ -1732,6 +1752,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2012 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094900_2012_greece_junior_math_olympiad>
 * 2012 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729182_2012_bosnia_and_herzegovina_junior_bmo_tst>
 * 2012 Cuba MO: <https://artofproblemsolving.com/community/c4014601_2012_cuba_mo>
+* 2012 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330061_2012_kosovo_national_mathematical_olympiad>
+  * 2012 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c4103_2012_kosovo_team_selection_test>
 * 2012 India PRMO: <https://artofproblemsolving.com/community/c893400_2012_india_prmo>
 * 2012 QEDMO 11th: <https://artofproblemsolving.com/community/c2005578_2012_qedmo_11th>
 * 2012 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868177_2012_korea_junior_math_olympiad>
@@ -1785,6 +1807,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Irish Math Olympiad: <https://artofproblemsolving.com/community/c608369_2011_irish_math_olympiad>
 * 2011 Israel National Olympiad: <https://artofproblemsolving.com/community/c919267_2011_israel_national_olympiad>
 * 2011 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c4044_2011_kazakhstan_national_olympiad>
+* 2011 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4094_2011_kosovo_national_mathematical_olympiad>
+  * 2011 Kosovo Team Selection Test: <https://artofproblemsolving.com/community/c4102_2011_kosovo_team_selection_test>
 * 2011 Kurschak Competition: <https://artofproblemsolving.com/community/c1085684_2011_kurschak_competition>
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 NIMO Problems: <https://artofproblemsolving.com/community/c4089_2011_nimo_problems>
@@ -1808,6 +1832,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2010 Greece JBMO TST: <https://artofproblemsolving.com/community/c867376_2010_greece_jbmo_tst>
 * 2010 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729458_2010_bosnia_and_herzegovina_junior_bmo_tst>
 * 2010 Cuba MO: <https://artofproblemsolving.com/community/c4014600_2010_cuba_mo>
+* 2010 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330052_2010_kosovo_national_mathematical_olympiad>
 * 2010 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868175_2010_korea_junior_math_olympiad>
 * 2010 Indonesia Juniors: <https://artofproblemsolving.com/community/c2557267_2010_indonesia_juniors>
   * 2010 Indonesia Regional: <https://artofproblemsolving.com/community/c2494503_2010_indonesia_regional>
@@ -1853,6 +1878,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2009 Greece JBMO TST: <https://artofproblemsolving.com/community/c867377_2009_greece_jbmo_tst>
 * 2009 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c729459_2009_bosnia_and_herzegovina_junior_bmo_tst>
 * 2009 Cuba MO: <https://artofproblemsolving.com/community/c3979309_2009_cuba_mo>
+* 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
 * 2009 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868174_2009_korea_junior_math_olympiad>
 * 2009 Indonesia Juniors: <https://artofproblemsolving.com/community/c2557162_2009_indonesia_juniors>
   * 2009 Indonesia Regional: <https://artofproblemsolving.com/community/c2493825_2009_indonesia_regional>
@@ -1864,7 +1890,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 Math Prize For Girls Problems: <https://artofproblemsolving.com/community/c4238_2009_math_prize_for_girls_problems>
 * 2009 Albania Team Selection Test: <https://artofproblemsolving.com/community/c3965_2009_albania_team_selection_test>
 * 2009 BMO TST: <https://artofproblemsolving.com/community/c3906_2009_bmo_tst>
-* 2009 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c2330054_2009_kosovo_national_mathematical_olympiad>
 * 2009 Kyrgyzstan National Olympiad: <https://artofproblemsolving.com/community/c4098_2009_kyrgyzstan_national_olympiad>
 * 2009 Czech District Round (Round II): <https://artofproblemsolving.com/community/c4223_2009_district_round_round_ii>
 * 2009 Benelux: <https://artofproblemsolving.com/community/c3986_2009_benelux>

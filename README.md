@@ -1261,6 +1261,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c3921146_2024_cmi_bsc_entrance_exam>
 * <https://artofproblemsolving.com/community/c3525428_2024_israel_tst>
 * 2024 Israel TST: <https://www.cms.org.cy/news/papers-and-solutions-for-county-competitions-2024-20251731836235>
+* 2024 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c3761374_2024_korea_winter_program_practice_test>
+  * 2024 Korea Summer Program Practice Test: <https://artofproblemsolving.com/community/c3948350_2024_korea_summer_program_practice_test>
 * 
 
 ## 2023:
@@ -1294,6 +1296,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3394570_2023_safest_olympiad>
 * 2023 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c3379018_2023_cmi_bsc_entrance_exam>
 * 2023 Israel TST: <https://artofproblemsolving.com/community/c3316615_2023_israel_tst>
+* 2023 Korea Summer Program Practice Test: <https://artofproblemsolving.com/community/c3497540_2023_korea_summer_program_practice_test>
 * 
 
 ## 2022:
@@ -1335,6 +1338,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Kosovo & Albania Mathematical Olympiad: <https://artofproblemsolving.com/community/c3075829_2022_kosovo_amp_albania_mathematical_olympiad>
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 2022 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3393197_2022_safest_olympiad>
+* 2022 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c3102514_2022_korea_winter_program_practice_test>
 * 
 
 ## 2021:
@@ -1369,6 +1373,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Bolivia Ibero TST: <https://artofproblemsolving.com/community/c3126894_2021_bolivia_ibero_tst>
 * 2021 Olimphíada: <https://artofproblemsolving.com/community/c3381772_2021_olimphiacuteada>
 * 2021 SAFEST Olympiad: <https://artofproblemsolving.com/community/c2463038_2021_safest_olympiad>
+* 2021 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c1908053_2021_korea_winter_program_practice_test>
 * 
 
 ## 2020:
@@ -1408,6 +1413,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * CNCM Online Round 1: <https://artofproblemsolving.com/community/c1282008_cncm_online_round_1>
   * CNCM Online Round 2: <https://artofproblemsolving.com/community/c1250704_cncm_online_round_2>
   * CNCM Online Round 3: <https://artofproblemsolving.com/community/c1513761_cncm_online_round_3>
+* 2020 Korean MO winter camp: <https://artofproblemsolving.com/community/c1289613_2020_korean_mo_winter_camp>
 * 2020 Iranian Our MO: <https://artofproblemsolving.com/community/c1091970_2020_iranian_our_mo>
 * 2019 Simurgh: <https://artofproblemsolving.com/community/c860507_2019_simurgh>
 * 2020 SAFEST Olympiad: <https://artofproblemsolving.com/community/c1323703_2020_safest_olympiad>
@@ -1450,10 +1456,12 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2019 Indonesia Regional: <https://artofproblemsolving.com/community/c2476071_2019_indonesia_regional>
   * 2019 Indonesia Juniors: <https://artofproblemsolving.com/community/c2611568_2019_indonesia_juniors>
 * 2019 SAFEST Olympiad: <https://artofproblemsolving.com/community/c949677_2019_safest_olympiad>
+* 2019 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c1615420_2019_korea_winter_program_practice_test>
 * 2019 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c1000562_2019_cmi_bsc_entrance_exam>
 * 2019 LIMIT Category A: <https://artofproblemsolving.com/community/c1994045_2019_limit_category_a>
   * 2019 LIMIT Category B: <https://artofproblemsolving.com/community/c1994046_2019_limit_category_b>
   * 2019 LIMIT Category C: <https://artofproblemsolving.com/community/c1994047_2019_limit_category_c>
+* 2019 Korea USCM: <https://artofproblemsolving.com/community/c1255633_2019_korea_uscm>
 * <https://tdm.math.fu-berlin.de/download/TdM%202019%20Aufgaben%20und%20L%C3%B6sungen.pdf>
 * 
 
@@ -1491,12 +1499,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Nepal National Olympiad: <https://artofproblemsolving.com/community/c645392_2018_nepal_national_olympiad>
 * 2018 Cyprus IMO TST: <https://artofproblemsolving.com/community/c677808_2018_cyprus_imo_tst>
 * 2018 Rio de Janeiro Mathematical Olympiad: <https://artofproblemsolving.com/community/c1015939_2018_rio_de_janeiro_mathematical_olympiad>
+* 2018 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c603099_2018_korea_winter_program_practice_test>
 * 2018 MOAA: <https://artofproblemsolving.com/community/c2880055_2018_moaa>
   * MOAA Individual Speed General Rounds: <https://artofproblemsolving.com/community/c3570686_moaa_individual_speed_general_rounds>
   * MOAA Gunga Bowls: <https://artofproblemsolving.com/community/c2979212_moaa_gunga_bowls>
   * MOAA Team Rounds: <https://artofproblemsolving.com/community/c2880077_moaa_team_rounds>
 * 2018 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c656223_2018_cmi_bsc_entrance_exam>
 * 2018 Indonesia Juniors: <https://artofproblemsolving.com/community/c2611562_2018_indonesia_juniors>
+* 2018 Korea USCM: <https://artofproblemsolving.com/community/c1256412_2018_korea_uscm>
 * 
 
 ## 2017:
@@ -1542,12 +1552,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Pan-African Shortlist: <https://artofproblemsolving.com/community/c870452_2017_panafrican_shortlist>
 * 2017 Israel National Olympiad: <https://artofproblemsolving.com/community/c422572_2017_israel_national_olympiad>
 * Oliforum Contest V 2017: <https://artofproblemsolving.com/community/c2487575_oliforum_contest_v_2017>
+* 2017 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c422507_2017_korea_winter_program_practice_test>
 * 2017 Assam Mathematics Olympiad: <https://artofproblemsolving.com/community/c909328_2017_assam_mathematics_olympiad>
   * <https://aamonline.org.in/pdf/02017MathleticsCompetition.pdf.pdf>
   * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-I.pdf.pdf>
   * <https://aamonline.org.in/pdf/02017MathematicsOlympiad-Category-II.pdf.pdf>
   * <https://aamonline.org.in/pdf/02017%20Mathematics%20Olympiad%20-Category%20-III.pdf.pdf>
 * 2017 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c650590_2017_cmi_bsc_entrance_exam>
+* 2017 Korea USCM: <https://artofproblemsolving.com/community/c1257238_2017_korea_uscm>
 * 
 
 ## 2016:
@@ -1561,6 +1573,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Bosnia and Herzegovina Junior BMO TST: <https://artofproblemsolving.com/community/c728967_2016_bosnia_and_herzegovina_junior_bmo_tst>
 * 2016 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3403876_2016_azerbaijan_jbmo_tst>
 * 2016 Korea Junior Math Olympiad: <https://artofproblemsolving.com/community/c868533_2016_korea_junior_math_olympiad>
+  * 2016 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c216796_2016_korea_winter_program_practice_test>
 * 2016 India PRMO: <https://artofproblemsolving.com/community/c919482_2016_india_prmo>
 * 2016 Indonesia Juniors: <https://artofproblemsolving.com/community/c2589905_2016_indonesia_juniors>
   * 2016 Indonesia Regional: <https://artofproblemsolving.com/community/c2495317_2016_indonesia_regional>
@@ -1590,6 +1603,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Istek Lyceum Math Olympiad 2016: <https://artofproblemsolving.com/community/c172287_istek_lyceum_math_olympiad__2016>
 * 2016 India IMO Training Camp: <https://artofproblemsolving.com/community/c299003_2016_india_imo_training_camp>
 * 2016 Israel National Olympiad: <https://artofproblemsolving.com/community/c919192_2016_israel_national_olympiad>
+* 2016 Korea Summer Program Practice Test: <https://artofproblemsolving.com/community/c312308_2016_korea_summer_program_practice_test>
+* 2016 Korea USCM: <https://artofproblemsolving.com/community/c1258693_2016_korea_uscm>
 * 
 
 ## 2015:
@@ -1704,6 +1719,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * The 7th “STARS of MATHEMATICS” Competition – Juniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/129/44/16/2013solutions_stelej.pdf>
   * The 7th “STARS of MATHEMATICS” Competition – Seniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/60/20/13/2013solutions_stele.pdf>
 * 2013 QEDMO 13th or 12th: <https://artofproblemsolving.com/community/c2400093_2013_qedmo_13th_or_12th>
+* 2013 North Korea Team Selection Test: <https://artofproblemsolving.com/community/c217256_2013_north_korea_team_selection_test>
 * 
 
 ## 2012:

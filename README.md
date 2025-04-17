@@ -1292,7 +1292,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c3761374_2024_korea_winter_program_practice_test>
   * 2024 Korea Summer Program Practice Test: <https://artofproblemsolving.com/community/c3948350_2024_korea_summer_program_practice_test>
 * <https://www.bolyai.hu/files/MEMO_2024_T_en.pdf> ; <https://www.bolyai.hu/files/MEMO-2024-SolutionBooklet-2.pdf>
-* 
 
 ## 2023:
 * 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>

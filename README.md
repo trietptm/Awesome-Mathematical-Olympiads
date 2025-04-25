@@ -85,6 +85,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## EGMO (FROM 2012):
 * <https://artofproblemsolving.com/community/c3246_egmo>
+* http://www.toomates.net/biblioteca/CompendiumEGMO.pdf
 * 
 
 ## ELMO (FROM 1999):
@@ -98,6 +99,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## JUNIOR BALKAN MO (FROM 1997):
 * <https://artofproblemsolving.com/community/c3227_junior_balkan_mo>
 * **JBMO SHORTLISTS (FROM 2000)**: <https://artofproblemsolving.com/community/c3240_jbmo_shortlists>
+* http://www.toomates.net/biblioteca/CompendiumJBMO.pdf
 * 
 
 ## KOMAL A PROBLEMS:
@@ -288,14 +290,17 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## USAJMO (FROM 2010):
 * <https://artofproblemsolving.com/community/c3420_usajmo>
+* http://www.toomates.net/biblioteca/CompendiumUSAJMO.pdf
 * 
 
 ## USA TEAM SELECTION TEST (FROM 2000):
 * <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
+* http://www.toomates.net/biblioteca/CompendiumTSTST.pdf
 * 
 
 ## USA TSTST (FROM 2011):
 * <https://artofproblemsolving.com/community/c3424_usa_tstst>
+* http://www.toomates.net/biblioteca/CompendiumTSTST.pdf
 * 
 
 ## USA EGMO TEAM SELECTION TEST (FROM 2020):
@@ -1749,6 +1754,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 Israel National Olympiad: <https://artofproblemsolving.com/community/c919195_2014_israel_national_olympiad>
 * 2014 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c1070156_2014_bulgaria_jbmo_tst>
 * 2014 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c711335_2014_lusophon_mathematical_olympiad>
+* https://web.evanchen.cc/exams/ELMO-2014-sols.pdf
+  * https://web.evanchen.cc/exams/ELMO-2014-SL.pdf ; https://artofproblemsolving.com/downloads/printable_post_collections/4352 ; 
 * 2014 Kurschak Competition: <https://artofproblemsolving.com/community/c103143_2014_kurschak_competition>
 * 2014 Iran Geometry Olympiad (senior): https://artofproblemsolving.com/community/c512199_2014_iran_geometry_olympiad_senior
   * 2014 Iranian Geometry Olympiad (junior): <https://artofproblemsolving.com/community/c908797_2014_iranian_geometry_olympiad_junior>

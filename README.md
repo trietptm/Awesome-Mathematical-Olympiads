@@ -31,6 +31,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * ELMO Problems (FROM 1999): <https://artofproblemsolving.com/community/c3429_elmo_problems>
 * ELMO Shortlist (FROM 2010): <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
 * Revenge EL(S)MO (FROM 2022): <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
+* CMC: https://cmc.ericshen.net
 * BAMO Contests (FROM 1999): <https://artofproblemsolving.com/community/c233906_bamo_contests>
 * Math Prize for Girls Olympiad (FROM 2010): <https://artofproblemsolving.com/community/c953466_math_prize_for_girls_olympiad>
 * Math Prize For Girls Problems (FROM 2009): <https://artofproblemsolving.com/community/c3427_math_prize_for_girls_problems>
@@ -118,6 +119,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## IRANIAN GEOMETRY OLYMPIAD (FROM 2014):
 * <https://artofproblemsolving.com/community/c460486_iranian_geometry_olympiad>
+* http://www.toomates.net/biblioteca/CompendiumIGO.pdf
 * 
 
 ## IRANIAN COMBINATORICS OLYMPIAD (FROM 2020):
@@ -236,6 +238,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:189/>
   * <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:190/>
 * https://bmos.ukmt.org.uk/home/selection-tests.shtml
+* http://www.toomates.net/biblioteca/CompendiumBMO.pdf
 * https://imogeometry.blogspot.com/p/british.html
 * 
 
@@ -326,6 +329,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## USAMO (FROM 1972):
 * <https://artofproblemsolving.com/community/c3409_usamo>
 * <https://prase.cz/kalva/usa.html>
+* http://www.toomates.net/biblioteca/CompendiumUSAMO.pdf
 * 
 
 ## USAJMO (FROM 2010):
@@ -335,7 +339,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## USA TEAM SELECTION TEST (FROM 2000):
 * <https://artofproblemsolving.com/community/c3411_usa_team_selection_test>
-* http://www.toomates.net/biblioteca/CompendiumTSTST.pdf
+* http://www.toomates.net/biblioteca/CompendiumTST.pdf
 * 
 
 ## USA TSTST (FROM 2011):
@@ -1161,6 +1165,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * South Korea University Students Contest of Mathematics
 * 
 
+## CMC AMERICAN MATHEMATICS COMPETITIONS (FROM 2017):
+* https://cmc.ericshen.net
+* 
+
 ## MATHEMATICAL EXCELLENCE OLYMPIAD (FROM 2017):
 * <https://artofproblemsolving.com/community/c534644_mathematical_excellence_olympiad>
 * 
@@ -1215,6 +1223,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## RIO DE JANEIRO MATHEMATICAL OLYMPIAD (FROM 2018):
 * <https://artofproblemsolving.com/community/c1015938_rio_de_janeiro_mathematical_olympiad>
+* 
+
+## NEW ZEALAND MATHS OLYMPIAD (FROM 2019):
+* https://www.mathsolympiad.org.nz/resources/
 * 
 
 ## FINAL MATHEMATICAL CUP (FROM 2019):
@@ -1308,6 +1320,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2025:
+* <https://ukmt.org.uk/wp-content/uploads/2025/01/BMO2_2025_Paper.pdf>
 * 2025 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4101901_2025_kosovo_national_mathematical_olympiad>
 * 2025 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c4111340_2025_israel_national_olympiad_gillis>
   * 2025 Israel TST: <https://artofproblemsolving.com/community/c4081821_2025_israel_tst>
@@ -1503,6 +1516,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020-2021 OMMC: <https://artofproblemsolving.com/community/c1976711_20202021_ommc>
 * 2020 Grand Duchy of Lithuania: <https://artofproblemsolving.com/community/c1322470_2020_grand_duchy_of_lithuania>
 * 2020 Lusophon Mathematical Olympiad: <https://artofproblemsolving.com/community/c1448788_2020_lusophon_mathematical_olympiad>
+* <https://acmfiles.s3.amazonaws.com/Material/CMC_Brochure_2020_07_15.pdf>
 * 2020 Kürschák Competition: <https://artofproblemsolving.com/community/c1982716_2020_kuumlrschaacutek_competition>
 * 2020 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c3031888_2020_kazakhstan_national_olympiad>
 * 2020 Israel National Olympiad: <https://artofproblemsolving.com/community/c3228714_2020_israel_national_olympiad>
@@ -1579,6 +1593,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2018 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c786724_2018_canadian_open_math_challenge>
   * 2018 Canadian Senior Mathematics Contest: <https://artofproblemsolving.com/community/c786725_2018_canadian_senior_mathematics_contest>
   * 2018 Canada National Olympiad: <https://artofproblemsolving.com/community/c635603_2018_canada_national_olympiad>
+* https://cmc.ericshen.net/CMC-2018/CMC-2018-12B.pdf ; https://cmc.ericshen.net/CMC-2018/CIME-2018-II.pdf ; https://cmc.ericshen.net/CMC-2018/CJMO-2018.pdf
 * 2018 Junior Balkan MO: <https://artofproblemsolving.com/community/c691115_2018_junior_balkan_mo>
   * 2018 JBMO Shortlist: <https://artofproblemsolving.com/community/c903330_2018_jbmo_shortlist>
 * 2018 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094906_2018_greece_junior_math_olympiad>
@@ -1626,6 +1641,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2017 Canada National Olympiad: <https://artofproblemsolving.com/community/c432831_2017_canada_national_olympiad>
   * 2017 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c438033_2017_canadian_mathematical_olympiad_qualification>
   * 2017 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c786054_2017_canadian_open_math_challenge>
+* https://cmc.ericshen.net/CMC-2018/CMC-2018-10A.pdf ; https://cmc.ericshen.net/CMC-2018/CMC-2018-12A.pdf ; https://cmc.ericshen.net/CMC-2018/CIME-2018-I.pdf
+  * https://cmc.ericshen.net/CMC-2018/CMC-2018-10B.pdf ; https://cmc.ericshen.net/CMC-2018/CMC-2018-12B.pdf
 * 2017 Junior Balkan MO: <https://artofproblemsolving.com/community/c472784_2017_junior_balkan_mo>
   * 2017 JBMO Shortlist: <https://artofproblemsolving.com/community/c691134_2017_jbmo_shortlist>
 * 2017 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094905_2017_greece_junior_math_olympiad>

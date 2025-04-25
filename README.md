@@ -7,6 +7,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * IMO Longlists: <https://artofproblemsolving.com/community/c3224_imo_longlists>
 * <https://artofproblemsolving.com/wiki/index.php/IMO_Problems_and_Solutions>
 * https://prase.cz/kalva/ ; https://prase.cz/kalva/index2.html
+* https://bmos.ukmt.org.uk/home/imo.shtml
 * 
 
 ## APMO (FROM 1989):
@@ -85,6 +86,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## EGMO (FROM 2012):
 * <https://artofproblemsolving.com/community/c3246_egmo>
+* https://bmos.ukmt.org.uk/home/egmo.shtml
 * http://www.toomates.net/biblioteca/CompendiumEGMO.pdf
 * 
 
@@ -221,6 +223,44 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## SPAIN MATHEMATICAL OLYMPIAD (FROM 1964):
 * <https://artofproblemsolving.com/community/c3388_spain_mathematical_olympiad>
+* 
+
+## BRITISH MATHEMATICAL OLYMPIAD (FROM 1965):
+* https://bmos.ukmt.org.uk/home/bmo.shtml
+* https://bmos.ukmt.org.uk/home/bmolot.pdf
+* https://bmos.ukmt.org.uk/solutions/
+* https://ukmt.org.uk/competition-papers
+  * <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:78/#free-past-paper-anchor>
+  * <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:79/>
+* https://ukmt.org.uk/video-solutions-list
+  * <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:189/>
+  * <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:190/>
+* https://bmos.ukmt.org.uk/home/selection-tests.shtml
+* https://imogeometry.blogspot.com/p/british.html
+* 
+
+## SENIOR MATHEMATICAL CHALLENGE (FROM 2005):
+* https://ukmt.org.uk/senior-challenges/senior-mathematical-challenge
+* <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:76/>
+* <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:216/>
+* 
+
+## UK MATHEMATICAL OLYMPIAD FOR GIRLS (UK MOG) (FROM 2011):
+* https://bmos.ukmt.org.uk/home/ukmog.shtml
+* <https://ukmt.org.uk/video-solutions-list/jsf/jet-engine:video-solutions-grid/tax/video-solution-challenge-type:214/>
+* 
+
+## HAMILTON MATHEMATICAL OLYMPIAD (FROM 2015):
+* <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:74/#free-past-paper-anchor>
+* https://ukmt.org.uk/intermediate-challenges/cayley-hamilton-maclaurin-olympiad-challenge
+* 
+
+## CAYLEY MATHEMATICAL OLYMPIAD (FROM 2015):
+* <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:73/#free-past-paper-anchor>
+* 
+
+## MACLAURIN MATHEMATICAL OLYMPIAD (FROM 2015):
+* <https://ukmt.org.uk/competition-papers/jsf/jet-engine:free-past-papers/tax/challenge-type:73/#free-past-paper-anchor>
 * 
 
 ## SERBIA TEAM SELECTION TEST, YUGOSLAV TEAM SELECTION TEST (FROM 1968):
@@ -394,6 +434,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## BALKAN MO (FROM 1984):
 * <https://artofproblemsolving.com/community/c3225_balkan_mo>
+* https://bmos.ukmt.org.uk/home/balkan.shtml
 * 
 
 ## BALKAN MO SHORTLIST (FROM 2007)
@@ -678,6 +719,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3365_romania_national_olympiad>
 * 
 
+## ROMANIAN MASTERS OF MATHEMATICS COLLECTION (FROM 2008):
+* <https://artofproblemsolving.com/community/c3238_romanian_masters_of_mathematics_collection>
+* https://bmos.ukmt.org.uk/home/rmm.shtml
+* 
+
 ## BOSNIA HERZEGOVINA TEAM SELECTION TEST (FROM 1996):
 * <https://artofproblemsolving.com/community/c3271_bosnia_herzegovina_team_selection_test>
 * 
@@ -917,10 +963,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## HONDURAS VIRTUAL MATH COMPETITION (FROM 2020):
 * <https://artofproblemsolving.com/community/c3379009_honduras_virtual_math_competition>
-* 
-
-## ROMANIAN MASTERS OF MATHEMATICS COLLECTION (FROM 2008):
-* <https://artofproblemsolving.com/community/c3238_romanian_masters_of_mathematics_collection>
 * 
 
 ## PHILIPPINE MO (FROM 2008):
@@ -1273,6 +1315,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2024:
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
+* https://bmos.ukmt.org.uk/home/bmo1-2025.pdf
+  * BMO 1 2024-25: Solutions: https://www.youtube.com/playlist?list=PLTN2bMPwDm8a6YFFLDr7JmPIB82krOqtk
 * 2024 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c4088590_2024_canadian_open_math_challenge>
   * 2024 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788112_2024_canadian_junior_mathematical_olympiad>
   * 2024 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788843_2024_canadian_mathematical_olympiad_qualification>
@@ -1817,6 +1861,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2012:
 * 2012 Contests: <https://artofproblemsolving.com/community/c54_2012_contests>
+* https://bmos.ukmt.org.uk/home/ukmog-2012.pdf
 * 2012 Canada National Olympiad: <https://artofproblemsolving.com/community/c5057_2012_canada_national_olympiad>
   * 2012 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4054_2012_canadian_mathematical_olympiad_qualification_repechage>
 * 2012 Junior Balkan MO: <https://artofproblemsolving.com/community/c4214_2012_junior_balkan_mo>
@@ -2071,6 +2116,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2005:
 * 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
+* https://ukmt.org.uk/free-past-papers/senior-mathematical-challenge-2005
 * 2005 Canada National Olympiad: <https://artofproblemsolving.com/community/c5050_2005_canada_national_olympiad>
 * 2005 Junior Balkan MO: <https://artofproblemsolving.com/community/c4207_2005_junior_balkan_mo>
   * 2005 JBMO Shortlist: <https://artofproblemsolving.com/community/c586190_2005_jbmo_shortlist>

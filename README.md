@@ -87,6 +87,14 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3246_egmo>
 * 
 
+## ELMO (FROM 1999):
+* https://web.evanchen.cc/elmo/problems.html
+* ELMO Problems (FROM 1999): <https://artofproblemsolving.com/community/c3429_elmo_problems>
+* ELMO Shortlist (FROM 2010): <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
+* https://artofproblemsolving.com/wiki/index.php/ELMO
+* http://www.toomates.net/biblioteca/CompendiumELMO.pdf
+* 
+
 ## JUNIOR BALKAN MO (FROM 1997):
 * <https://artofproblemsolving.com/community/c3227_junior_balkan_mo>
 * **JBMO SHORTLISTS (FROM 2000)**: <https://artofproblemsolving.com/community/c3240_jbmo_shortlists>

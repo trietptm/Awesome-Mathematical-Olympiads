@@ -1444,6 +1444,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 PMC: <https://artofproblemsolving.com/community/c3777670_2022_pmc>
 * 2022 SAFEST Olympiad: <https://artofproblemsolving.com/community/c3393197_2022_safest_olympiad>
 * 2022 Korea Winter Program Practice Test: <https://artofproblemsolving.com/community/c3102514_2022_korea_winter_program_practice_test>
+* <https://www.mathe-wettbewerbe.de/fileadmin/Mathe-Wettbewerbe/Bundeswettbewerb_Mathematik/Dokumente/Aufgaben_und_Loesungen_BWM/loes_22_2_e.pdf>
 * 
 
 ## 2021:

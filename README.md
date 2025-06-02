@@ -1320,6 +1320,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2025:
+* https://purplecomet.org/views/data/2025HSSolutions.pdf ; https://purplecomet.org/views/data/2025MSSolutions.pdf
 * <https://ukmt.org.uk/wp-content/uploads/2025/01/BMO2_2025_Paper.pdf>
 * 2025 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4101901_2025_kosovo_national_mathematical_olympiad>
 * 2025 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c4111340_2025_israel_national_olympiad_gillis>
@@ -1328,6 +1329,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2024:
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
+* https://purplecomet.org/views/data/2024HSSolutions.pdf
+  * https://purplecomet.org/views/data/2024MSSolutions.pdf ; https://purplecomet.org/views/data/2024MSProblems.pdf
 * https://bmos.ukmt.org.uk/home/bmo1-2025.pdf
   * BMO 1 2024-25: Solutions: https://www.youtube.com/playlist?list=PLTN2bMPwDm8a6YFFLDr7JmPIB82krOqtk
 * 2024 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c4088590_2024_canadian_open_math_challenge>
@@ -1365,6 +1368,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2023:
 * 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>
+* https://purplecomet.org/views/data/2023HSSolutions.pdf
+  * https://purplecomet.org/views/data/2023MSSolutions.pdf
 * 2023 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788111_2023_canadian_junior_mathematical_olympiad>
   * 2023 Canada National Olympiad: <https://artofproblemsolving.com/community/c3311778_2023_canada_national_olympiad>
 * 2023 Junior Balkan Mathematical Olympiad: <https://artofproblemsolving.com/community/c3375088_2023_junior_balkan_mathematical_olympiad>
@@ -1401,6 +1406,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2022:
 * 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
+* https://purplecomet.org/views/data/2022HSProblems.pdf ; https://purplecomet.org/views/data/2022HSSolutions.pdf
+  * https://purplecomet.org/views/data/2022MSProblems.pdf ; https://purplecomet.org/views/data/2022MSSolutions.pdf
 * 2022 Canada National Olympiad: <https://artofproblemsolving.com/community/c3012255_2022_canada_national_olympiad>
   * 2022 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3012254_2022_canadian_junior_mathematical_olympiad>
   * 2022 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3173605_2022_canadian_mathematical_olympiad_qualification>
@@ -1449,6 +1456,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2021:
 * 2021 Contests: <https://artofproblemsolving.com/community/c1964313_2021_contests>
+* https://purplecomet.org/views/data/2021HSProblems.pdf
+  * https://purplecomet.org/views/data/2021MSSolutions.pdf
 * 2021 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1976896_2021_canadian_mathematical_olympiad_qualification>
   * 2021 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c2014450_2021_canadian_junior_mathematical_olympiad>
   * 2021 Canada National Olympiad: <https://artofproblemsolving.com/community/c1966602_2021_canada_national_olympiad>
@@ -1489,6 +1498,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2020:
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
+* https://purplecomet.org/views/data/2020HSProblems.pdf ; https://purplecomet.org/views/data/2020HSSolutions.pdf
+  * https://purplecomet.org/views/data/2020MSSolutions.pdf
 * 2020 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c1231800_2020_canadian_junior_mathematical_olympiad>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
 * 2020 Junior Balkаn MO: <https://artofproblemsolving.com/community/c1292504_2020_junior_balkn_mo>
@@ -1541,6 +1552,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2019:
 * 2019 Contests: <https://artofproblemsolving.com/community/c801582_2019_contests>
+* https://purplecomet.org/views/data/2019HSProblems.pdf ; https://purplecomet.org/views/data/2019HSSolutions.pdf
 * 2019 Canada National Olympiad: <https://artofproblemsolving.com/community/c859750_2019_canada_national_olympiad>
   * 2019 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1085610_2019_canadian_mathematical_olympiad_qualification>
 * 2019 Junior Balkan MO: <https://artofproblemsolving.com/community/c1015952_2019_junior_balkan_mo>
@@ -1590,6 +1602,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2018:
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
+* https://purplecomet.org/views/data/2018HSProblems.pdf ; https://purplecomet.org/views/data/2018HSSolutions.pdf
+  * https://purplecomet.org/views/data/2018MSProblems.pdf
 * 2018 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c639354_2018_canadian_mathematical_olympiad_qualification>
   * 2018 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c786724_2018_canadian_open_math_challenge>
   * 2018 Canadian Senior Mathematics Contest: <https://artofproblemsolving.com/community/c786725_2018_canadian_senior_mathematics_contest>
@@ -2073,6 +2087,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2007:
+* https://purplecomet.org/views/data/2071MS.pdf
 * 2007 Junior Balkan MO: <https://artofproblemsolving.com/community/c4209_2007_junior_balkan_mo>
   * 2007 JBMO Shortlist: <https://artofproblemsolving.com/community/c584846_2007_jbmo_shortlist>
 * 2007 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094890_2007_greece_junior_math_olympiad>
@@ -2104,6 +2119,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2006:
 * 2006 MOP Homework: <https://artofproblemsolving.com/community/c1118889_2006_mop_homework>
+* https://purplecomet.org/views/data/2061HS.pdf
+  * https://purplecomet.org/views/data/2061MS.pdf
 * 2006 Junior Balkan MO: <https://artofproblemsolving.com/community/c4208_2006_junior_balkan_mo>
   * 2006 JBMO ShortLists: <https://artofproblemsolving.com/community/c3733_2006_jbmo_shortlists>
 * 2006 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c1094889_2006_greece_junior_math_olympiad>
@@ -2134,6 +2151,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2005:
 * 2005 MOP Homework: <https://artofproblemsolving.com/community/c358108_2005_mop_homework>
+* https://purplecomet.org/views/data/2051HS.pdf
 * https://ukmt.org.uk/free-past-papers/senior-mathematical-challenge-2005
 * 2005 Canada National Olympiad: <https://artofproblemsolving.com/community/c5050_2005_canada_national_olympiad>
 * 2005 Junior Balkan MO: <https://artofproblemsolving.com/community/c4207_2005_junior_balkan_mo>
@@ -2170,6 +2188,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2004:
+* https://purplecomet.org/views/data/2041HS.pdf
 * 2004 Canada National Olympiad: <https://artofproblemsolving.com/community/c5049_2004_canada_national_olympiad>
 * 2004 Junior Balkan MO: <https://artofproblemsolving.com/community/c4206_2004_junior_balkan_mo>
   * 2004 JBMO Shortlist: <https://artofproblemsolving.com/community/c584845_2004_jbmo_shortlist>
@@ -2194,6 +2213,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## 2003:
+* https://purplecomet.org/views/data/2003problems.pdf
 * 2003 Canada National Olympiad: <https://artofproblemsolving.com/community/c5048_2003_canada_national_olympiad>
 * 2003 Junior Balkan MO: <https://artofproblemsolving.com/community/c4205_2003_junior_balkan_mo>
   * 2003 JBMO Shortlist: <https://artofproblemsolving.com/community/c551170_2003_jbmo_shortlist>

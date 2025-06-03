@@ -81,6 +81,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * JHMMC 7 Contests (FROM 2014): <https://artofproblemsolving.com/community/c915846_jhmmc_7_contests>
   * JHMMC 8 Contests: <https://artofproblemsolving.com/community/c906683_jhmmc_8_contests>
 * ASMT (A-Star Math Tournament (SMT replacement) , lasted only 2015 and 2016): <https://artofproblemsolving.com/community/c3568943_asmt>
+* The Mobile Mathematics Olympiads: https://sites.google.com/southalabama.edu/mobilematholympiad/home
 * 
 
 ## TOURNAMENT OF TOWNS (FROM 1980):

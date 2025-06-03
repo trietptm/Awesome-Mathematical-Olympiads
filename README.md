@@ -22,6 +22,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * USA EGMO Team Selection Test (FROM 2020): <https://artofproblemsolving.com/community/c788454_usa_egmo_team_selection_test>
 * USAMTS Problems (FROM 1998): <https://artofproblemsolving.com/community/c3412_usamts_problems>
 * Purple Comet Problems (FROM 2003): <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
+* AMERICAN REGIONS MATH LEAGUE (FROM 1983): <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
 * Putnam (FROM 1939): <https://artofproblemsolving.com/community/c3249_putnam>
 * AIME Problems (FROM 1983): <https://artofproblemsolving.com/community/c3416_aime_problems>
 * AMC 12/AHSME (FROM 1950): <https://artofproblemsolving.com/community/c3415_amc_12ahsme>
@@ -32,7 +33,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * ELMO Shortlist (FROM 2010): <https://artofproblemsolving.com/community/c3430_elmo_shortlist>
 * Revenge EL(S)MO (FROM 2022): <https://artofproblemsolving.com/community/c3869661_revenge_elsmo>
 * CMC: https://cmc.ericshen.net
-* BAMO Contests (FROM 1999): <https://artofproblemsolving.com/community/c233906_bamo_contests>
+* BAMO Contests (FROM 1999): https://www.bamo.org/archives/problems_and_solutions/
+  * <https://artofproblemsolving.com/community/c233906_bamo_contests>
 * Math Prize for Girls Olympiad (FROM 2010): <https://artofproblemsolving.com/community/c953466_math_prize_for_girls_olympiad>
 * Math Prize For Girls Problems (FROM 2009): <https://artofproblemsolving.com/community/c3427_math_prize_for_girls_problems>
 * MMATHS problems (Math Majors of America Tournament for High Schools FROM 2014): <https://artofproblemsolving.com/community/c2549927_mmaths_problems>
@@ -82,6 +84,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 
 
 ## TOURNAMENT OF TOWNS (FROM 1980):
+* https://www.turgor.ru/en/problems/allproblems.php
+  * https://www.turgor.ru/en/zktg/
 * <https://artofproblemsolving.com/community/c3239_tournament_of_towns>
 * 
 
@@ -1337,6 +1341,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2024 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788112_2024_canadian_junior_mathematical_olympiad>
   * 2024 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788843_2024_canadian_mathematical_olympiad_qualification>
   * 2024 Canada National Olympiad: <https://artofproblemsolving.com/community/c3776691_2024_canada_national_olympiad>
+* ARML 2024 Contest.pdf: https://drive.google.com/file/d/17hwc3NYPxPfyxxTLGTg9tzKqXWZQjx30/view
 * 2024 Junior Balkan MO: <https://artofproblemsolving.com/community/c3869872_2024_junior_balkan_mo>
 * 2024 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c3772295_2024_greece_junior_math_olympiad>
 * 2024 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3922888_2024_azerbaijan_jbmo_tst>
@@ -1370,6 +1375,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023 Contests: <https://artofproblemsolving.com/community/c3296298_2023_contests>
 * https://purplecomet.org/views/data/2023HSSolutions.pdf
   * https://purplecomet.org/views/data/2023MSSolutions.pdf
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf>
 * 2023 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788111_2023_canadian_junior_mathematical_olympiad>
   * 2023 Canada National Olympiad: <https://artofproblemsolving.com/community/c3311778_2023_canada_national_olympiad>
 * 2023 Junior Balkan Mathematical Olympiad: <https://artofproblemsolving.com/community/c3375088_2023_junior_balkan_mathematical_olympiad>
@@ -1500,6 +1506,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * https://purplecomet.org/views/data/2020HSProblems.pdf ; https://purplecomet.org/views/data/2020HSSolutions.pdf
   * https://purplecomet.org/views/data/2020MSSolutions.pdf
+* <https://www.arml.com/ARML/arml_2019/public_actual_documents/ARML%20Local%202020%20Solutions.pdf>
 * 2020 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c1231800_2020_canadian_junior_mathematical_olympiad>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
 * 2020 Junior Balkаn MO: <https://artofproblemsolving.com/community/c1292504_2020_junior_balkn_mo>
@@ -1553,6 +1560,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2019:
 * 2019 Contests: <https://artofproblemsolving.com/community/c801582_2019_contests>
 * https://purplecomet.org/views/data/2019HSProblems.pdf ; https://purplecomet.org/views/data/2019HSSolutions.pdf
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
+  * <https://www.arml2.com/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
 * 2019 Canada National Olympiad: <https://artofproblemsolving.com/community/c859750_2019_canada_national_olympiad>
   * 2019 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1085610_2019_canadian_mathematical_olympiad_qualification>
 * 2019 Junior Balkan MO: <https://artofproblemsolving.com/community/c1015952_2019_junior_balkan_mo>

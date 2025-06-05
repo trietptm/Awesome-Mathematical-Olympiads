@@ -24,6 +24,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Purple Comet Problems (FROM 2003): <https://artofproblemsolving.com/community/c3419_purple_comet_problems>
   * https://purplecomet.org/views/data/ExampleAnswers.pdf
 * AMERICAN REGIONS MATH LEAGUE (FROM 1983): <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
+  * ARML Documents: <https://arml3.com/?page_id=846>
+  * ARML: <https://artofproblemsolving.com/community/c124_arml>
+  * Mock ARML: <https://artofproblemsolving.com/wiki/index.php/Mock_ARML>
+    * <https://artofproblemsolving.com/community/c2442143_arml_mocks>
+    * <https://www.arml.com/ARML/arml_2019/page/index.php?page_type=public&page=books>
 * Putnam (FROM 1939): <https://artofproblemsolving.com/community/c3249_putnam>
 * AIME Problems (FROM 1983): <https://artofproblemsolving.com/community/c3416_aime_problems>
 * AMC 12/AHSME (FROM 1950): <https://artofproblemsolving.com/community/c3415_amc_12ahsme>
@@ -1617,6 +1622,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2018 Contests: <https://artofproblemsolving.com/community/c563221_2018_contests>
 * https://purplecomet.org/views/data/2018HSProblems.pdf ; https://purplecomet.org/views/data/2018HSSolutions.pdf
   * https://purplecomet.org/views/data/2018MSProblems.pdf ; https://purplecomet.org/views/data/2018MSSolutions.pdf
+* <https://www.arml2.com/arml_2018/public_contest_files/2018_contest_file/2018_Contest_Final_Version.pdf>
+  * http://kgsea.org/wp-content/uploads/2018/02/ARML-Local-2018-Solutions.pdf
 * 2018 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c639354_2018_canadian_mathematical_olympiad_qualification>
   * 2018 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c786724_2018_canadian_open_math_challenge>
   * 2018 Canadian Senior Mathematics Contest: <https://artofproblemsolving.com/community/c786725_2018_canadian_senior_mathematics_contest>
@@ -1731,6 +1738,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2016:
 * 2016 Contests: <https://artofproblemsolving.com/community/c190175_2016_contests>
 * <https://web.archive.org/web/20250404211459/https://purplecomet.org/?action=resource/problems/974/2016MS_Problems.pdf>
+* <https://www.arml2.com/arml_2017/public_contest_files/2016_contest_file/2016_Contest_Final_Version.pdf>
 * 2016 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c286003_2016_canadian_mathematical_olympiad_qualification>
   * 2016 Canada National Olympiad: <https://artofproblemsolving.com/community/c256451_2016_canada_national_olympiad>
 * 2016 Junior Balkan MO: <https://artofproblemsolving.com/community/c289059_2016_junior_balkan_mo>
@@ -1826,6 +1834,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2014:
 * 2014 Contests: <https://artofproblemsolving.com/community/c52_2014_contests>
 * <https://web.archive.org/web/20250215111554/https://purplecomet.org/?action=resource/problems/606/2014MSProblems.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
+  * <https://ivyleaguecenter.org/wp-content/uploads/2016/11/2014_contest_final_version.pdf>
+  * https://www.math.cmu.edu/~mlavrov/arml/14-15/mock-arml-10-12-14-team.pdf
 * 2014 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c285739_2014_canadian_mathematical_olympiad_qualification>
   * 2014 Canada National Olympiad: <https://artofproblemsolving.com/community/c5059_2014_canada_national_olympiad>
 * 2014 Junior Balkan MO: <https://artofproblemsolving.com/community/c4216_2014_junior_balkan_mo>
@@ -1873,6 +1884,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## 2013:
 * 2013 Contests: <https://artofproblemsolving.com/community/c53_2013_contests>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
 * 2013 Canada National Olympiad: <https://artofproblemsolving.com/community/c5058_2013_canada_national_olympiad>
   * 2013 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4055_2013_canadian_mathematical_olympiad_qualification_repechage>
 * 2013 Junior Balkan MO: <https://artofproblemsolving.com/community/c4215_2013_junior_balkan_mo>
@@ -1912,6 +1924,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2012:
 * 2012 Contests: <https://artofproblemsolving.com/community/c54_2012_contests>
 * <https://web.archive.org/web/20250404211451/https://purplecomet.org/?action=resource/problems/1032/2012MiddleSchoolProblems.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
 * https://bmos.ukmt.org.uk/home/ukmog-2012.pdf
 * 2012 Canada National Olympiad: <https://artofproblemsolving.com/community/c5057_2012_canada_national_olympiad>
   * 2012 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4054_2012_canadian_mathematical_olympiad_qualification_repechage>
@@ -1961,6 +1974,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 Contests: <https://artofproblemsolving.com/community/c55_2011_contests>
 * <https://web.archive.org/web/20250404211539/https://purplecomet.org/?action=resource/problems/1031/2011HighSchoolProblems.pdf>
   * <https://web.archive.org/web/20250404211559/https://purplecomet.org/?action=resource/problems/1030/2011MiddleSchoolProblems.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
 * 2011 Canada National Olympiad: <https://artofproblemsolving.com/community/c5056_2011_canada_national_olympiad>
   * 2011 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4053_2011_canadian_mathematical_olympiad_qualification_repechage>
   * 2011 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c5242_2011_canadian_open_math_challenge>
@@ -2001,6 +2015,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2010:
 * 2010 Contests: <https://artofproblemsolving.com/community/c56_2010_contests>
 * <https://web.archive.org/web/20230807191359/https://purplecomet.org/?action=resource/problems/267/2010MiddleSchoolProblems.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
+  * <https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi84LzAwNWQ1ZDMzMmNlZmNhMmRiM2Q3YTg2YmVhZDE5NjFmYmIwYjUz&rn=MjAxMGNvbnRlc3RlbnRpcmVkcmFmdHYxLjQucGRm>
 * 2010 Canada National Olympiad: <https://artofproblemsolving.com/community/c5055_2010_canada_national_olympiad>
   * 2010 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4052_2010_canadian_mathematical_olympiad_qualification_repechage>
 * 2010 Junior Balkan MO: <https://artofproblemsolving.com/community/c4212_2010_junior_balkan_mo>
@@ -2051,6 +2067,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 Contests: <https://artofproblemsolving.com/community/c57_2009_contests>
 * <https://web.archive.org/web/20250404211609/https://purplecomet.org/?action=resource/problems/203/HighSchoolProblems2009>
   * <https://web.archive.org/web/20230807170405/https://purplecomet.org/?action=resource/problems/185/MiddleSchoolProblems2009.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
 * 2009 Canada National Olympiad: <https://artofproblemsolving.com/community/c5054_2009_canada_national_olympiad>
   * 2009 Canadian Mathematical Olympiad Qualification Repechage: <https://artofproblemsolving.com/community/c4051_2009_canadian_mathematical_olympiad_qualification_repechage>
 * 2009 Junior Balkan MO: <https://artofproblemsolving.com/community/c4211_2009_junior_balkan_mo>

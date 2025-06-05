@@ -2010,6 +2010,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2011 USA TSTST: <https://artofproblemsolving.com/community/c4183_2011_usa_tstst>
 * 2011 Armenian Republican Olympiads: <https://artofproblemsolving.com/community/c302119_2011_armenian_republican_olympiads>
 * The 5th “STARS of MATHEMATICS” Competition – Juniors December 10, 2011: <https://www.viitoriolimpici.ro/uploads/attach_data/70/26/0/solutions_stelej.pdf>
+* 2011 Iran MO (2nd Round): <https://artofproblemsolving.com/community/c3895_2011_iran_mo_2nd_round>
+  * 2011 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3498_2011_iran_mo_3rd_round>
+  * 2011 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5387_2011_iran_team_selection_test>
+  * https://people.kth.se/~aghighi/resources/booklet2011.pdf
 * 
 
 ## 2010:
@@ -2061,6 +2065,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * Math Hour Olympiad, Grades 5-7: <https://artofproblemsolving.com/community/c3002465_math_hour_olympiad_grades_57>
   * Math Hour Olympiad, Grades 8-10: <https://artofproblemsolving.com/community/c3003217_math_hour_olympiad_grades_810>
 * 2010 India IMO Training Camp: <https://artofproblemsolving.com/community/c5004_2010_india_imo_training_camp>
+* 2010 Iran MO (2nd Round): <https://artofproblemsolving.com/community/c3894_2010_iran_mo_2nd_round>
+  * 2010 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3497_2010_iran_mo_3rd_round>
+  * 2010 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5386_2010_iran_team_selection_test>
+  * https://people.kth.se/~aghighi/resources/booklet2010.pdf
 * 
 
 ## 2009:

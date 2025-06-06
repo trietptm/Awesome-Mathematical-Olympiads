@@ -2995,11 +2995,23 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://web.evanchen.cc/wherestart.html>
   * <https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/>
 * <https://artofproblemsolving.com/wiki/index.php/Category:Olympiad_Mathematics_Topics>
+* https://www.imomath.com
+* https://www.awesomemath.org/mathematical-reflections/archives/
+* https://cms.math.ca/publications/crux/
+* https://www.math.hkust.edu.hk/excalibur/
+* <https://imogeometry.blogspot.com/p/blog-page_2.html>
+* https://sites.google.com/site/imocanada/
+* https://www.mathsolympiad.org.nz/resources/
+* https://mathcircle.berkeley.edu/circle-archives
 * <https://web.evanchen.cc/olympiad.html>
   * <https://web.evanchen.cc/coursework.html>
 * <https://www.math.cmu.edu/~lohp/olympiad.shtml>
 * <https://yufeizhao.com/olympiad/>
 * <https://alexanderrem.weebly.com/math-competitions.html>
+* https://yisun.io/teaching.html
+* https://davidaltizio.web.illinois.edu/mathlinks.html
+* https://cosmogeometer.wordpress.com/problems/
+* https://jpsaha.github.io/MOTP/
 * 
 
 

@@ -63,7 +63,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * Stanford Mathematics Tournament (FROM 2000): <https://artofproblemsolving.com/community/c3418_stanford_mathematics_tournament>
 * UMD Math Competition (FROM 1997): <https://artofproblemsolving.com/community/c3617748_umd_math_competition>
 * Duke Math Meet (DMM) (by Duke University FROM 1998): <https://artofproblemsolving.com/community/c3168302_duke_math_meet_dmm>
-* BMT Problems (Berkeley Math Tournament FROM 2012): <https://artofproblemsolving.com/community/c2503467_bmt_problems>
+* BMT Problems (Berkeley Math Tournament FROM 2012): https://berkeley.mt/archives/
+  * <https://artofproblemsolving.com/community/c2503467_bmt_problems>
 * BmMT problems (FROM 2012): <https://artofproblemsolving.com/community/c3600421_bmmt_problems>
 * Girls in Math at Yale (FROM 2019): <https://artofproblemsolving.com/community/c2550825_girls_in_math_at_yale>
 * JHMT problems (Johns Hopkins Math Tournament FROM 2005): <https://artofproblemsolving.com/community/c3347995_jhmt_problems>

@@ -1409,6 +1409,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2023 Kurschak Competition: <https://artofproblemsolving.com/community/c3788837_2023_kurschak_competition>
 * 2023 Bulgaria JBMO TST: <https://artofproblemsolving.com/community/c3577691_2023_bulgaria_jbmo_tst>
 * 2023 Durer Math Competition (First Round): <https://artofproblemsolving.com/community/c3839918_2023_durer__math_competition_first_round>
+  * <https://durerinfo.hu/wp-content/uploads/2023/08/XVI.-Durer-angol-kiadvany.pdf>
   * 2023 Durer Math Competition Finals: <https://artofproblemsolving.com/community/c3833205_2023_durer_math_competition_finals>
 * IMSC 2023: <https://artofproblemsolving.com/community/c3395861_imsc_2023>
 * 2023 CUBRMC: <https://artofproblemsolving.com/community/c3776529_2023_cubrmc>

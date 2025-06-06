@@ -2986,6 +2986,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 
 ## LINKS:
 * <https://imogeometry.blogspot.com/p/geometry-solved-problem-collections.html>
+  * <https://imogeometry.blogspot.com/p/blog-page_2.html>
 * New Post Collections: <https://artofproblemsolving.com/community/c116_new_post_collections>
 * <https://artofproblemsolving.com/wiki/index.php?title=Olympiad_Archive>
 * <https://artofproblemsolving.com/wiki/index.php/List_of_international_mathematics_competitions>
@@ -2999,7 +3000,6 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://www.awesomemath.org/mathematical-reflections/archives/
 * https://cms.math.ca/publications/crux/
 * https://www.math.hkust.edu.hk/excalibur/
-* <https://imogeometry.blogspot.com/p/blog-page_2.html>
 * https://sites.google.com/site/imocanada/
 * https://www.mathsolympiad.org.nz/resources/
 * https://mathcircle.berkeley.edu/circle-archives

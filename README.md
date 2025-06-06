@@ -3013,6 +3013,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://davidaltizio.web.illinois.edu/mathlinks.html
 * https://cosmogeometer.wordpress.com/problems/
 * https://jpsaha.github.io/MOTP/
+* https://yu-dylan.github.io/handouts/ ; https://yu-dylan.github.io/euclid-orchard/
 * 
 
 

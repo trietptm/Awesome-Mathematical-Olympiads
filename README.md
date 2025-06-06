@@ -1333,6 +1333,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 ## 2025:
 * https://purplecomet.org/views/data/2025HSSolutions.pdf
   * https://purplecomet.org/views/data/2025MSSolutions.pdf
+* ARML 2025 Contest.pdf: https://drive.google.com/file/d/1rqZg0F5VV3iAVWAR3OWMWceL9cggBd1q/view
+  * ARML Local 2025 Problems.pdf: https://drive.google.com/file/d/1JgBgptTrpHyUOx1nDhtJmesG5vzSxuIx/view
+  * ARML Local 2025 Solutions.pdf: https://drive.google.com/file/d/1Of5KIDJ8RhGHg2XzVP-BIepQd1w6dEmK/view
 * <https://ukmt.org.uk/wp-content/uploads/2025/01/BMO2_2025_Paper.pdf>
 * 2025 Kosovo National Mathematical Olympiad: <https://artofproblemsolving.com/community/c4101901_2025_kosovo_national_mathematical_olympiad>
 * 2025 Israel National Olympiad (Gillis): <https://artofproblemsolving.com/community/c4111340_2025_israel_national_olympiad_gillis>
@@ -1343,13 +1346,15 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2024 Contests: <https://artofproblemsolving.com/community/c3752401_2024_contests>
 * https://purplecomet.org/views/data/2024HSProblems.pdf ; https://purplecomet.org/views/data/2024HSSolutions.pdf
   * https://purplecomet.org/views/data/2024MSProblems.pdf ; https://purplecomet.org/views/data/2024MSSolutions.pdf
+* ARML 2024 Contest.pdf: https://drive.google.com/file/d/17hwc3NYPxPfyxxTLGTg9tzKqXWZQjx30/view
+  * ARML Local 2024 Problems.pdf: https://drive.google.com/file/d/14iuTilIbgsdqWW_mp0btTulRqDlmxgML/view
+  * ARML Local 2024 Solutions.pdf: https://drive.google.com/file/d/1Xu1aJ2XPr5a4HS1vfHcmyE8aoMd4UCsd/view
 * https://bmos.ukmt.org.uk/home/bmo1-2025.pdf
   * BMO 1 2024-25: Solutions: https://www.youtube.com/playlist?list=PLTN2bMPwDm8a6YFFLDr7JmPIB82krOqtk
 * 2024 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c4088590_2024_canadian_open_math_challenge>
   * 2024 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788112_2024_canadian_junior_mathematical_olympiad>
   * 2024 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3788843_2024_canadian_mathematical_olympiad_qualification>
   * 2024 Canada National Olympiad: <https://artofproblemsolving.com/community/c3776691_2024_canada_national_olympiad>
-* ARML 2024 Contest.pdf: https://drive.google.com/file/d/17hwc3NYPxPfyxxTLGTg9tzKqXWZQjx30/view
 * 2024 Junior Balkan MO: <https://artofproblemsolving.com/community/c3869872_2024_junior_balkan_mo>
 * 2024 Greece Junior Math Olympiad: <https://artofproblemsolving.com/community/c3772295_2024_greece_junior_math_olympiad>
 * 2024 Azerbaijan JBMO TST: <https://artofproblemsolving.com/community/c3922888_2024_azerbaijan_jbmo_tst>
@@ -1384,6 +1389,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://purplecomet.org/views/data/2023HSProblems.pdf ; https://purplecomet.org/views/data/2023HSSolutions.pdf
   * https://purplecomet.org/views/data/2023MSProblems.pdf ; https://purplecomet.org/views/data/2023MSSolutions.pdf
 * <https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf>
+  * ARML Local 2023 Problems.pdf: https://drive.google.com/file/d/1xt-aKtRQza1_LFxlPjQyWfSiI4BEN3fl/edit
+  * ARML Local 2023 Solutions.pdf: https://drive.google.com/file/d/1T1dRMfz7qzy1RTMzF3pqQijGHmTrN1U6/edit
 * 2023 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788111_2023_canadian_junior_mathematical_olympiad>
   * 2023 Canada National Olympiad: <https://artofproblemsolving.com/community/c3311778_2023_canada_national_olympiad>
 * 2023 Junior Balkan Mathematical Olympiad: <https://artofproblemsolving.com/community/c3375088_2023_junior_balkan_mathematical_olympiad>
@@ -1422,6 +1429,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2022 Contests: <https://artofproblemsolving.com/community/c2958087_2022_contests>
 * https://purplecomet.org/views/data/2022HSProblems.pdf ; https://purplecomet.org/views/data/2022HSSolutions.pdf
   * https://purplecomet.org/views/data/2022MSProblems.pdf ; https://purplecomet.org/views/data/2022MSSolutions.pdf
+* ARML Local 2022 Problems.pdf: https://drive.google.com/file/d/18wpAVWW3OEtk8boRvIcmR3k4r81bWElr/edit
+  * ARML Local 2022 Solutions.pdf: https://drive.google.com/file/d/1XUAFloFRV9htUIovb9JGXOdCsCjSOdzX/edit
 * 2022 Canada National Olympiad: <https://artofproblemsolving.com/community/c3012255_2022_canada_national_olympiad>
   * 2022 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3012254_2022_canadian_junior_mathematical_olympiad>
   * 2022 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3173605_2022_canadian_mathematical_olympiad_qualification>
@@ -1472,6 +1481,9 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2021 Contests: <https://artofproblemsolving.com/community/c1964313_2021_contests>
 * https://purplecomet.org/views/data/2021HSProblems.pdf ; https://purplecomet.org/views/data/2021HSSolutions.pdf
   * https://purplecomet.org/views/data/2021MSProblems.pdf ; https://purplecomet.org/views/data/2021MSSolutions.pdf
+* ARML 2021 Contest Packet.pdf: https://drive.google.com/file/d/13kmzjuH2ilgNi-fmfjq5qJlJvQOhrBvM/edit
+  * ARML Local 2021 Problems.pdf: https://drive.google.com/file/d/1VQddaHN8QOjtzSrhwcsPFtLaQYszud6-/edit
+  * ARML Local 2021 Solutions.pdf: https://drive.google.com/file/d/1lxe99QxIGweAZqOI9L1b9s86LCw7f7l5/edit
 * 2021 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1976896_2021_canadian_mathematical_olympiad_qualification>
   * 2021 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c2014450_2021_canadian_junior_mathematical_olympiad>
   * 2021 Canada National Olympiad: <https://artofproblemsolving.com/community/c1966602_2021_canada_national_olympiad>
@@ -1571,6 +1583,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://purplecomet.org/views/data/2019MSProblems.pdf ; https://purplecomet.org/views/data/2019MSSolutions.pdf
 * <https://www.arml.com/ARML/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
   * <https://www.arml2.com/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
+  * http://kgsea.org/wp-content/uploads/2019/05/Korea_ARML-Local-2019-Solutions.pdf
 * 2019 Canada National Olympiad: <https://artofproblemsolving.com/community/c859750_2019_canada_national_olympiad>
   * 2019 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1085610_2019_canadian_mathematical_olympiad_qualification>
 * 2019 Junior Balkan MO: <https://artofproblemsolving.com/community/c1015952_2019_junior_balkan_mo>
@@ -1623,6 +1636,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * https://purplecomet.org/views/data/2018HSProblems.pdf ; https://purplecomet.org/views/data/2018HSSolutions.pdf
   * https://purplecomet.org/views/data/2018MSProblems.pdf ; https://purplecomet.org/views/data/2018MSSolutions.pdf
 * <https://www.arml2.com/arml_2018/public_contest_files/2018_contest_file/2018_Contest_Final_Version.pdf>
+  * http://kgsea.org/wp-content/uploads/2018/02/ARML-Local-2018-Problems.pdf
   * http://kgsea.org/wp-content/uploads/2018/02/ARML-Local-2018-Solutions.pdf
 * 2018 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c639354_2018_canadian_mathematical_olympiad_qualification>
   * 2018 Canadian Open Math Challenge: <https://artofproblemsolving.com/community/c786724_2018_canadian_open_math_challenge>

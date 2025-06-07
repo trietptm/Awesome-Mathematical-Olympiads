@@ -1392,6 +1392,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf>
   * ARML Local 2023 Problems.pdf: https://drive.google.com/file/d/1xt-aKtRQza1_LFxlPjQyWfSiI4BEN3fl/edit
   * ARML Local 2023 Solutions.pdf: https://drive.google.com/file/d/1T1dRMfz7qzy1RTMzF3pqQijGHmTrN1U6/edit
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Spring_2023/ARMLPower_Spring_2023_Solution.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2023/ARMLPower_Fall_2023_Administrivia.pdf>
 * 2023 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3788111_2023_canadian_junior_mathematical_olympiad>
   * 2023 Canada National Olympiad: <https://artofproblemsolving.com/community/c3311778_2023_canada_national_olympiad>
 * 2023 Junior Balkan Mathematical Olympiad: <https://artofproblemsolving.com/community/c3375088_2023_junior_balkan_mathematical_olympiad>
@@ -1433,6 +1435,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://purplecomet.org/views/data/2022MSProblems.pdf ; https://purplecomet.org/views/data/2022MSSolutions.pdf
 * ARML Local 2022 Problems.pdf: https://drive.google.com/file/d/18wpAVWW3OEtk8boRvIcmR3k4r81bWElr/edit
   * ARML Local 2022 Solutions.pdf: https://drive.google.com/file/d/1XUAFloFRV9htUIovb9JGXOdCsCjSOdzX/edit
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2022/ARMLPower_Fall_2022.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2022/ARMLPower_Fall_2022_Administrivia.pdf>
 * 2022 Canada National Olympiad: <https://artofproblemsolving.com/community/c3012255_2022_canada_national_olympiad>
   * 2022 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c3012254_2022_canadian_junior_mathematical_olympiad>
   * 2022 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c3173605_2022_canadian_mathematical_olympiad_qualification>
@@ -1486,6 +1490,11 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * ARML 2021 Contest Packet.pdf: https://drive.google.com/file/d/13kmzjuH2ilgNi-fmfjq5qJlJvQOhrBvM/edit
   * ARML Local 2021 Problems.pdf: https://drive.google.com/file/d/1VQddaHN8QOjtzSrhwcsPFtLaQYszud6-/edit
   * ARML Local 2021 Solutions.pdf: https://drive.google.com/file/d/1lxe99QxIGweAZqOI9L1b9s86LCw7f7l5/edit
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2021/ARMLPower_Fall_2021_Administrivia.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2021/ARMLPower_Fall_2021.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2021/ARMLPower_Fall_Solution_2021.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Spring_2021/ARMLPower_Spring_2021.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Spring_2021/ARMLPower_Spring_Solution_2021.pdf>
 * 2021 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1976896_2021_canadian_mathematical_olympiad_qualification>
   * 2021 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c2014450_2021_canadian_junior_mathematical_olympiad>
   * 2021 Canada National Olympiad: <https://artofproblemsolving.com/community/c1966602_2021_canada_national_olympiad>
@@ -1528,7 +1537,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2020 Contests: <https://artofproblemsolving.com/community/c934345_2020_contests>
 * https://purplecomet.org/views/data/2020HSProblems.pdf ; https://purplecomet.org/views/data/2020HSSolutions.pdf
   * https://purplecomet.org/views/data/2020MSProblems.pdf ; https://purplecomet.org/views/data/2020MSSolutions.pdf
-* <https://www.arml.com/ARML/arml_2019/public_actual_documents/ARML%20Local%202020%20Solutions.pdf>
+* <https://www.arml.com/ARML/arml_2019/public_actual_documents/ARML%20Local%202020%20Problems.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_actual_documents/ARML%20Local%202020%20Solutions.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Spring_2020/ARMLPower_Spring_Solution_2020.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_power_contest/contest_archive/Fall_2020/ARMLPower_Fall_Solution_2020.pdf>
 * 2020 Canadian Junior Mathematical Olympiad: <https://artofproblemsolving.com/community/c1231800_2020_canadian_junior_mathematical_olympiad>
   * 2020 Canada National Olympiad: <https://artofproblemsolving.com/community/c1094141_2020_canada_national_olympiad>
 * 2020 Junior Balkаn MO: <https://artofproblemsolving.com/community/c1292504_2020_junior_balkn_mo>
@@ -1585,6 +1597,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * https://purplecomet.org/views/data/2019MSProblems.pdf ; https://purplecomet.org/views/data/2019MSSolutions.pdf
 * <https://www.arml.com/ARML/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
   * <https://www.arml2.com/arml_2019/public_contest_files/2019_contest_file/2019_Contest_Final_Version.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_arml_local/arml_local_sample_contest_files/ARMLLocal2019Solutions.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_arml_local/arml_local_sample_contest_files/ARMLLocal2019Compressed.pdf>
   * http://kgsea.org/wp-content/uploads/2019/05/Korea_ARML-Local-2019-Solutions.pdf
 * 2019 Canada National Olympiad: <https://artofproblemsolving.com/community/c859750_2019_canada_national_olympiad>
   * 2019 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c1085610_2019_canadian_mathematical_olympiad_qualification>
@@ -1851,6 +1865,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 Contests: <https://artofproblemsolving.com/community/c52_2014_contests>
 * <https://web.archive.org/web/20250215111554/https://purplecomet.org/?action=resource/problems/606/2014MSProblems.pdf>
 * <https://www.arml.com/ARML/arml_2019/public_contest_files/2009_2014_book/ARML_2009_2014.pdf>
+  * <https://www.arml.com/ARML/arml_2019/public_documents%20Conventions/ARML_Conventions_2014.pdf>
   * <https://ivyleaguecenter.org/wp-content/uploads/2016/11/2014_contest_final_version.pdf>
   * https://www.math.cmu.edu/~mlavrov/arml/14-15/mock-arml-10-12-14-team.pdf
 * 2014 Canadian Mathematical Olympiad Qualification: <https://artofproblemsolving.com/community/c285739_2014_canadian_mathematical_olympiad_qualification>

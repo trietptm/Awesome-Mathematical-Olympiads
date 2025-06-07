@@ -8,6 +8,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/wiki/index.php/IMO_Problems_and_Solutions>
 * https://prase.cz/kalva/ ; https://prase.cz/kalva/index2.html
 * https://bmos.ukmt.org.uk/home/imo.shtml
+* https://cage.ugent.be/~hvernaev/olympiad.html
 * 
 
 ## APMO (FROM 1989):
@@ -1763,6 +1764,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://aamonline.org.in/pdf/02017%20Mathematics%20Olympiad%20-Category%20-III.pdf.pdf>
 * 2017 CMI B.Sc. Entrance Exam: <https://artofproblemsolving.com/community/c650590_2017_cmi_bsc_entrance_exam>
 * 2017 Korea USCM: <https://artofproblemsolving.com/community/c1257238_2017_korea_uscm>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GC2017problems.pdf>
+  * <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GC2017solns.pdf>
 * 
 
 ## 2016:
@@ -1816,6 +1819,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2016 Israel National Olympiad: <https://artofproblemsolving.com/community/c919192_2016_israel_national_olympiad>
 * 2016 Korea Summer Program Practice Test: <https://artofproblemsolving.com/community/c312308_2016_korea_summer_program_practice_test>
 * 2016 Korea USCM: <https://artofproblemsolving.com/community/c1258693_2016_korea_uscm>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2016.pdf>
+  * <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/examsolns/GreenChickenSolns2016.pdf>
 * 
 
 ## 2015:
@@ -1859,6 +1864,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * MBMT Geometry Rounds: <https://artofproblemsolving.com/community/c3588987_mbmt_geometry_rounds>
 * 2015 India IMO Training Camp: <https://artofproblemsolving.com/community/c126383_2015_india_imo_training_camp>
 * <https://www.georgmohr.dk/bw/bw15sol.pdf>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChicken2015_problems.pdf>
+  * <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChicken2015_solutions.pdf>
 * 
 
 ## 2014:
@@ -1911,6 +1918,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2014 ASDAN Math Tournament: <https://artofproblemsolving.com/community/c3073738_2014_asdan_math_tournament>
 * 2014 JHMMC 7 Contest: <https://artofproblemsolving.com/community/c913472_2014_jhmmc_7_contest>
 * Călăraşi 2014: <https://www.viitoriolimpici.ro/uploads/attach_data/25/7/13//0_comentariicupadunarii2014.pdf>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChickenExamContest2014.pdf>
 * 
 
 ## 2013:
@@ -1950,6 +1958,8 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * The 7th “STARS of MATHEMATICS” Competition – Seniors October 19, 2013: <https://www.viitoriolimpici.ro/uploads/attach_data/60/20/13/2013solutions_stele.pdf>
 * 2013 QEDMO 13th or 12th: <https://artofproblemsolving.com/community/c2400093_2013_qedmo_13th_or_12th>
 * 2013 North Korea Team Selection Test: <https://artofproblemsolving.com/community/c217256_2013_north_korea_team_selection_test>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChicken2013_Questions.pdf>
+  * <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/examsolns/GreenChicken2013_Solutions.pdf>
 * 
 
 ## 2012:
@@ -1999,6 +2009,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://www.viitoriolimpici.ro/uploads/attach_data/116/19/1//1_comentariicalarasi2012.pdf>
 * Seniors IMAR Test 2012: <https://www.viitoriolimpici.ro/uploads/attach_data/65/22/36/comentariipanaitopol2012.pdf>
 * The 6th “STARS of MATHEMATICS” Competition – Juniors December 8, 2012: <https://www.viitoriolimpici.ro/uploads/attach_data/86/41/34//0_solutions_stelej.pdf>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChickenQs_2012ExamSolns.pdf>
 * 
 
 ## 2011:
@@ -2100,6 +2111,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2010 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3497_2010_iran_mo_3rd_round>
   * 2010 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5386_2010_iran_team_selection_test>
   * https://people.kth.se/~aghighi/resources/booklet2010.pdf
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/examsolns/GreenChickenQs_2010.pdf>
 * 
 
 ## 2009:
@@ -2134,6 +2146,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2009 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3530_2009_costa_rica__final_round>
 * 2009 QEDMO 6th: <https://artofproblemsolving.com/community/c2000892_2009_qedmo_6th>
 * 2009 India IMO Training Camp: <https://artofproblemsolving.com/community/c5003_2009_india_imo_training_camp>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChickenExam2009.pdf>
 * 
 
 ## 2008:
@@ -2164,6 +2177,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2008 Philippine MO: <https://artofproblemsolving.com/community/c4408_2008_philippine_mo>
 * 2008 Argentina Iberoamerican TST: <https://artofproblemsolving.com/community/c938333_2008_argentina_iberoamerican_tst>
 * 2008 Costa Rica - Final Round: <https://artofproblemsolving.com/community/c3529_2008_costa_rica__final_round>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/GreenChickenExamContest2008_Final.pdf>
 * 
 
 ## 2007:
@@ -2196,6 +2210,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2007-2008 SDML (Middle School): <https://artofproblemsolving.com/community/c312161_20072008_sdml_middle_school>
 * 2007 Estonia Math Open Senior Contests: <https://artofproblemsolving.com/community/c1090811_2007_estonia_math_open_senior_contests>
   * 2007 Estonia Math Open Junior Contests: <https://artofproblemsolving.com/community/c1090810_2007_estonia_math_open_junior_contests>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2007.pdf>
 * 
 
 ## 2006:
@@ -2228,6 +2243,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2006 Kazakhstan National Olympiad: <https://artofproblemsolving.com/community/c1459269_2006_kazakhstan_national_olympiad>
 * <https://www3.math.tu-berlin.de/TDM/TDM-2006/Ergebnisse.html>
   * <https://www3.math.tu-berlin.de/TDM/TDM-2006/Downloads/TDM-06-stufe11-13.pdf>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2006.pdf>
 * 
 
 ## 2005:
@@ -2267,6 +2283,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2005 Brazil Undergrad MO: <https://artofproblemsolving.com/community/c5128_2005_brazil_undergrad_mo>
 * 2005 Greece Team Selection Test: <https://artofproblemsolving.com/community/c274543_2005_greece_team_selection_test>
 * 2005 Today's Calculation Of Integral: <https://artofproblemsolving.com/community/c4025_2005_todays_calculation_of_integral>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2005.pdf>
 * 
 
 ## 2004:
@@ -2293,6 +2310,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2004 Regional Olympiad - Republic of Srpska: <https://artofproblemsolving.com/community/c732177_2004_regional_olympiad__republic_of_srpska>
 * 2004 Thailand Mathematical Olympiad: <https://artofproblemsolving.com/community/c1259178_2004_thailand_mathematical_olympiad>
 * (China) 2004 South East Mathematical Olympiad: <https://artofproblemsolving.com/community/c5243_2004_south_east_mathematical_olympiad>
+* GREEN CHICKEN COMPETITION, 2004: https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2004.pdf
 * 
 
 ## 2003:
@@ -2320,6 +2338,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2003 RMT Algebra Round: <https://artofproblemsolving.com/community/c562819_2003_rmt_algebra_round>
   * 2003 RMT Calculus Round: <https://artofproblemsolving.com/community/c565841_2003_rmt_calculus_round>
 * 2003 JHMMC 8: <https://artofproblemsolving.com/community/c906682_2003_jhmmc_8>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2003.pdf>
 * 
 
 ## 2002:
@@ -2346,6 +2365,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2002 Iran Team Selection Test: <https://artofproblemsolving.com/community/c5379_2002_iran_team_selection_test>
 * 2002 Indonesia MO: <https://artofproblemsolving.com/community/c3645_2002_indonesia_mo>
 * 2002 Olympic Revenge: <https://artofproblemsolving.com/community/c1134212_2002_olympic_revenge>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2002.pdf>
 * 
 
 ## 2001:
@@ -2366,6 +2386,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2001 Paraguay Mathematical Olympiad: <https://artofproblemsolving.com/community/c2469015_2001_paraguay_mathematical_olympiad>
 * 2001 Kettering HS MO: <https://artofproblemsolving.com/community/c3168260_2001_kettering_hs_mo>
   * Kettering MO: <https://artofproblemsolving.com/community/c3001668_kettering_mo>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2001soln.pdf>
 * 
 
 ## 2000:
@@ -2387,6 +2408,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 2000 Moldova National Olympiad: <https://artofproblemsolving.com/community/c1990481_2000_moldova_national_olympiad>
 * 2000 Pan African: <https://artofproblemsolving.com/community/c4513_2000_pan_african>
 * 2000 AMC 10: <https://artofproblemsolving.com/community/c4798_2000_amc_10>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam2000.pdf>
 * 
 
 ## 1999:
@@ -2407,6 +2429,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1999 CentroAmerican: <https://artofproblemsolving.com/community/c4555_1999_centroamerican>
 * 1999 China Second Round Olympiad: <https://artofproblemsolving.com/community/c925936_1999_china_second_round_olympiad>
 * 1999 Gauss: <https://artofproblemsolving.com/community/c4145_1999_gauss>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1999.pdf>
 * 
 
 ## 1998:
@@ -2426,6 +2449,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1998 Hong kong National Olympiad: <https://artofproblemsolving.com/community/c5405_1998_hong_kong_national_olympiad>
 * 1998 Mediterranean Mathematics Olympiad: <https://artofproblemsolving.com/community/c5254_1998_mediterranean_mathematics_olympiad>
 * 1998 Gauss: <https://artofproblemsolving.com/community/c416707_1998_gauss>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1998.pdf>
 * 
 
 ## 1997:
@@ -2445,6 +2469,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1997 Finnish National High School Mathematics Competition: <https://artofproblemsolving.com/community/c4244_1997_finnish_national_high_school_mathematics_competition>
 * 1997 Brazil Team Selection Test: <https://artofproblemsolving.com/community/c2001157_1997_brazil_team_selection_test>
 * 1997 Iran Pre-Preparation Course Examination: <https://artofproblemsolving.com/community/c5285_1997_prepreparation_course_examination>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1997.pdf>
 * 
 
 ## 1996:
@@ -2462,6 +2487,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * 2nd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662364_2nd_cabri_clubs_1996>
   * 3rd Cabri Clubs 1996: <https://artofproblemsolving.com/community/c2662866_3rd_cabri_clubs_1996>
 * 1996 Irish Math Olympiad: <https://artofproblemsolving.com/community/c583198_1996_irish_math_olympiad>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1996.pdf>
 * 
 
 ## 1995:
@@ -2478,6 +2504,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * May Olympiad L2 - geometry: <https://artofproblemsolving.com/community/c927071_may_olympiad_l2__geometry>
 * Estonia Open Junior - geometry: <https://artofproblemsolving.com/community/c1305640_estonia_open_junior__geometry>
 * 1995 Canada National Olympiad: <https://artofproblemsolving.com/community/c5040_1995_canada_national_olympiad>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1995.pdf>
 * 
 
 ## 1994:
@@ -2493,6 +2520,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1994 Argentina National Olympiad: <https://artofproblemsolving.com/community/c3828621_1994_argentina_national_olympiad>
 * 1994 Tuymaada Olympiad: <https://artofproblemsolving.com/community/c866132_1994_tuymaada_olympiad>
 * 1994 Portugal MO: <https://artofproblemsolving.com/community/c3833687_1994_portugal_mo>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1994.pdf>
 * 
 
 ## 1993:
@@ -2505,6 +2533,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1993 Iran MO (3rd Round): <https://artofproblemsolving.com/community/c3483_1993_iran_mo_3rd_round>
 * 1993 Turkey MO (2nd round): <https://artofproblemsolving.com/community/c5422_1993_turkey_mo_2nd_round>
 * Estonia Open Senior - geometry: <https://artofproblemsolving.com/community/c1305649_estonia_open_senior__geometry>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1993.pdf>
 * 
 
 ## 1992:
@@ -2513,6 +2542,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * 1992 Kurschak Competition: <https://artofproblemsolving.com/community/c103179_1992_kurschak_competition>
 * 1992 IMTS: <https://artofproblemsolving.com/community/c4629_1992_imts>
 * 1992 Taiwan National Olympiad: <https://artofproblemsolving.com/community/c5358_1992_taiwan_national_olympiad>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1992.pdf>
 * 
 
 ## 1991:
@@ -2523,6 +2553,7 @@ Awesome Mathematical Olympiads/Competitions/Contests
   * <https://artofproblemsolving.com/community/c1255473_denmark_mohr__geometry>
 * 1991 Kurschak Competition: <https://artofproblemsolving.com/community/c103180_1991_kurschak_competition>
 * 1991 IMTS: <https://artofproblemsolving.com/community/c4628_1991_imts>
+* <https://web.williams.edu/Mathematics/sjmiller/public_html/greenchicken/exams/gcexam1991.pdf>
 * 
 
 ## 1990:

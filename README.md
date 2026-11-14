@@ -804,6 +804,10 @@ Awesome Mathematical Olympiads/Competitions/Contests
 * <https://artofproblemsolving.com/community/c3294_finnish_national_high_school_mathematics_competition>
 * 
 
+## FINLAND TST (FROM 2025)
+* https://artofproblemsolving.com/community/c4813541_finland_imo_tst
+*
+
 ## IRAN PRE-PREPARATION COURSE EXAMINATION (FROM 1997):
 * <https://artofproblemsolving.com/community/c3320_prepreparation_course_examination>
 * 
